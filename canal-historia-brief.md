@@ -65,6 +65,7 @@ Estilo cinematográfico, intrigante y orientado a la viralidad y alta retención
 - **Idioma / acento:** español latino
 - **Tono:** cinematográfico, intrigante, elegante, emocional y profesional
 - **Duración estándar de los videos:** 20 a 25 minutos
+- **Duración de cada clip / escena visual:** 8 segundos (estándar fijo del canal)
 - **Lo que NO queremos:** tono escolar ni enciclopédico
 - **Lo que SÍ queremos:** que cada video se sienta como una *revelación histórica*
 
@@ -131,6 +132,7 @@ OBJETIVO:
 DURACIÓN Y LONGITUD:
 - video de [DURACIÓN] (estándar del canal: 20 a 25 minutos)
 - guion de [CANTIDAD DE PALABRAS] palabras aprox. (aprox. 3000–3750 para 20–25 min)
+- cada clip / escena visual dura 8 segundos (estándar fijo)
 - cada escena debe ser corta y avanzar la historia
 
 ENTREGA OBLIGATORIA:
@@ -148,7 +150,7 @@ Visual: [qué se ve exactamente]
 Tipo de recurso: [imagen / animación / reconstrucción / mapa / ruinas / detalle arqueológico / texto en pantalla]
 Plano o composición: [primer plano / plano general / vista aérea / travelling / detalle / contrapicado]
 Objetivo emocional o narrativo: [asombro / tensión / misterio / contraste / revelación / caída]
-Duración estimada: [4s / 6s / 8s / 10s]
+Duración estimada: 8s (estándar fijo del canal)
 Orden visual exacto: [Imagen 1 / Clip 2 / Transición 1 / etc.]
 
 PROMPT DE IMAGEN:

@@ -64,6 +64,7 @@ Estilo cinematográfico, intrigante y orientado a la viralidad y alta retención
 - **Nombre del canal:** Elara Historiadora
 - **Idioma / acento:** español latino
 - **Tono:** cinematográfico, intrigante, elegante, emocional y profesional
+- **Duración estándar de los videos:** 20 a 25 minutos
 - **Lo que NO queremos:** tono escolar ni enciclopédico
 - **Lo que SÍ queremos:** que cada video se sienta como una *revelación histórica*
 
@@ -128,8 +129,8 @@ OBJETIVO:
 - llevar al siguiente video o al comentario fijado
 
 DURACIÓN Y LONGITUD:
-- video de [DURACIÓN]
-- guion de [CANTIDAD DE PALABRAS] palabras aprox.
+- video de [DURACIÓN] (estándar del canal: 20 a 25 minutos)
+- guion de [CANTIDAD DE PALABRAS] palabras aprox. (aprox. 3000–3750 para 20–25 min)
 - cada escena debe ser corta y avanzar la historia
 
 ENTREGA OBLIGATORIA:

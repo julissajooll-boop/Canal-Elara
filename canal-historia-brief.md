@@ -186,3 +186,50 @@ REGLAS:
 5. **Acto 3: caída o verdad final**
 6. **Cierre poderoso** (frase memorable)
 7. **CTA final** (siguiente video o comentario fijado)
+
+
+---
+
+## GUÍA DE ESTILO VISUAL — Anclaje histórico (OBLIGATORIA en cada prompt)
+
+> Regla nacida de un problema real: cuando un prompt dice solo "soldados", "general",
+> "ejército" o "cañón", la IA tiende a generar **militares modernos/estadounidenses**.
+> Para evitarlo, TODO prompt (imagen o video) debe llevar anclaje + negativo.
+
+### 1. Prefijo de anclaje (al inicio de cada prompt)
+`Gran Muralla China, antigua China imperial histórica.`
+(Ajustar el lugar/época según el tema del video, pero SIEMPRE anclar país + época + "histórico".)
+
+### 2. Descripción fiel de la arquitectura (incluir en el cuerpo del prompt)
+- Muralla china de **piedra y ladrillo gris**
+- **Parapeto almenado dentado** (merlones) en la cima
+- **Troneras** estrechas para flechas
+- **Torres de vigilancia chinas (dilou)** de **tejado curvo**
+- Paisaje de **montañas del norte de China**
+
+### 3. Prompt NEGATIVO obligatorio (en el campo "negative" o al final del prompt)
+```
+sin militares modernos, sin soldados estadounidenses ni occidentales, sin uniformes
+contemporáneos ni camuflaje, sin bandera de Estados Unidos ni banderas modernas,
+sin cascos militares modernos, sin armas de fuego modernas (fusiles, ametralladoras,
+tanques, helicópteros, aviones), sin vehículos motorizados, sin edificios modernos ni
+rascacielos, sin ropa occidental, sin elementos anacrónicos, sin texto en inglés,
+sin logotipos, sin marcas de agua.
+```
+
+### 4. Refuerzo de términos ambiguos (siempre especificar origen chino)
+| En vez de… | Escribe… |
+|------------|----------|
+| soldados | **soldados chinos** (con armadura lamelar de la dinastía correspondiente) |
+| general | **general chino** (armadura y casco chinos antiguos) |
+| ejército / tropas | **ejército chino imperial** / **tropas chinas** |
+| cañón | **cañón de bronce chino antiguo** |
+| arqueros | **arqueros chinos** (arco recurvo, vestimenta de época) |
+| caballería | **caballería china antigua** (o **nómada de las estepas** / **manchú** según escena) |
+
+### 5. Recomendación de producción
+- Generar siempre con el **prompt negativo activado**.
+- Si un clip sale con estética moderna/occidental, **regenerar** reforzando: añadir
+  "dinastía Ming/Qin/Han" y "armadura lamelar china" al inicio del prompt.
+- La hoja `guiones/<tema>-prompts.md` y el `.csv` ya entregan los prompts BLINDADOS
+  con prefijo + arquitectura + negativo aplicados automáticamente.

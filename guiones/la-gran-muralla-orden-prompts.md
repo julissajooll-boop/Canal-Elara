@@ -822,6 +822,49 @@
 
 ---
 
+## 🎬 PROMPTS ESPECIALES "SIN TEXTO" — ubicación exacta
+
+Estos prompts viven en `la-gran-muralla-intro-cinematografica.md` y se insertan en estos
+puntos del timeline:
+
+### 1) INTRO CINEMATOGRÁFICA (Cold Open) — va AL PRINCIPIO DE TODO
+- **Posición:** antes del Clip 1 (segundo 0:00), como apertura del video.
+- **Duración:** 16 s (2 clips de 8 s: "El gigante dormido" + "La puerta que lo cambió todo").
+- **Narración que acompaña:** la misma de la ESCENA 1 y ESCENA 2 (el gancho).
+- **Dos formas de usarlo:**
+  - **Opción A (recomendada):** el cold open de 16 s **reemplaza** a los Clips 1–4 de la
+    Escena 1 (ambos cubren el mismo gancho y la misma narración). Quedaría:
+    `Cold Open A → Cold Open B → Clip 5 …`
+  - **Opción B:** el cold open va **antes** del Clip 1 como teaser, y luego arranca el
+    Clip 1 normal. (Suma ~16 s extra al inicio.)
+
+| Orden | Pieza | Tiempo | Narración | Reemplaza a |
+|-------|-------|--------|-----------|-------------|
+| 1 | Cold Open A — "El gigante dormido" | 0:00 | inicio Escena 1 | Clips 1–2 |
+| 2 | Cold Open B — "La puerta que lo cambió todo" | 0:08 | fin Escena 1 / inicio Escena 2 | Clips 3–4 |
+
+### 2) "LA AMENAZA DEL NORTE" (sin texto) — va en las ESCENAS 4–5
+- **Posición:** cubre el final de la **ESCENA 4** y el inicio de la **ESCENA 5**
+  (la narración "…una amenaza… las estepas heladas… Eran los pueblos nómadas del norte").
+- **Equivale a los Clips 15, 16 y 17** del timeline (de 1:52 a 2:24).
+- **Cómo encaja:**
+  - Si lo haces en **1 clip de 8 s** → sustituye al **Clip 15** (1:52) o al **Clip 16**.
+  - Si lo haces en **2 clips de 8 s** → sustituye a los **Clips 15 y 16** (1:52–2:08):
+    - Clip especial 1 (horizonte vacío, centinela tenso) → en lugar del **Clip 15**.
+    - Clip especial 2 (la horda aparece en el horizonte) → en lugar del **Clip 16**.
+  - El **Clip 17** (jinetes al galope, ya existente) sirve de continuación natural en la Escena 5.
+
+| Orden | Pieza | Tiempo | Narración | Reemplaza a |
+|-------|-------|--------|-----------|-------------|
+| — | Amenaza del Norte (clip 1: centinela + estepa vacía) | 1:52 | fin Escena 4 | Clip 15 |
+| — | Amenaza del Norte (clip 2: la horda emerge) | 2:00 | fin Escena 4 | Clip 16 |
+| — | (continúa) Clip 17 existente: jinetes al galope | 2:08 | inicio Escena 5 | — |
+
+> 💡 Regla práctica: cuando uses un prompt "sin texto", **elimina del montaje el/los clip(s)
+> que reemplaza** para no duplicar la misma idea visual y mantener el conteo de tiempo.
+
+---
+
 ## Cómo usar este mapa
 
 1. Genera cada clip con su prompt blindado de `la-gran-muralla-prompts.md` (mismo número de Clip).

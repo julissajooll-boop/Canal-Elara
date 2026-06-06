@@ -106,3 +106,60 @@ de luz. Niebla dorada, luz volumétrica, polvo flotando. Estilo fotorrealista hi
 calidad de película, 8K, color grading cálido-épico, gran detalle. Misterio y grandeza.
 ```
 (Aplicar el mismo prompt negativo.)
+
+
+
+---
+
+## 🎥 PROMPT VISUAL — "La amenaza del norte" (narrativa sin texto)
+**Cubre la narración:** *"…todos los reinos del norte compartían una misma pesadilla: una
+amenaza que no venía de sus vecinos, sino de las estepas heladas que se extendían más allá
+de sus fronteras. Eran los pueblos nómadas del norte."*
+**Duración sugerida:** 1 clip de 8 s (o 2 de 8 s si quieres más desarrollo).
+**Regla:** NADA de texto en pantalla; toda la idea se cuenta con imagen y atmósfera.
+
+### Prompt de video (Omni) — versión completa
+```
+Gran Muralla China, antigua China imperial histórica, escena cinematográfica sin texto.
+Atardecer gélido y gris sobre una estepa helada e infinita más allá de la frontera norte
+de China. En primer plano, sobre una muralla de tierra apisonada, la silueta de un
+centinela chino con armadura lamelar y lanza observa el horizonte, tenso e inquieto, su
+aliento se condensa en el aire frío. Plano sobre su hombro (over-the-shoulder) que mira
+hacia la inmensidad blanca y vacía de la estepa.
+
+Lentamente, en la línea lejana del horizonte, una larga fila de jinetes nómadas de las
+estepas comienza a aparecer entre la bruma y la nieve levantada por el viento: arqueros a
+caballo con pieles y gorros de fieltro, arcos recurvos, estandartes de crin de caballo.
+La silueta de la horda crece y se ensancha amenazante, todavía a distancia. El viento
+arrastra nieve fina por el encuadre. Cuervos alzan el vuelo. La luz es fría, azulada y
+sombría.
+
+Movimiento de cámara: travelling lento de empuje (push-in) desde la espalda del centinela
+hacia el horizonte, aumentando la sensación de amenaza inminente. Atmósfera de presagio,
+miedo silencioso y vulnerabilidad.
+
+Estilo: fotorrealismo histórico, calidad de película, 8K, color grading frío azul-gris,
+luz volumétrica del atardecer invernal, niebla y partículas de nieve, gran detalle en las
+pieles, la armadura lamelar y el aliento helado. Ritmo tenso y contemplativo.
+```
+- **Tipo de recurso:** reconstrucción IA
+- **Plano:** over-the-shoulder del centinela → push-in al horizonte
+- **Objetivo emocional:** amenaza, presagio, vulnerabilidad
+- **Sin texto en pantalla:** la idea se entiende solo por la mirada del centinela y la
+  horda que emerge del frío.
+
+### (Opcional) Si lo divides en 2 clips de 8 s
+- **Clip 1 (0–8 s):** el centinela chino solo en la muralla de tierra mirando la estepa
+  vacía y helada; tensión, viento, aliento condensado. (Push-in suave hacia el horizonte.)
+  - Prompt: usa el bloque de arriba pero termina ANTES de que aparezcan los jinetes
+    (horizonte aún vacío, sensación de espera inquietante).
+- **Clip 2 (8–16 s):** continuación, misma luz y encuadre; en el horizonte emerge y crece
+  la horda de jinetes nómadas entre la nieve. (La cámara sigue empujando hacia ellos.)
+  - Prompt: "Continuación de la toma anterior, misma estepa helada y mismo atardecer gris;
+    en el horizonte aparece y se ensancha una larga línea de jinetes nómadas de las estepas
+    (arqueros a caballo con pieles, arcos recurvos, estandartes de crin), nieve al viento,
+    cuervos alzando el vuelo, amenaza inminente." + mismo estilo + prompt negativo.
+
+> Aplicar el **PROMPT NEGATIVO OBLIGATORIO** (ver arriba) en todas las generaciones.
+> Refuerzo recomendado si algo sale moderno: añadir al inicio "siglo III a.C., nómadas
+> Xiongnu, sin elementos modernos ni occidentales".

@@ -163,3 +163,44 @@ pieles, la armadura lamelar y el aliento helado. Ritmo tenso y contemplativo.
 > Aplicar el **PROMPT NEGATIVO OBLIGATORIO** (ver arriba) en todas las generaciones.
 > Refuerzo recomendado si algo sale moderno: añadir al inicio "siglo III a.C., nómadas
 > Xiongnu, sin elementos modernos ni occidentales".
+
+
+
+---
+
+## 🎥 PROMPT VISUAL — "Tierra apisonada" (técnica hangtu, narrativa sin texto)
+**Cubre la narración:** *"…se levantaban dos tablas de madera, se rellenaba el hueco con
+tierra húmeda y se golpeaba, capa tras capa, hasta que esa tierra se compactaba y quedaba
+dura como la roca."*
+**Duración sugerida:** 1 clip de 8 s.
+**Ubicación en el guion:** ESCENA 7 (reemplaza/complementa los Clips 24–25).
+
+### Prompt de video (Omni) — versión completa
+```
+Gran Muralla China primitiva, antigua China imperial histórica, escena de construcción
+en detalle, sin texto. Plano de detalle cinematográfico de la técnica de tierra apisonada
+(hangtu): dos robustas tablas de madera paralelas forman un encofrado vertical; entre
+ellas, manos de obreros chinos con ropa de cáñamo de época vierten tierra húmeda de color
+ocre desde cestos de mimbre. Varios trabajadores levantan pesados pisones de madera y
+golpean rítmicamente la tierra, capa tras capa; con cada golpe salta una fina nube de
+polvo y la tierra se compacta y oscurece, volviéndose dura como roca. Se ven las capas
+horizontales bien marcadas acumulándose. Sudor, esfuerzo y polvo en suspensión bajo una
+luz cálida y rasante.
+
+Movimiento de cámara: travelling lateral lento que recorre el encofrado de abajo hacia
+arriba siguiendo el crecimiento de las capas, con leve cámara lenta en el momento del
+golpe del pisón. Atmósfera de labor titánica y artesanía ancestral.
+
+Estilo: fotorrealismo histórico, calidad de película, 8K, gran detalle en la textura de la
+tierra, la madera y el cáñamo, luz volumétrica con polvo dorado flotando, color grading
+cálido y terroso. Realismo absoluto.
+```
+- **Tipo de recurso:** detalle arqueológico / reconstrucción IA
+- **Plano:** detalle / travelling ascendente
+- **Objetivo emocional:** comprensión + esfuerzo ancestral
+- **Sin texto en pantalla:** el proceso se entiende solo por la acción (encofrado → tierra
+  húmeda → golpe del pisón → capas compactadas).
+
+> Aplicar el **PROMPT NEGATIVO OBLIGATORIO** (ver arriba) en la generación.
+> Refuerzo si algo sale moderno: añadir al inicio "siglo III a.C., herramientas manuales de
+> madera, sin maquinaria, sin elementos modernos ni occidentales".

@@ -204,3 +204,80 @@ cálido y terroso. Realismo absoluto.
 > Aplicar el **PROMPT NEGATIVO OBLIGATORIO** (ver arriba) en la generación.
 > Refuerzo si algo sale moderno: añadir al inicio "siglo III a.C., herramientas manuales de
 > madera, sin maquinaria, sin elementos modernos ni occidentales".
+
+
+
+---
+
+## 🎥 PROMPT VISUAL — "El secreto del arroz glutinoso" (argamasa Ming, sin texto)
+**Cubre la narración:** *"…una argamasa de cal reforzada con un ingrediente sorprendente:
+arroz glutinoso… El almidón de ese arroz pegajoso, mezclado con la cal, creaba una de las
+argamasas más resistentes y duraderas del mundo antiguo."*
+**Duración sugerida:** 1 clip de 8 s.
+**Ubicación en el guion:** ESCENA 30 (reemplaza/complementa los Clips 109–111).
+
+### Prompt de video (Omni) — versión completa
+```
+Gran Muralla China de la dinastía Ming, antigua China imperial histórica, escena de
+detalle de construcción, sin texto. Primerísimo plano cinematográfico: un cuenco de
+cerámica de época con arroz glutinoso blanco y pegajoso recién cocido, humeante. Manos de
+un obrero chino con ropa de época vierten el arroz cocido sobre cal blanca en una artesa
+de madera, y con una paleta mezclan ambos hasta formar una argamasa espesa, blanca y
+elástica que se estira pegajosa entre la herramienta. Hilos de almidón pegajoso se tensan
+al levantar la paleta. Luego, esa misma argamasa se extiende sobre un ladrillo gris Ming y
+otro ladrillo se asienta encima, presionando hasta que la mezcla rebosa por las juntas.
+
+Movimiento de cámara: macro deslizándose desde el cuenco de arroz humeante hasta la junta
+del ladrillo, con foco selectivo y leve cámara lenta en el momento en que el almidón se
+estira. Atmósfera de revelación de un secreto ancestral de ingeniería.
+
+Estilo: fotorrealismo histórico, calidad de película, 8K, gran detalle en la textura del
+arroz, la cal y el ladrillo, vapor y luz cálida lateral, color grading cálido. Realismo
+absoluto.
+```
+- **Tipo de recurso:** detalle arqueológico / reconstrucción IA
+- **Plano:** macro / foco selectivo
+- **Objetivo emocional:** asombro + revelación del secreto
+- **Sin texto en pantalla:** se entiende por la acción (arroz humeante → mezcla con cal →
+  argamasa pegajosa → junta del ladrillo).
+
+> Aplicar el PROMPT NEGATIVO OBLIGATORIO. Refuerzo si sale moderno: añadir al inicio
+> "dinastía Ming, herramientas manuales de madera y cerámica, sin utensilios modernos,
+> sin elementos occidentales".
+
+---
+
+## 🎥 PROMPT VISUAL — "Levantando la muralla de ladrillo" (obra Ming, sin texto)
+**Cubre la narración:** *"…sobre cimientos de enormes bloques de piedra tallada, los obreros
+levantaron millones y millones de ladrillos cocidos en hornos."*
+**Duración sugerida:** 1 clip de 8 s.
+**Ubicación en el guion:** ESCENA 29 (reemplaza/complementa los Clips 105–107).
+
+### Prompt de video (Omni) — versión completa
+```
+Gran Muralla China de la dinastía Ming en plena construcción, antigua China imperial
+histórica, escena de detalle, sin texto. Plano medio cinematográfico de una cadena humana
+de obreros chinos con ropa de cáñamo de época que se pasan de mano en mano ladrillos
+grises cocidos, subiéndolos por andamios de madera y bambú hacia lo alto de la muralla.
+En la base, enormes bloques de piedra tallada ya colocados como cimiento. Un maestro
+albañil asienta un ladrillo sobre argamasa blanca con una paleta, nivelándolo con un
+cordel. Al fondo, hornos de ladrillo humean y carretillas de madera transportan más
+material. Polvo, esfuerzo coordinado y movimiento por todas partes.
+
+Movimiento de cámara: travelling lateral que sigue el ladrillo pasando de mano en mano y
+asciende junto al andamio hasta revelar la altura imponente de la muralla en obra.
+Atmósfera de proeza de ingeniería colectiva.
+
+Estilo: fotorrealismo histórico, calidad de película, 8K, gran detalle en los ladrillos,
+la madera del andamio y el cáñamo, polvo dorado en suspensión, luz cálida rasante, color
+grading cálido y terroso. Realismo absoluto.
+```
+- **Tipo de recurso:** reconstrucción IA / detalle arqueológico
+- **Plano:** plano medio / travelling ascendente
+- **Objetivo emocional:** grandeza + esfuerzo colectivo
+- **Sin texto en pantalla:** se entiende por la acción (cimientos de piedra → cadena humana
+  de ladrillos → albañil asentando → andamios y hornos al fondo).
+
+> Aplicar el PROMPT NEGATIVO OBLIGATORIO. Refuerzo si sale moderno: añadir al inicio
+> "dinastía Ming, andamios de madera y bambú, herramientas manuales, sin maquinaria,
+> sin grúas modernas, sin elementos occidentales".

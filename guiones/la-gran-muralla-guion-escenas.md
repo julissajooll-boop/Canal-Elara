@@ -241,16 +241,16 @@
   - 🎨 Imagen: Meng Jiang asomada a la puerta de su casa mirando un camino vacío, hojas de otoño cayendo, ultrarrealista, melancólico.
   - 🎬 Video: Push-in lento a su rostro de espera mientras las hojas caen y la luz cambia de estación, melancólico, cinematográfico.
 - **Clip 52** · plano general · reconstrucción · *travesía*
-  - 🎨 Imagen: Meng Jiang caminando sola por un paisaje nevado con un fardo de ropa abrigada, inmensidad blanca, ultrarrealista.
-  - 🎬 Video: Vista amplia de la diminuta figura avanzando por la nieve interminable, viento, soledad, cinematográfico.
+  - 🎨 Imagen: Meng Jiang (joven china de la dinastía Qin, rostro delicado y triste, cabello negro recogido, túnica hanfu sencilla de color ocre con manto grueso) camina sola por un vasto paisaje nevado abrazando un fardo de ropa abrigada contra el pecho. Inmensidad blanca, montañas lejanas, huellas en la nieve detrás de ella. Cielo gris invernal, ultrarrealista, melancólico.
+  - 🎬 Video: Vista amplia y lenta de la diminuta figura de Meng Jiang avanzando con dificultad por la nieve interminable, viento helado agitando su manto y su cabello, copos cayendo, soledad absoluta, cinematográfico. (Usar imagen base de Meng Jiang para mantener el mismo rostro y vestuario.)
 
 ### ESCENA 15
 **Narración:** "Tras recorrer cientos de kilómetros, llegó por fin a la muralla. Pero lo que encontró le partió el alma: su esposo había muerto de agotamiento, y su cuerpo, como el de tantos otros, había sido enterrado dentro del propio muro. Meng Jiang cayó de rodillas y lloró. Lloró con un dolor tan inmenso que, dice la leyenda, un tramo entero de la muralla se derrumbó ante ella… dejando al descubierto los huesos de los caídos."
 **Duración:** ~32 s (4 clips)
 
 - **Clip 53** · plano general · reconstrucción · *llegada*
-  - 🎨 Imagen: Meng Jiang diminuta al pie de la imponente muralla gris bajo un cielo plomizo, ultrarrealista, sobrecogedor.
-  - 🎬 Video: La cámara se eleva mostrando la pequeñez de ella frente al muro inmenso, soledad, cinematográfico.
+  - 🎨 Imagen: Meng Jiang (misma joven china de la dinastía Qin, rostro delicado y agotado, cabello negro recogido, túnica hanfu ocre con manto grueso cubierto de nieve) de pie y diminuta al pie de la imponente Gran Muralla China de tierra y piedra gris que se pierde en la altura. Cielo plomizo y amenazante, viento, ultrarrealista, sobrecogedor.
+  - 🎬 Video: La cámara se eleva lentamente en contrapicado mostrando la pequeñez de Meng Jiang frente al muro colosal e infinito, su manto ondeando al viento, sensación de soledad y desolación, cinematográfico. (Usar imagen base de Meng Jiang para mantener el mismo rostro y vestuario.)
 - **Clip 54** · primer plano · reconstrucción · *dolor*
   - 🎨 Imagen: Meng Jiang de rodillas llorando con las manos en el suelo frente al muro, viento agitando su ropa, ultrarrealista, desgarrador.
   - 🎬 Video: Primer plano de su llanto, lágrimas cayendo, viento creciendo a su alrededor, emotivo, cinematográfico.

@@ -655,7 +655,7 @@
 | Tiempo | Clip | Plano | Recurso | Emoción | 🎙️ Empieza en el texto |
 |--------|------|-------|---------|---------|------------------------|
 | 18:00 | Clip 136 | plano general | reconstrucción | decadencia | Año 1644. |
-| 18:08 | Clip 137 | primer plano | reconstrucción | hambre | La dinastía Ming, aquella que construyó la muralla más poderosa de la historia, lleva décadas pudriéndose por dentro. |
+| 18:08 | Clip 137 | primer plano | reconstrucción | penuria | La dinastía Ming, aquella que construyó la muralla más poderosa de la historia, lleva décadas pudriéndose por dentro. |
 | 18:16 | Clip 138 | contrapicado | reconstrucción | rebelión | Corrupción, hambrunas, impuestos asfixiantes y revueltas por todas partes. El pueblo está desesperado. |
 | 18:24 | Clip 139 | plano general | reconstrucción | marcha | Y de ese descontento surge un líder rebelde que reúne un ejército inmenso de campesinos furiosos y marcha directamente hacia la capital. |
 

@@ -618,11 +618,11 @@
 **Duración:** ~32 s (4 clips)
 
 - **Clip 136** · plano general · reconstrucción · *decadencia*
-  - 🎨 Imagen: Calles de una ciudad Ming en decadencia, mendigos y hambre, contraste con palacios opulentos al fondo, ultrarrealista, sombrío.
-  - 🎬 Video: Travelling por las calles empobrecidas mientras al fondo brillan los palacios, contraste social, cinematográfico.
-- **Clip 137** · primer plano · reconstrucción · *hambre*
-  - 🎨 Imagen: Rostros demacrados de campesinos hambrientos mirando con desesperación, ultrarrealista, conmovedor.
-  - 🎬 Video: Paneo lento sobre los rostros del pueblo desesperado, miradas vacías, emotivo, cinematográfico.
+  - 🎨 Imagen: Calle de una ciudad de la dinastía Ming al atardecer mostrando señales de decadencia: faroles rotos, tejados agrietados, un mercado vacío y polvoriento con puestos cerrados y telas raídas ondeando, hojas secas arrastradas por el viento. Al fondo, un palacio opulento e iluminado contrasta con el abandono. Atmósfera melancólica y sombría, ultrarrealista, cinematográfico.
+  - 🎬 Video: Travelling lento por la calle desierta y descuidada mientras al fondo brillan los palacios intactos, contraste entre abandono y opulencia, hojas secas volando, tono melancólico, cinematográfico. (Sin personas en sufrimiento; la decadencia se cuenta con el entorno.)
+- **Clip 137** · primer plano · reconstrucción · *penuria*
+  - 🎨 Imagen: Primer plano de un cuenco de arroz vacío y agrietado sostenido por manos cansadas de un campesino chino de época, junto a un saco de grano caído y vacío en el suelo de tierra. Luz tenue del atardecer, atmósfera de escasez y penuria, ultrarrealista, conmovedor pero sobrio.
+  - 🎬 Video: Push-in lento al cuenco vacío en las manos temblorosas, una última semilla rodando, tono emotivo y sobrio, cinematográfico. (La penuria se sugiere con objetos, no con personas sufriendo.)
 - **Clip 138** · contrapicado · reconstrucción · *rebelión*
   - 🎨 Imagen: Líder rebelde alzando una espada ante una multitud de campesinos armados con herramientas, antorchas, ultrarrealista, épico.
   - 🎬 Video: Contrapicado del líder rebelde arengando a la multitud que alza armas, fervor y furia, cinematográfico.

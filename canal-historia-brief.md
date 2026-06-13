@@ -233,3 +233,35 @@ sin logotipos, sin marcas de agua.
   "dinastía Ming/Qin/Han" y "armadura lamelar china" al inicio del prompt.
 - La hoja `guiones/<tema>-prompts.md` y el `.csv` ya entregan los prompts BLINDADOS
   con prefijo + arquitectura + negativo aplicados automáticamente.
+
+
+
+---
+
+## CÓMO EVITAR BLOQUEOS POR POLÍTICAS DE CONTENIDO (Flow / Veo / etc.)
+
+> Los generadores de IA bloquean prompts que describen sufrimiento humano explícito,
+> violencia, muerte o miseria, aunque sean históricos. Solución: contar la idea con
+> SÍMBOLOS y ENTORNO en lugar de mostrar el sufrimiento directo.
+
+### Temas que suelen disparar el filtro
+- Hambre, hambruna, mendigos, "rostros demacrados", desesperación
+- Muerte, cadáveres, sangre, heridas, ejecuciones, suicidio
+- Violencia explícita, tortura, esclavitud con sufrimiento visible
+- Niños en peligro
+
+### Técnica de reemplazo (mostrar sin mostrar)
+| En vez de… | Muestra… |
+|------------|----------|
+| Mendigos y rostros hambrientos | Cuenco de arroz vacío, saco de grano caído, mercado desierto |
+| Muerte / cadáveres | Una túnica vacía, un casco en el suelo, sombras, un árbol solitario |
+| Batalla sangrienta | Polvo, estandartes cayendo, siluetas a contraluz, armas abandonadas |
+| Sufrimiento de obreros | Manos cansadas sobre la piedra, herramientas, fila de sombras al anochecer |
+| Suicidio del emperador | Colina solitaria, túnica imperial colgando, plano respetuoso y sobrio |
+
+### Reglas de oro
+1. **Objetos y entorno** en lugar de cuerpos sufrientes.
+2. **Sugerir, no mostrar**: contraluz, sombras, símbolos, "fuera de plano".
+3. Añadir al prompt: "sobrio, respetuoso, sin violencia gráfica, sin gore".
+4. Si un clip se bloquea, **suaviza el lenguaje** (quita "hambrientos", "demacrados",
+   "muertos", "sangre") y describe la emoción con la luz y la composición.

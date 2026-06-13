@@ -79,3 +79,70 @@ sin elementos anacrónicos, sin texto, sin marcas de agua, sin manos deformes.]
 - [ ] ¿Mismo estilo y época en todos los prompts? → sí.
 - [ ] ¿Pegaste el prompt negativo? → siempre.
 - [ ] ¿Continuidad entre clips? → usa el último fotograma como base del siguiente.
+
+
+
+---
+
+## 🎙️ FICHA DE PERSONAJE — ELARA (presentadora del canal)
+
+> Elara es la anfitriona recurrente del canal. Su imagen debe ser SIEMPRE la misma en todos
+> los videos. Genera UNA imagen base con la ficha y reutilízala (image-to-video) cada vez
+> que aparezca. Aparece en la ESCENA 2 (Clip 7): *"Soy Elara, y hoy vamos a recorrerla de
+> principio a fin. Quédate hasta el final…"*
+
+### Concepto de look (por qué engancha)
+- **Exploradora-historiadora elegante**, estilo documental cinematográfico premium.
+- Mezcla de **aventurera culta** (tipo expedición arqueológica) con sofisticación.
+- Presente en el lugar: aparece **sobre la Gran Muralla**, lo que conecta visualmente
+  con el tema y da sensación de autoridad y cercanía.
+
+### Vestuario y accesorios (especificación fija)
+- **Abrigo / gabardina larga** color camel o tierra, elegante, ligeramente movida por el viento.
+- Debajo, **suéter de punto fino** color crema o marfil.
+- **Bufanda de seda** sutil en tonos cálidos (ocre/borgoña).
+- **Pantalón sastre** y **botas de cuero** marrón (estética exploradora chic).
+- Accesorios: **reloj clásico** de cuero, un **cuaderno de cuero** o mapa enrollado en la mano
+  (opcional), pendientes discretos. Nada moderno llamativo, sin logos.
+- **Cabello** suelto o semirrecogido, movido levemente por la brisa.
+- Maquillaje natural, mirada cálida e inteligente, sonrisa segura.
+
+### Prompt de IMAGEN BASE (Elara)
+```
+Retrato de cuerpo entero de Elara, presentadora documental: mujer latina de unos 30 años,
+rostro expresivo y cálido, piel trigueña, ojos marrones inteligentes, cabello castaño ondulado
+suelto movido por la brisa, sonrisa segura y cercana. Viste una gabardina larga elegante color
+camel ondeando ligeramente al viento, suéter de punto fino color marfil debajo, bufanda de seda
+en tonos ocre, pantalón sastre y botas de cuero marrón. Accesorios: reloj clásico de cuero,
+pendientes discretos. Está de pie sobre la Gran Muralla China, con la muralla serpenteando entre
+montañas brumosas al fondo, luz dorada del atardecer. Estilo: fotorrealismo cinematográfico, look
+documental premium, 8K, profundidad de campo, iluminación cálida y favorecedora, gran detalle.
+[NEGATIVO: sin ropa anacrónica llamativa, sin logotipos ni marcas, sin texto, sin gafas de sol,
+sin elementos modernos fuera de lugar (autos, móviles), sin rasgos deformes, sin manos deformes,
+sin marcas de agua.]
+```
+
+### 🎥 PROMPT DE VIDEO — Presentación de Elara (Clip 7, ~8 s)
+**Narración (lo que dice):** *"Soy Elara, y hoy vamos a recorrerla de principio a fin.
+Quédate hasta el final…"*
+```
+Usar la imagen base de Elara. Elara de pie sobre la Gran Muralla China al atardecer dorado, la
+muralla serpenteando entre montañas brumosas detrás de ella. Mira directamente a cámara con una
+sonrisa cálida y segura mientras habla al espectador; su gabardina camel y su cabello se mueven
+suavemente con la brisa. Travelling lento de acercamiento (push-in) desde plano general a plano
+medio, con ligero movimiento orbital que revela la inmensidad de la muralla a su espalda. Luz
+dorada cinematográfica, partículas de polvo flotando, profundidad de campo. Atmósfera elegante,
+intrigante y envolvente que invita a quedarse.
+
+Estilo: fotorrealismo cinematográfico, look documental premium, 8K, color grading cálido,
+movimiento de cámara suave y continuo, realismo absoluto.
+```
+- **Tipo de recurso:** reconstrucción IA con presentadora (image-to-video)
+- **Plano:** plano general -> plano medio (push-in con leve órbita)
+- **Objetivo emocional:** cercanía + autoridad + enganche (promesa de viaje)
+- **Continuidad:** usar SIEMPRE la misma imagen base de Elara en todos sus clips.
+
+> Aplicar el PROMPT NEGATIVO. Si el lip-sync lo hace tu herramienta de voz (no Flow), genera
+> el clip con la boca hablando de forma natural y sincroniza la voz en off en edición.
+> Tip de enganche: que Elara aparezca DESPUÉS del cold open (la puerta abriéndose), para que
+> su entrada se sienta como "tu guía aparece para llevarte adentro de la historia".

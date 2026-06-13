@@ -146,3 +146,97 @@ movimiento de cámara suave y continuo, realismo absoluto.
 > el clip con la boca hablando de forma natural y sincroniza la voz en off en edición.
 > Tip de enganche: que Elara aparezca DESPUÉS del cold open (la puerta abriéndose), para que
 > su entrada se sienta como "tu guía aparece para llevarte adentro de la historia".
+
+
+
+---
+
+## 👑 FICHA DE PERSONAJE — QIN SHI HUANG (el Primer Emperador)
+
+> Aparece en la ESCENA 9 (Clips 33–34), ESCENA 10 (Clip 35–37) y ESCENA 17 (Clip 60, anciano
+> con los elíxires). Genera UNA imagen base y reutilízala. Para el Clip 60 (vejez), genera una
+> variante "anciano" partiendo de la misma cara.
+
+### Concepto
+- Primer emperador de China (dinastía Qin, 221 a.C.). **Brillante, paranoico y despiadado.**
+- Imagen de **poder absoluto**: severo, imponente, mirada calculadora.
+
+### Vestuario y accesorios (fijos)
+- **Túnica imperial Qin negra con bordados dorados** de dragones (los Qin adoptaron el negro).
+- **Corona imperial china (mianguan)**: tocado plano con hileras de cuentas colgantes
+  (cortinas de jade) al frente.
+- Cinturón de jade, mangas anchas, posible cetro o espada ceremonial.
+- Barba y bigote finos y cuidados, cabello recogido bajo la corona.
+
+### Prompt de IMAGEN BASE (Qin Shi Huang)
+```
+Retrato de Qin Shi Huang, primer emperador de China (dinastía Qin, siglo III a.C.), hombre de
+unos 45 años, rostro severo y anguloso, mirada intensa y calculadora, barba y bigote finos
+cuidados. Viste una majestuosa túnica imperial negra con bordados dorados de dragones y mangas
+anchas, cinturón de jade, y una corona imperial china mianguan (tocado plano con hileras de
+cuentas de jade colgando al frente). Sentado erguido en un trono imperial de madera lacada en
+un salón sombrío iluminado por antorchas, estandartes negros del estado Qin al fondo. Estilo:
+fotorrealismo histórico chino, 8K, iluminación de claroscuro dramático, gran detalle, poder
+absoluto.
+[NEGATIVO: sin militares modernos, sin ropa occidental, sin elementos anacrónicos, sin rasgos
+no asiáticos, sin texto, sin logotipos, sin marcas de agua, sin manos deformes.]
+```
+
+### Variante para Clip 60 (anciano, obsesión por la inmortalidad)
+```
+…misma cara de Qin Shi Huang pero más anciano y demacrado, cabello y barba grises, ojos febriles
+y obsesivos, observando a la luz de las velas frascos de elíxires alquímicos en una cámara
+sombría. Resto igual (túnica negra y dorada). Fotorrealismo histórico chino, claroscuro, 8K.
+```
+
+### Clips donde usar la imagen base
+- **Clip 33:** base + "levantándose del trono, contrapicado, antorchas, estandartes negros".
+- **Clip 34:** base + "primer plano del rostro, ojos calculadores, push-in lento".
+- **Clip 35:** base + "de pie en una terraza mirando las montañas del norte al amanecer".
+- **Clip 37:** base + "entregando un pergamino imperial al general Meng Tian" (2 personajes).
+- **Clip 60:** usar la variante anciano con los elíxires.
+
+---
+
+## ⚔️ FICHA DE PERSONAJE — GENERAL WU SANGUI
+
+> Aparece en la ESCENA 39 (Clips 146–147), ESCENA 40 (Clips 150–151), ESCENA 41 (Clips 152–155)
+> y ESCENA 50 (Clip 190, en la pregunta del CTA). Es el personaje del CLÍMAX (la traición).
+> Genera UNA imagen base y reutilízala en todos sus clips.
+
+### Concepto
+- General Ming del siglo XVII, guardián del paso de Shanhaiguan. **Atrapado en un dilema imposible.**
+- Imagen de **autoridad atormentada**: fuerte pero con conflicto interior visible.
+
+### Vestuario y accesorios (fijos)
+- **Armadura de general Ming**: armadura lamelar/de placas con escamas metálicas, hombreras
+  decoradas, sobreveste (tabardo) en tonos rojo oscuro y dorado.
+- **Casco de general Ming** con penacho rojo de crin y adornos metálicos.
+- Capa o manto que ondea al viento, espada china (jian/dao) al cinto.
+- Rostro firme, barba corta, mirada intensa y conflictuada.
+
+### Prompt de IMAGEN BASE (Wu Sangui)
+```
+Retrato de cuerpo entero del general chino Wu Sangui (dinastía Ming, siglo XVII), hombre de unos
+40 años, rostro firme y curtido, barba corta, mirada intensa y atormentada. Viste una imponente
+armadura de general Ming: armadura lamelar de placas con escamas metálicas, hombreras decoradas,
+sobreveste rojo oscuro con bordados dorados, y un casco de general Ming con penacho de crin roja
+y adornos metálicos. Una capa ondea al viento; lleva una espada china al cinto. Está de pie en lo
+alto de la fortaleza de Shanhaiguan, la Gran Muralla descendiendo hacia el mar al fondo, cielo
+tormentoso. Estilo: fotorrealismo histórico chino, 8K, iluminación cinematográfica dramática,
+gran detalle en el metal y la tela, atmósfera tensa.
+[NEGATIVO: sin militares modernos, sin uniformes occidentales, sin armas de fuego modernas, sin
+elementos anacrónicos, sin rasgos no asiáticos, sin texto, sin logotipos, sin marcas de agua,
+sin manos deformes.]
+```
+
+### Clips donde usar la imagen base
+- **Clip 146:** base + "de pie en lo alto de la fortaleza mirando el horizonte, capa al viento".
+- **Clip 147:** base + "primer plano del rostro firme pero atormentado, push-in lento".
+- **Clip 150:** base + "vista cenital, solo en la muralla entre dos ejércitos" (plano amplio).
+- **Clip 152:** base + "rostro debatiéndose, mirando al norte y al sur, tomando su decisión".
+- **Clip 153:** base + "frente a un comandante manchú sellando un pacto" (2 personajes).
+- **Clip 190 (CTA):** base + "silueta dividida entre luz y sombra, simbolizando la duda moral".
+
+> 💡 Para los clips con 2 personajes (37, 153), genera primero las dos imágenes base por separado
+> y, si tu herramienta lo permite, combínalas; o genera una imagen nueva con ambos descritos juntos.

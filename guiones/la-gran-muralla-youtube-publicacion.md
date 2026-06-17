@@ -116,3 +116,70 @@ historia visual, mundos perdidos, grandes construcciones, historia para curiosos
 
 > En YouTube: pega en el campo de etiquetas. Mantén las más relevantes al inicio.
 > No abuses (10–20 etiquetas bien elegidas rinden mejor que 50 genéricas).
+
+
+
+---
+
+## 🖼️🆚 MINIATURA — VARIANTE B (para A/B testing)
+
+> Concepto OPUESTO a la Variante A, para que el test A/B sea significativo.
+> Variante A = póster de paisaje épico (la muralla y la puerta).
+> Variante B = **PRIMER PLANO HUMANO + EMOCIÓN + CONTRASTE** (los rostros venden más clics).
+
+### Por qué este enfoque distinto
+- En YouTube, los **rostros humanos grandes con emoción intensa** suelen superar a los
+  paisajes en CTR (capturan la mirada al instante).
+- Añadimos un recurso de **contraste visual dividido** (split) que genera intriga inmediata.
+
+### Concepto creativo (innovador)
+- **Composición dividida en diagonal (split screen):**
+  - A un lado: el **rostro del general chino** en primer plano, expresión de conflicto y
+    culpa, mirando de reojo (tensión moral).
+  - Al otro lado: la **caballería irrumpiendo por la puerta abierta** de la muralla (caos).
+- Una **grieta de luz dorada** divide ambos mundos por el centro.
+- Sensación: "este hombre tomó una decisión… y mira lo que provocó".
+
+### Prompt para GENERAR la imagen base (IA)
+```
+Miniatura cinematográfica de YouTube, alto impacto, composición dividida en diagonal. A la
+izquierda: primer plano dramático del rostro de un general chino de la dinastía Ming (siglo
+XVII) con armadura y casco, expresión intensa de conflicto y culpa, mirada tensa de reojo,
+iluminación de claroscuro, sudor, gran detalle en la piel y el metal. A la derecha: la Gran
+Muralla China histórica con una puerta-fortaleza abierta por la que irrumpe caballería antigua
+entre polvo y estandartes, cielo rojo dramático. Una grieta de luz dorada separa ambos lados.
+Fotorrealismo cinematográfico, 8K, altísimo contraste, colores vibrantes (rojo, dorado, negro),
+estilo póster de Hollywood.
+[NEGATIVO: sin militares modernos, sin soldados estadounidenses, sin uniformes occidentales,
+sin armas de fuego modernas, sin texto, sin logotipos, sin marcas de agua, sin rasgos no
+asiáticos, sin elementos anacrónicos, sin manos deformes, sin rostros distorsionados.]
+```
+> Genera SIN texto; el texto se añade en CapCut/Canva.
+
+### Texto sobre la miniatura (corto y potente)
+- Principal: **"¿HÉROE O TRAIDOR?"** (pregunta = engancha, invita a opinar)
+- Alternativa: **"ÉL ABRIÓ LA PUERTA"**
+
+### Estilo del texto
+- Fuente: **Cinzel / Trajan** mayúsculas.
+- "TRAIDOR" o palabra clave en **rojo intenso** o dorado, resto en blanco.
+- Borde negro grueso + glow. Colócalo sin tapar el rostro ni la puerta.
+
+### Diferencias clave A vs B (para que el test sea válido)
+| | Variante A | Variante B |
+|--|-----------|-----------|
+| Foco | Paisaje épico (muralla + puerta) | Rostro humano + emoción |
+| Texto | "UNA PUERTA" | "¿HÉROE O TRAIDOR?" |
+| Gancho | Curiosidad ("¿qué puerta?") | Dilema moral + cara |
+| Color | Atardecer dorado | Rojo/dorado alto contraste |
+
+### Cumple reglas de YouTube
+- [ ] 1280×720, 16:9, < 2 MB, JPG/PNG
+- [ ] Legible en móvil (texto corto, rostro grande)
+- [ ] Sin violencia gráfica explícita (caballería sugerida, sin sangre)
+- [ ] Sin clickbait falso (la pregunta refleja el dilema real del video)
+
+### Cómo hacer el A/B test en YouTube
+- Usa **"Probar y comparar" (Test & Compare)** en YouTube Studio: sube Variante A y B
+  (puedes añadir hasta 3). YouTube reparte el tráfico y elige la de mayor retención/CTR.
+- Mantén el MISMO título en ambas para que solo se mida el efecto de la miniatura.

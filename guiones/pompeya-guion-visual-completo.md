@@ -34,7 +34,7 @@
 - IMG: reloj de sol romano proyectando sombra en una pared de mármol. (zoom-in dramático)
 - IMG: texto en pantalla "FALTAN 18 HORAS" sobre el volcán difuminado, tipografía romana. (fijo con leve zoom)
 - CLIP: contrapicado lento hacia la cima serena del Vesubio, vapor casi imperceptible, tensión latente.
-- CLIP: (Elara, imagen base) Elara en una colina con Pompeya y el Vesubio detrás, mira a cámara y habla, push-in suave.
+- **CLIP (ELARA — clip clave 1/3):** usar imagen base de Elara, de pie en una colina con Pompeya viva y el Vesubio detrás, vestida con su gabardina camel, luz dorada; mira a cámara y presenta el video ("Soy Elara, y hoy vamos a vivir, hora a hora, las últimas 24 horas de Pompeya"). Push-in suave de plano general a plano medio. (Sincronizar voz en off en edición.)
 
 ---
 
@@ -190,7 +190,7 @@
 - IMG: caminos despejados alejándose de la montaña. (zoom-out)
 - IMG: lluvia de piedra pómez ligera y blanca cayendo suave. (zoom-in)
 - CLIP: travelling siguiendo a familias que huyen por el camino mientras cae ceniza ligera, urgencia.
-- CLIP: plano de un grupo alejándose con éxito hacia el horizonte, supervivencia.
+- **CLIP (ELARA — clip clave 2/3):** usar imagen base de Elara, de pie en una calle de Pompeya con ceniza cayendo suavemente a su alrededor y la gente huyendo difuminada al fondo; mira a cámara con gesto grave y dice la revelación ("en este momento, todavía podían salvarse"). Push-in lento e íntimo, la ceniza flotando, atmósfera de advertencia. (Sincronizar voz en off de Elara en edición.)
 
 ### N24 · "Los arqueólogos creen que gran parte de los 20.000 logró huir… pero otros, varios miles, decidieron quedarse…"
 - IMG: multitud saliendo en masa por la puerta de Herculano/Pompeya. (paneo)
@@ -377,7 +377,7 @@
 - IMG: (Elara, imagen base) Elara entre las ruinas al atardecer, mirada reflexiva. (zoom-in suave)
 - IMG: texto en pantalla "¿Habrías huido… o te habrías quedado?" sobre las ruinas. (fijo, leve zoom)
 - IMG: nombre del canal "ELARA HISTORIADORA" con el Vesubio al fondo. (zoom-out)
-- CLIP: (Elara, imagen base) Elara mira a cámara y pronuncia el CTA, push-in suave, ruinas detrás.
+- **CLIP (ELARA — clip clave 3/3):** usar imagen base de Elara entre las ruinas de Pompeya al atardecer, mirada reflexiva; mira a cámara y pronuncia el CTA ("¿habrías huido… o te habrías quedado? Suscríbete a Elara Historiadora"). Push-in suave, ruinas y Vesubio detrás, emotivo. (Sincronizar voz en off en edición.)
 - CLIP: vuelo de dron final alejándose de Pompeya hacia el horizonte, promesa del próximo viaje.
 
 ---
@@ -388,6 +388,10 @@
 - **Clips de video:** 48 × 2 = **96 clips** de 8 s.
 - **Material visual total:** (144 × 3 s) + (96 × 8 s) = 432 s + 768 s = **1.200 s = 20 min** ✅
 - **Cobertura:** 100% de la narración (~3.010 palabras / ~20 min).
-- **Personaje recurrente:** Elara (imagen base) en N2, N48.
+- **Personaje recurrente — ELARA en 3 clips clave:**
+  - **Clip clave 1/3 → N2 (apertura):** presenta el canal y promete el viaje.
+  - **Clip clave 2/3 → N23 (la revelación):** "todavía podían salvarse" — el giro emocional del video.
+  - **Clip clave 3/3 → N48 (cierre + CTA):** despedida, pregunta a la audiencia y suscripción.
+  - Usar SIEMPRE la imagen base de Elara (ver `guia-imagenes-base.md`) para consistencia.
 - **Ritmo:** acelerar imágenes (1.5–2 s) en N18–N34 (erupción/oleada); alargar (3–4 s) en N39–N47 (moldes/cierre).
 - **Sensibilidad:** moldes y muertes SIEMPRE sobrios y respetuosos, sin gore (guía anti-bloqueo del brief).

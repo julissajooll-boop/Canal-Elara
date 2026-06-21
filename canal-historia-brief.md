@@ -265,3 +265,30 @@ sin logotipos, sin marcas de agua.
 3. Añadir al prompt: "sobrio, respetuoso, sin violencia gráfica, sin gore".
 4. Si un clip se bloquea, **suaviza el lenguaje** (quita "hambrientos", "demacrados",
    "muertos", "sangre") y describe la emoción con la luz y la composición.
+
+
+
+---
+
+## RITMO DINÁMICO — IMÁGENES + VIDEO (estándar del canal)
+
+> Para que los videos sean dinámicos y entretenidos, NO todo es video animado. Se intercalan
+> imágenes fijas con movimiento (efecto Ken Burns) entre los clips de video.
+
+### Patrón base por escena
+```
+🖼️ Imagen A (2-3 s, zoom-in)  →  🖼️ Imagen B (2-3 s, paneo)  →
+🖼️ Imagen C (2-3 s, zoom-out) →  🎬 Clip de video animado (8 s)
+```
+- **3 imágenes antes de cada clip de video** (ajustable según el ritmo deseado).
+- Imágenes = contexto + belleza + variedad; video = el "momento vivo".
+- Efecto Ken Burns: animar escala 100% → 110% con keyframes en el editor.
+
+### Regla de ritmo emocional
+- Escenas de TENSIÓN/acción → imágenes cortas (1.5–2 s), corte rápido.
+- Escenas EMOTIVAS/contemplativas → imágenes largas (3–4 s), respiración.
+
+### Por qué funciona
+- Más dinamismo y retención; menos costo (las imágenes son más rápidas/baratas que el video).
+- Permite alcanzar 20–25 min con gran variedad visual.
+- Cada tema lleva su archivo `*-imagenes-base.md` con los prompts de las imágenes por escena.

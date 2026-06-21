@@ -1,6 +1,6 @@
 # POMPEYA — LAS ÚLTIMAS 24 HORAS
 **Canal:** Elara Historiadora · **Idioma:** español latino
-**Duración objetivo:** 20–25 min · **Narración:** ~3.200 palabras
+**Duración objetivo:** 20–25 min · **Narración:** ~3.010 palabras (≈20 min) — ver `pompeya-ultimas-24-horas-narracion.docx`
 **Formato:** cuenta regresiva hora a hora (estructura de thriller histórico)
 **Estándar de clip:** 8 segundos · **Reconstrucción con IA**
 

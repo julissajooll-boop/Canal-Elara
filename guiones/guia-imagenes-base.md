@@ -240,3 +240,37 @@ sin manos deformes.]
 
 > 💡 Para los clips con 2 personajes (37, 153), genera primero las dos imágenes base por separado
 > y, si tu herramienta lo permite, combínalas; o genera una imagen nueva con ambos descritos juntos.
+
+
+
+---
+
+## 🎙️ ELARA — VESTUARIO PARA POMPEYA (variante por video)
+
+> Elara mantiene su esencia "exploradora-historiadora elegante", pero adapta la paleta a
+> cada tema. Para Pompeya: tonos cálidos mediterráneos (terracota, crema, ocre) que conectan
+> con la tierra, la ceniza volcánica y los frescos rojos pompeyanos.
+
+### Vestuario y accesorios (Pompeya)
+- **Blusa de lino color marfil/crema**, fresca, mangas ligeramente arremangadas (clima cálido).
+- **Chaqueta de lino o gabardina ligera color terracota/arena**, abierta.
+- **Pantalón sastre beige o caqui** y **botines de cuero marrón claro** (campo arqueológico chic).
+- **Pañuelo de seda en tonos ocre/rojo pompeyano** (guiño a los frescos de Pompeya).
+- Accesorios: reloj de cuero, pendientes discretos, cuaderno de campo de cuero.
+- Cabello suelto o semirrecogido, movido por la brisa; maquillaje natural, mirada cálida.
+
+### Prompt de IMAGEN BASE (Elara en Pompeya)
+```
+Retrato de cuerpo entero de Elara, presentadora documental: mujer latina de unos 30 años,
+rostro expresivo y cálido, piel trigueña, ojos marrones, cabello castaño ondulado movido por
+la brisa, sonrisa serena e inteligente. Viste una blusa de lino color marfil con mangas
+arremangadas, una chaqueta ligera de lino color terracota abierta, pantalón sastre beige y
+botines de cuero marrón claro. Lleva un pañuelo de seda en tonos ocre y rojo pompeyano, reloj
+de cuero y un cuaderno de campo. Está de pie entre las ruinas de Pompeya con el Monte Vesubio
+al fondo, luz dorada del atardecer mediterráneo. Estilo: fotorrealismo cinematográfico, look
+documental premium, 8K, profundidad de campo, iluminación cálida favorecedora, gran detalle.
+[NEGATIVO: sin ropa anacrónica llamativa, sin logotipos ni marcas, sin texto, sin gafas de sol,
+sin elementos modernos fuera de lugar, sin rasgos ni manos deformes, sin marcas de agua.]
+```
+> Usar esta imagen base en los 3 clips clave de Elara: N2 (apertura), N23 (revelación), N48 (cierre).
+> Mantener el MISMO rostro de Elara que en los demás videos del canal (solo cambia el vestuario).

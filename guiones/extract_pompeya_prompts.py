@@ -121,27 +121,35 @@ md.append(NEGATIVE)
 md.append("```")
 md.append("")
 md.append("---\n")
-md.append("## Tabla completa (orden de montaje)\n")
-md.append("| # | Tipo | Bloque | Mov. | Prompt (blindado) |")
-md.append("|---|------|--------|------|-------------------|")
+md.append("## 📋 PROMPTS EN ORDEN DE MONTAJE\n")
+md.append("> Cada prompt está en su propio bloque para que se vea COMPLETO y puedas copiarlo "
+          "de un clic. El número (#) es el orden de montaje. Pega siempre el prompt negativo aparte.\n")
 for i, r in enumerate(rows, 1):
-    md.append("| %d | %s | %s | %s | %s |" % (
-        i, r["tipo"], r["bloque"], esc(r["mov"]), esc(r["prompt"])))
+    etiqueta = "🖼️ IMAGEN" if r["tipo"] == "IMG" else (
+        "🎬 VIDEO (ELARA)" if r["tipo"] == "CLIP-ELARA" else "🎬 VIDEO")
+    md.append("")
+    md.append("### #%d · %s · Bloque %s · *%s*" % (i, etiqueta, r["bloque"], r["mov"]))
+    md.append("```")
+    md.append(r["prompt"])
+    md.append("```")
 
 md.append("")
 md.append("---\n")
-md.append("## Solo prompts de IMAGEN (%d, uno por línea)\n" % len(imgs))
-md.append("```")
-for r in imgs:
-    md.append("[%s] %s" % (r["bloque"], r["prompt"]))
-md.append("```")
+md.append("## 📑 APÉNDICE — Listas rápidas (copiar en lote)\n")
+md.append("### Solo prompts de IMAGEN (%d)\n" % len(imgs))
+for idx, r in enumerate(imgs, 1):
+    md.append("**IMG %d [%s]**" % (idx, r["bloque"]))
+    md.append("```")
+    md.append(r["prompt"])
+    md.append("```")
 md.append("")
-md.append("## Solo prompts de VIDEO (%d, uno por línea)\n" % len(clips))
-md.append("```")
-for r in clips:
+md.append("### Solo prompts de VIDEO (%d)\n" % len(clips))
+for idx, r in enumerate(clips, 1):
     tag = " (ELARA)" if r["tipo"] == "CLIP-ELARA" else ""
-    md.append("[%s]%s %s" % (r["bloque"], tag, r["prompt"]))
-md.append("```")
+    md.append("**VIDEO %d [%s]%s**" % (idx, r["bloque"], tag))
+    md.append("```")
+    md.append(r["prompt"])
+    md.append("```")
 
 with open(OUT_MD, "w", encoding="utf-8") as f:
     f.write("\n".join(md) + "\n")

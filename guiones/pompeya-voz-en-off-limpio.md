@@ -1,6 +1,6 @@
 # POMPEYA — LAS ÚLTIMAS 24 HORAS
 ## Guion limpio para voz en off · Elara Historiadora
-*(Solo el texto narrado, en orden. Sin indicaciones técnicas. ~3.010 palabras / ~20 min.)*
+*(Solo el texto narrado, en orden. Sin indicaciones técnicas. ~3.112 palabras / ~20 min.)*
 
 ---
 
@@ -93,6 +93,8 @@ Se han encontrado familias enteras juntas, abrazadas en un último gesto de amor
 No son fragmentos de piedra. Son fotografías tridimensionales de un instante de hace dos mil años. El instante preciso en que un mundo entero se detuvo. Cuando miras uno de esos moldes, no estás viendo una reliquia arqueológica: estás mirando a los ojos al último segundo de una persona que, como tú, creyó que tendría un mañana.
 
 Y el Vesubio, el verdugo, sigue ahí. No está muerto: solo duerme, igual que dormía en el año setenta y nueve. A sus pies, hoy, viven millones de personas en la ciudad de Nápoles y sus alrededores. Es uno de los volcanes más peligrosos del planeta, vigilado las veinticuatro horas. Pompeya no es solo una historia del pasado: es una advertencia que sigue viva, latiendo bajo la tierra.
+
+Y quizá te estés preguntando dónde queda exactamente todo esto. Pompeya está en el sur de Italia, en la región de Campania, muy cerca de la ciudad de Nápoles, a orillas del mar Mediterráneo. El Vesubio se alza apenas a diez kilómetros, vigilándola como lo hizo siempre. Hoy puedes caminar por sus calles empedradas, entrar en sus casas y pararte frente a sus moldes: las ruinas están abiertas al público y reciben a millones de visitantes cada año. Y desde casi cualquier punto de la ciudad, al levantar la vista, sigue ahí, inmenso y silencioso, el mismo volcán que cambió su destino.
 
 Pompeya no es solo una ciudad muerta bajo la ceniza. Es la prueba más poderosa de que ningún amanecer está garantizado. Veinte mil personas creyeron que tenían todo el tiempo del mundo… hasta que descubrieron que el tiempo también se entierra. Y que a veces, el último día llega sin avisar… aunque la montaña lleve semanas gritándolo.
 

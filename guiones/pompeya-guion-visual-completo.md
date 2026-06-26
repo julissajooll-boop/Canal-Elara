@@ -359,6 +359,16 @@
 
 # FRASE FINAL Y CTA
 
+### N46-UBI · "Y quizá te estés preguntando dónde queda exactamente todo esto. Pompeya está en el sur de Italia, en Campania, cerca de Nápoles… el Vesubio a apenas 10 km… hoy abierta al público…"
+- IMG: mapa del mundo haciendo zoom hacia Europa → Italia. (zoom-in progresivo)
+- IMG: mapa de Italia señalando el sur, la región de Campania y Nápoles. (zoom-in)
+- IMG: mapa cercano de la bahía de Nápoles con Pompeya, Herculano y el Vesubio marcados. (paneo)
+- CLIP: animación de mapa tipo "Google Earth" descendiendo desde el espacio hasta Pompeya, marcando el Vesubio a 10 km. (zoom cinematográfico)
+- CLIP: vista aérea real-estilo de las ruinas de Pompeya hoy con el Vesubio al fondo y turistas diminutos caminando. (travelling aéreo)
+> Nota de producción: este bloque de mapas se hace mejor en edición (ver `guia-mapas-animados.md`).
+> Anclaje para los clips de ruinas actuales: "ruinas arqueológicas de Pompeya en la actualidad,
+> Vesubio al fondo, sur de Italia" (sin coches ni elementos modernos en primer plano).
+
 ### N46 · "Pompeya no es solo una ciudad muerta… es la prueba de que ningún amanecer está garantizado… el tiempo también se entierra…"
 - IMG: ruinas de Pompeya al atardecer con el Vesubio detrás. (zoom-out)
 - IMG: una columna rota en primer plano, la ciudad muerta alrededor. (paneo)

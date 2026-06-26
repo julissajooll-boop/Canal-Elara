@@ -183,3 +183,108 @@ asiáticos, sin elementos anacrónicos, sin manos deformes, sin rostros distorsi
 - Usa **"Probar y comparar" (Test & Compare)** en YouTube Studio: sube Variante A y B
   (puedes añadir hasta 3). YouTube reparte el tráfico y elige la de mayor retención/CTR.
 - Mantén el MISMO título en ambas para que solo se mida el efecto de la miniatura.
+
+
+
+---
+---
+
+# 🚀 MINIATURAS A/B OPTIMIZADAS (versión 2 — máxima estrategia de CTR)
+
+> Tu video tiene 143 vistas: el problema es el "cartel" (miniatura + título), no el contenido.
+> Estas 2 miniaturas aplican TODO lo que dispara el clic. Pruébalas con A/B (Test & Compare).
+> REGLA: diseña miniatura y título juntos; deben contar UNA historia que genere curiosidad.
+
+## 🧠 Los 7 principios de CTR aplicados aquí
+1. **Un solo punto focal** (no saturar): el ojo entiende la imagen en 0,5 s.
+2. **Rostro humano con emoción fuerte** (o un objeto/acción muy claro): los rostros ganan clics.
+3. **Contraste y colores vivos** (naranja/dorado vs. negro): destaca en el feed.
+4. **Texto de 2–3 palabras** grandes y legibles en móvil.
+5. **Curiosity gap**: la miniatura genera una pregunta que solo el video responde.
+6. **Coherencia título↔miniatura**: que NO digan lo mismo; que se complementen.
+7. **Identidad de marca**: misma fuente (Cinzel), mismo logo "ELARA" pequeño en una esquina.
+
+---
+
+## 🅰️ MINIATURA A — "EL ROSTRO DE LA TRAICIÓN" (rostro + emoción)
+
+**Por qué:** los rostros humanos grandes con emoción intensa suelen tener el CTR más alto.
+
+### Imagen (prompt para generar, SIN texto)
+```
+Miniatura cinematográfica de YouTube de altísimo impacto. Primer plano del rostro de un
+general chino de la dinastía Ming (siglo XVII) con armadura y casco, expresión intensa de
+culpa y conflicto, mirando de reojo, sudor en la frente, iluminación dramática de claroscuro.
+Detrás, desenfocada, la Gran Muralla China con una gran puerta abriéndose y un resplandor de
+fuego. Colores muy contrastados (dorado, rojo, negro). Fotorrealismo cinematográfico, 8K,
+estilo póster de Hollywood, ultra detallado.
+[NEGATIVO: sin militares modernos, sin uniformes occidentales, sin armas de fuego modernas,
+sin texto, sin logotipos, sin marcas de agua, sin rasgos no asiáticos, sin manos deformes.]
+```
+### Texto sobre la imagen (en CapCut)
+- Palabra grande: **"TRAICIÓN"** (rojo intenso o dorado, borde negro grueso + glow).
+- Arriba pequeño: "Él abrió la puerta de la Gran Muralla".
+- Logo "ELARA" pequeño en esquina inferior.
+- Colócalo a un lado, SIN tapar los ojos del general (son el punto focal).
+
+### Título que la acompaña
+> La Gran Muralla China cayó por la TRAICIÓN de un solo hombre
+
+---
+
+## 🅱️ MINIATURA B — "UNA PUERTA = CAÍDA" (curiosity gap visual)
+
+**Por qué:** plantea un acertijo visual ("¿cómo una puerta derriba la muralla más grande?").
+
+### Imagen (prompt para generar, SIN texto)
+```
+Miniatura cinematográfica de YouTube de alto impacto. La Gran Muralla China histórica
+serpenteando sobre montañas hacia un cielo dramático rojo y dorado al atardecer. En el centro,
+una colosal puerta-fortaleza ABIERTA por la que entra una oleada de caballería antigua entre
+polvo y estandartes. Haz de luz dorada saliendo de la puerta. Una flecha visual roja grande
+señalando la puerta abierta. Colores muy contrastados, fotorrealismo cinematográfico, 8K,
+estilo póster de Hollywood, ultra detallado.
+[NEGATIVO: sin militares modernos, sin uniformes occidentales, sin armas de fuego modernas,
+sin texto, sin logotipos, sin marcas de agua, sin rasgos no asiáticos, sin manos deformes.]
+```
+### Texto sobre la imagen (en CapCut)
+- Palabra grande: **"UNA PUERTA"** (dorado, borde negro + glow).
+- Arriba pequeño: "Derribó la muralla más grande del mundo".
+- Flecha roja grande señalando la puerta (truco de CTR muy efectivo).
+- Logo "ELARA" pequeño en esquina.
+
+### Título que la acompaña
+> 2.000 años de muralla… derribados por UNA puerta | La Gran Muralla China
+
+---
+
+## 🆚 Diferencias A vs B (para que el test sea válido)
+| | Miniatura A | Miniatura B |
+|--|-------------|-------------|
+| Foco | Rostro del general (emoción/culpa) | La puerta + caballería (acción) |
+| Texto | "TRAICIÓN" | "UNA PUERTA" |
+| Gancho | ¿Quién traicionó y por qué? | ¿Cómo una puerta derribó todo? |
+| Recurso extra | Claroscuro intenso en la cara | Flecha roja señaladora |
+
+> Mantén el MISMO título en ambas durante el test, o usa la función que prueba título+miniatura.
+> Cambia SOLO una variable para saber qué funcionó.
+
+## 📋 Checklist antes de subir
+- [ ] 1280×720, 16:9, < 2 MB.
+- [ ] Se entiende y se lee en el MÓVIL (míralas en miniatura pequeña).
+- [ ] Máximo 2–3 palabras de texto.
+- [ ] Un solo punto focal claro.
+- [ ] Coherencia entre título y miniatura (se complementan, no se repiten).
+- [ ] Logo "ELARA" presente (identidad de marca).
+- [ ] Sin clickbait falso (la traición de la puerta ES real en el video).
+
+## 🔬 Cómo correr el test en YouTube Studio
+1. Entra al video → "Prueba y compara" (Test & Compare) en la miniatura.
+2. Sube Miniatura A y Miniatura B (y una tercera si quieres).
+3. YouTube reparte el tráfico durante días y elige la de mejor retención/CTR automáticamente.
+4. Deja correr el test al menos 1–2 semanas para datos fiables.
+
+## 💡 Nota estratégica
+- Reemplazar la miniatura de un video ya publicado SÍ puede revivirlo: si mejora el CTR,
+  YouTube vuelve a mostrarlo. No tengas miedo de cambiar la miniatura actual de 143 vistas.
+- Da al video un "segundo lanzamiento": nueva miniatura + nuevo título + compártelo de nuevo.

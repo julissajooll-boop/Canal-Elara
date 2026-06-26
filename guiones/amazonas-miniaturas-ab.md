@@ -111,3 +111,59 @@ rasgos ni manos deformes, sin anacronismos.]
 - La **A ("NADIE LE CREYÓ")** suele ser la más potente: combina un personaje, una emoción
   (incredulidad) y una historia real y fascinante. Buen primer test contra la **B**.
 - Relanza el video actual (98 vistas) con la miniatura+título nuevos y compártelo otra vez.
+
+
+
+---
+
+## 🛠️ MONTAJE DEL TEXTO EN CAPCUT (paso a paso)
+
+> Aplica a la Miniatura A ("NADIE LE CREYÓ"). El mismo método sirve para B y C.
+> Primero genera la IMAGEN sin texto con el prompt de arriba; el texto SIEMPRE se pone en
+> CapCut (así controlas fuente, color y nitidez, y se ve perfecto).
+
+### 1. Lienzo
+- Nuevo proyecto → importa la imagen → proporción **16:9** (1280×720).
+- La imagen ocupa toda la pantalla.
+
+### 2. Composición (regla de tercios)
+```
+┌──────────────────────────────────┐
+│  Vio una civilización…  🏙️ CIUDAD │ ← texto pequeño arriba-izq
+│                          (al fondo)│
+│  🧍 ORELLANA                       │ ← punto focal (no taparlo)
+│  (de espaldas/perfil)              │
+│   ── NADIE LE CREYÓ ──             │ ← texto GRANDE abajo
+│                          ELARA     │ ← logo esquina
+└──────────────────────────────────┘
+```
+
+### 3. Texto principal: "NADIE LE CREYÓ"
+- Añade Texto → escribe `NADIE LE CREYÓ`.
+- **Fuente:** Cinzel o Trajan (mayúsculas, épica).
+- **Color:** dorado/crema `#E8C87E`.
+- **Tamaño:** que ocupe ~1/3 del ancho, parte inferior.
+- **Contorno:** negro, grueso (6–8 px).
+- **Sombra:** activada, suave.
+- Colócalo abajo, SIN tapar el rostro/figura de Orellana.
+
+### 4. Texto secundario: "Vio una civilización en el Amazonas"
+- Otro Texto, más pequeño, arriba.
+- Color blanco + mismo borde negro. Fuente Noto Serif o la misma Cinzel menor.
+
+### 5. Toques estilo cine (lo que sube el CTR)
+- 🌑 **Viñeta:** oscurece los bordes (Ajustes → baja luz en esquinas) → enfoca al centro.
+- ✨ **Resplandor dorado** sutil en la ciudad del fondo (Efectos → Glow).
+- 🎚️ **Contraste +20%, saturación +10%** → look de póster.
+- 🏷️ **Logo "ELARA"** pequeño en una esquina (identidad de marca).
+
+### 6. Exporta
+- Exportar → **imagen/frame** (o captura el fotograma).
+- Verifica: **1280×720, JPG/PNG, < 2 MB**.
+
+### 7. PRUEBA FINAL (clave)
+- Mira la miniatura **en el móvil a tamaño pequeño**: si "NADIE LE CREYÓ" se lee al instante
+  y se entiende la escena → lista. Si cuesta leerla → agranda el texto.
+
+> Truco: ponla junto a las miniaturas de otros canales de historia (en la app de YouTube) y
+> pregúntate: "¿en cuál haría clic yo primero?". Si no gana, ajústala.

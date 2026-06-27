@@ -4,7 +4,7 @@
 
 > Secuencia exacta de montaje (de arriba a abajo). El tiempo es acumulado. Cada bloque N# muestra la frase de narracion que debe sonar mientras pasan sus piezas.
 
-**Imagenes:** 144 · **Clips:** 96 · **Duracion total:** ~20:00
+**Imagenes:** 147 · **Clips:** 98 · **Duracion total:** ~20:25
 
 
 ---
@@ -477,36 +477,41 @@
 
 ## 🎬 FRASE FINAL Y CTA
 
+| 18:45 | IMG 136 | mapa del mundo haciendo zoom hacia Europa → Italia. (zoom-in progresiv… |
+| 18:48 | IMG 137 | mapa de Italia señalando el sur, la región de Campania y Nápoles. (zoo… |
+| 18:51 | IMG 138 | mapa cercano de la bahía de Nápoles con Pompeya, Herculano y el Vesubi… |
+| 18:54 | CLIP 91 | animación de mapa tipo "Google Earth" descendiendo desde el espacio ha… |
+| 19:02 | CLIP 92 | vista aérea real-estilo de las ruinas de Pompeya hoy con el Vesubio al… |
 
 **N46** — 🎙️ *"Pompeya no es solo una ciudad muerta… es la prueba de que ningún amanecer está garantizado… el tiempo también se entierra…"*
 
 | Tiempo | Pieza | Descripcion |
 |--------|-------|-------------|
-| 18:45 | IMG 136 | ruinas de Pompeya al atardecer con el Vesubio detrás. (zoom-out) |
-| 18:48 | IMG 137 | una columna rota en primer plano, la ciudad muerta alrededor. (paneo) |
-| 18:51 | IMG 138 | detalle de un fresco superviviente, color desvaído por el tiempo. (zoo… |
-| 18:54 | CLIP 91 | vuelo de dron ascendente sobre las ruinas con el Vesubio al fondo, ref… |
-| 19:02 | CLIP 92 | travelling lento por una calle vacía de Pompeya al atardecer, melancol… |
+| 19:10 | IMG 139 | ruinas de Pompeya al atardecer con el Vesubio detrás. (zoom-out) |
+| 19:13 | IMG 140 | una columna rota en primer plano, la ciudad muerta alrededor. (paneo) |
+| 19:16 | IMG 141 | detalle de un fresco superviviente, color desvaído por el tiempo. (zoo… |
+| 19:19 | CLIP 93 | vuelo de dron ascendente sobre las ruinas con el Vesubio al fondo, ref… |
+| 19:27 | CLIP 94 | travelling lento por una calle vacía de Pompeya al atardecer, melancol… |
 
 **N47** — 🎙️ *"Quizá esa sea la lección más profunda… mirar las señales y decidir que no son nada… los pompeyanos eran exactamente como nosotros…"*
 
 | Tiempo | Pieza | Descripcion |
 |--------|-------|-------------|
-| 19:10 | IMG 139 | montaje simbólico de los moldes junto a la ciudad viva reconstruida (p… |
-| 19:13 | IMG 140 | las señales ignoradas (cuenco temblando, pozo seco) en montaje. (zoom-… |
-| 19:16 | IMG 141 | rostro sereno de un molde, espejo de la humanidad. (zoom-in, sobrio) |
-| 19:19 | CLIP 93 | disolvencias entre la ciudad viva y las ruinas, el contraste de lo per… |
-| 19:27 | CLIP 94 | push-in reflexivo a un molde, invitando a la introspección del especta… |
+| 19:35 | IMG 142 | montaje simbólico de los moldes junto a la ciudad viva reconstruida (p… |
+| 19:38 | IMG 143 | las señales ignoradas (cuenco temblando, pozo seco) en montaje. (zoom-… |
+| 19:41 | IMG 144 | rostro sereno de un molde, espejo de la humanidad. (zoom-in, sobrio) |
+| 19:44 | CLIP 95 | disolvencias entre la ciudad viva y las ruinas, el contraste de lo per… |
+| 19:52 | CLIP 96 | push-in reflexivo a un molde, invitando a la introspección del especta… |
 
 **N48** — 🎙️ *"CTA · "Si esta historia te removió… ¿habrías huido al primer temblor o te habrías quedado?… Suscríbete a Elara Historiadora…"*
 
 | Tiempo | Pieza | Descripcion |
 |--------|-------|-------------|
-| 19:35 | IMG 142 | (Elara, imagen base) Elara entre las ruinas al atardecer, mirada refle… |
-| 19:38 | IMG 143 | texto en pantalla "¿Habrías huido… o te habrías quedado?" sobre las ru… |
-| 19:41 | IMG 144 | nombre del canal "ELARA HISTORIADORA" con el Vesubio al fondo. (zoom-o… |
-| 19:44 | CLIP 95 (ELARA) | usar imagen base de Elara entre las ruinas de Pompeya al atardecer, mi… |
-| 19:52 | CLIP 96 | vuelo de dron final alejándose de Pompeya hacia el horizonte, promesa … |
+| 20:00 | IMG 145 | (Elara, imagen base) Elara entre las ruinas al atardecer, mirada refle… |
+| 20:03 | IMG 146 | texto en pantalla "¿Habrías huido… o te habrías quedado?" sobre las ru… |
+| 20:06 | IMG 147 | nombre del canal "ELARA HISTORIADORA" con el Vesubio al fondo. (zoom-o… |
+| 20:09 | CLIP 97 (ELARA) | usar imagen base de Elara entre las ruinas de Pompeya al atardecer, mi… |
+| 20:17 | CLIP 98 | vuelo de dron final alejándose de Pompeya hacia el horizonte, promesa … |
 
 ---
 

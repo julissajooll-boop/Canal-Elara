@@ -1,6 +1,6 @@
 # POMPEYA — HOJA DE PROMPTS BLINDADOS (lote)
 
-**Canal:** Elara Historiadora · **Imágenes:** 144 · **Clips de video:** 96 · **Total:** 240 prompts
+**Canal:** Elara Historiadora · **Imágenes:** 147 · **Clips de video:** 98 · **Total:** 245 prompts
 
 > Extraído del guion visual completo. Anclaje histórico romano + estilo + negativo aplicados automáticamente. Imágenes = efecto Ken Burns; Clips = video 8 s.
 
@@ -1145,77 +1145,102 @@ Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (m�
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. plano de las ruinas de Pompeya con el volcán imponente al fondo, amenaza presente. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #226 · 🖼️ IMAGEN · Bloque N46 · *zoom-out*
+### #226 · 🖼️ IMAGEN · Bloque N45 · *zoom-in progresivo*
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. mapa del mundo haciendo zoom hacia Europa → Italia. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+
+### #227 · 🖼️ IMAGEN · Bloque N45 · *zoom-in*
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. mapa de Italia señalando el sur, la región de Campania y Nápoles. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+
+### #228 · 🖼️ IMAGEN · Bloque N45 · *paneo*
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. mapa cercano de la bahía de Nápoles con Pompeya, Herculano y el Vesubio marcados. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+
+### #229 · 🎬 VIDEO · Bloque N45 · *video 8s*
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. animación de mapa tipo "Google Earth" descendiendo desde el espacio hasta Pompeya, marcando el Vesubio a 10 km. (zoom cinematográfico) Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
+```
+
+### #230 · 🎬 VIDEO · Bloque N45 · *video 8s*
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. vista aérea real-estilo de las ruinas de Pompeya hoy con el Vesubio al fondo y turistas diminutos caminando. (travelling aéreo) Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
+```
+
+### #231 · 🖼️ IMAGEN · Bloque N46 · *zoom-out*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. ruinas de Pompeya al atardecer con el Vesubio detrás. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #227 · 🖼️ IMAGEN · Bloque N46 · *paneo*
+### #232 · 🖼️ IMAGEN · Bloque N46 · *paneo*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. una columna rota en primer plano, la ciudad muerta alrededor. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #228 · 🖼️ IMAGEN · Bloque N46 · *zoom-in*
+### #233 · 🖼️ IMAGEN · Bloque N46 · *zoom-in*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. detalle de un fresco superviviente, color desvaído por el tiempo. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #229 · 🎬 VIDEO · Bloque N46 · *video 8s*
+### #234 · 🎬 VIDEO · Bloque N46 · *video 8s*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. vuelo de dron ascendente sobre las ruinas con el Vesubio al fondo, reflexivo y épico. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #230 · 🎬 VIDEO · Bloque N46 · *video 8s*
+### #235 · 🎬 VIDEO · Bloque N46 · *video 8s*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. travelling lento por una calle vacía de Pompeya al atardecer, melancolía. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #231 · 🖼️ IMAGEN · Bloque N47 · *paneo*
+### #236 · 🖼️ IMAGEN · Bloque N47 · *paneo*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. montaje simbólico de los moldes junto a la ciudad viva reconstruida (pasado/presente). Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #232 · 🖼️ IMAGEN · Bloque N47 · *zoom-in*
+### #237 · 🖼️ IMAGEN · Bloque N47 · *zoom-in*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. las señales ignoradas (cuenco temblando, pozo seco) en montaje. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #233 · 🖼️ IMAGEN · Bloque N47 · *zoom-in, sobrio*
+### #238 · 🖼️ IMAGEN · Bloque N47 · *zoom-in, sobrio*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. rostro sereno de un molde, espejo de la humanidad. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #234 · 🎬 VIDEO · Bloque N47 · *video 8s*
+### #239 · 🎬 VIDEO · Bloque N47 · *video 8s*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. disolvencias entre la ciudad viva y las ruinas, el contraste de lo perdido. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #235 · 🎬 VIDEO · Bloque N47 · *video 8s*
+### #240 · 🎬 VIDEO · Bloque N47 · *video 8s*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. push-in reflexivo a un molde, invitando a la introspección del espectador. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #236 · 🖼️ IMAGEN · Bloque N48 · *zoom-in suave*
+### #241 · 🖼️ IMAGEN · Bloque N48 · *zoom-in suave*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. (Elara, imagen base) Elara entre las ruinas al atardecer, mirada reflexiva. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #237 · 🖼️ IMAGEN · Bloque N48 · *fijo, leve zoom*
+### #242 · 🖼️ IMAGEN · Bloque N48 · *fijo, leve zoom*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. texto en pantalla "¿Habrías huido… o te habrías quedado?" sobre las ruinas. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #238 · 🖼️ IMAGEN · Bloque N48 · *zoom-out*
+### #243 · 🖼️ IMAGEN · Bloque N48 · *zoom-out*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. nombre del canal "ELARA HISTORIADORA" con el Vesubio al fondo. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #239 · 🎬 VIDEO (ELARA) · Bloque N48 · *video 8s*
+### #244 · 🎬 VIDEO (ELARA) · Bloque N48 · *video 8s*
 ```
 ELARA (usar imagen base de Elara, ver guia-imagenes-base.md). Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. usar imagen base de Elara entre las ruinas de Pompeya al atardecer, mirada reflexiva; mira a cámara y pronuncia el CTA ("¿habrías huido… o te habrías quedado? Suscríbete a Elara Historiadora"). Push-in suave, ruinas y Vesubio detrás, emotivo. (Sincronizar voz en off en edición.) Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### #240 · 🎬 VIDEO · Bloque N48 · *video 8s*
+### #245 · 🎬 VIDEO · Bloque N48 · *video 8s*
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. vuelo de dron final alejándose de Pompeya hacia el horizonte, promesa del próximo viaje. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
@@ -1224,7 +1249,7 @@ Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (m�
 
 ## 📑 APÉNDICE — Listas rápidas (copiar en lote)
 
-### Solo prompts de IMAGEN (144)
+### Solo prompts de IMAGEN (147)
 
 **IMG 1 [N1]**
 ```
@@ -1766,44 +1791,56 @@ Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (m�
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. contraste de las ruinas de Pompeya con el volcán vigilante detrás. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 136 [N46]**
+**IMG 136 [N45]**
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. mapa del mundo haciendo zoom hacia Europa → Italia. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+**IMG 137 [N45]**
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. mapa de Italia señalando el sur, la región de Campania y Nápoles. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+**IMG 138 [N45]**
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. mapa cercano de la bahía de Nápoles con Pompeya, Herculano y el Vesubio marcados. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+**IMG 139 [N46]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. ruinas de Pompeya al atardecer con el Vesubio detrás. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 137 [N46]**
+**IMG 140 [N46]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. una columna rota en primer plano, la ciudad muerta alrededor. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 138 [N46]**
+**IMG 141 [N46]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. detalle de un fresco superviviente, color desvaído por el tiempo. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 139 [N47]**
+**IMG 142 [N47]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. montaje simbólico de los moldes junto a la ciudad viva reconstruida (pasado/presente). Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 140 [N47]**
+**IMG 143 [N47]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. las señales ignoradas (cuenco temblando, pozo seco) en montaje. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 141 [N47]**
+**IMG 144 [N47]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. rostro sereno de un molde, espejo de la humanidad. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 142 [N48]**
+**IMG 145 [N48]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. (Elara, imagen base) Elara entre las ruinas al atardecer, mirada reflexiva. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 143 [N48]**
+**IMG 146 [N48]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. texto en pantalla "¿Habrías huido… o te habrías quedado?" sobre las ruinas. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
-**IMG 144 [N48]**
+**IMG 147 [N48]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. nombre del canal "ELARA HISTORIADORA" con el Vesubio al fondo. Imagen fija para efecto Ken Burns. Fotorrealismo histórico, cinematográfico, 8K, iluminación volumétrica, gran detalle.
 ```
 
-### Solo prompts de VIDEO (96)
+### Solo prompts de VIDEO (98)
 
 **VIDEO 1 [N1]**
 ```
@@ -2165,27 +2202,35 @@ Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (m�
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. plano de las ruinas de Pompeya con el volcán imponente al fondo, amenaza presente. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
-**VIDEO 91 [N46]**
+**VIDEO 91 [N45]**
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. animación de mapa tipo "Google Earth" descendiendo desde el espacio hasta Pompeya, marcando el Vesubio a 10 km. (zoom cinematográfico) Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
+```
+**VIDEO 92 [N45]**
+```
+Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. vista aérea real-estilo de las ruinas de Pompeya hoy con el Vesubio al fondo y turistas diminutos caminando. (travelling aéreo) Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
+```
+**VIDEO 93 [N46]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. vuelo de dron ascendente sobre las ruinas con el Vesubio al fondo, reflexivo y épico. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
-**VIDEO 92 [N46]**
+**VIDEO 94 [N46]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. travelling lento por una calle vacía de Pompeya al atardecer, melancolía. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
-**VIDEO 93 [N47]**
+**VIDEO 95 [N47]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. disolvencias entre la ciudad viva y las ruinas, el contraste de lo perdido. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
-**VIDEO 94 [N47]**
+**VIDEO 96 [N47]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. push-in reflexivo a un molde, invitando a la introspección del espectador. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
-**VIDEO 95 [N48] (ELARA)**
+**VIDEO 97 [N48] (ELARA)**
 ```
 ELARA (usar imagen base de Elara, ver guia-imagenes-base.md). Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. usar imagen base de Elara entre las ruinas de Pompeya al atardecer, mirada reflexiva; mira a cámara y pronuncia el CTA ("¿habrías huido… o te habrías quedado? Suscríbete a Elara Historiadora"). Push-in suave, ruinas y Vesubio detrás, emotivo. (Sincronizar voz en off en edición.) Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```
-**VIDEO 96 [N48]**
+**VIDEO 98 [N48]**
 ```
 Pompeya romana, año 79 d.C., Imperio Romano, arquitectura romana auténtica (mármol, frescos pompeyanos, columnas), togas y túnicas de época. vuelo de dron final alejándose de Pompeya hacia el horizonte, promesa del próximo viaje. Clip de video de 8 s, movimiento de cámara cinematográfico y continuidad realista. Fotorrealismo histórico, 8K, iluminación volumétrica, gran detalle.
 ```

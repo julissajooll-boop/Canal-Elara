@@ -477,13 +477,18 @@
 
 ## 🎬 FRASE FINAL Y CTA
 
+
+**N46** — 🎙️ *"Y quizá te estés preguntando dónde queda exactamente todo esto. Pompeya está en el sur de Italia, en Campania, cerca de Nápoles… el Vesubio a apenas 10 km… hoy abierta al público…"*
+
+| Tiempo | Pieza | Descripcion |
+|--------|-------|-------------|
 | 18:45 | IMG 136 | mapa del mundo haciendo zoom hacia Europa → Italia. (zoom-in progresiv… |
 | 18:48 | IMG 137 | mapa de Italia señalando el sur, la región de Campania y Nápoles. (zoo… |
 | 18:51 | IMG 138 | mapa cercano de la bahía de Nápoles con Pompeya, Herculano y el Vesubi… |
 | 18:54 | CLIP 91 | animación de mapa tipo "Google Earth" descendiendo desde el espacio ha… |
 | 19:02 | CLIP 92 | vista aérea real-estilo de las ruinas de Pompeya hoy con el Vesubio al… |
 
-**N46** — 🎙️ *"Pompeya no es solo una ciudad muerta… es la prueba de que ningún amanecer está garantizado… el tiempo también se entierra…"*
+**N47** — 🎙️ *"Pompeya no es solo una ciudad muerta… es la prueba de que ningún amanecer está garantizado… el tiempo también se entierra…"*
 
 | Tiempo | Pieza | Descripcion |
 |--------|-------|-------------|
@@ -493,7 +498,7 @@
 | 19:19 | CLIP 93 | vuelo de dron ascendente sobre las ruinas con el Vesubio al fondo, ref… |
 | 19:27 | CLIP 94 | travelling lento por una calle vacía de Pompeya al atardecer, melancol… |
 
-**N47** — 🎙️ *"Quizá esa sea la lección más profunda… mirar las señales y decidir que no son nada… los pompeyanos eran exactamente como nosotros…"*
+**N48** — 🎙️ *"Quizá esa sea la lección más profunda… mirar las señales y decidir que no son nada… los pompeyanos eran exactamente como nosotros…"*
 
 | Tiempo | Pieza | Descripcion |
 |--------|-------|-------------|
@@ -503,7 +508,7 @@
 | 19:44 | CLIP 95 | disolvencias entre la ciudad viva y las ruinas, el contraste de lo per… |
 | 19:52 | CLIP 96 | push-in reflexivo a un molde, invitando a la introspección del especta… |
 
-**N48** — 🎙️ *"CTA · "Si esta historia te removió… ¿habrías huido al primer temblor o te habrías quedado?… Suscríbete a Elara Historiadora…"*
+**N49** — 🎙️ *"Si esta historia te removió… ¿habrías huido al primer temblor o te habrías quedado?… Suscríbete a Elara Historiadora… (CTA)"*
 
 | Tiempo | Pieza | Descripcion |
 |--------|-------|-------------|
@@ -517,7 +522,7 @@
 
 ## Apariciones de ELARA (clips clave)
 
-- **N2** (apertura) · **N23** (la revelacion) · **N48** (cierre + CTA)
+- **N2** (apertura) · **N23** (la revelacion) · **N49** (cierre + CTA)
 
 ## Montaje
 

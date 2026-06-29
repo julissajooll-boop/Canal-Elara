@@ -359,7 +359,7 @@
 
 # FRASE FINAL Y CTA
 
-### N46-UBI · "Y quizá te estés preguntando dónde queda exactamente todo esto. Pompeya está en el sur de Italia, en Campania, cerca de Nápoles… el Vesubio a apenas 10 km… hoy abierta al público…"
+### N46 · "Y quizá te estés preguntando dónde queda exactamente todo esto. Pompeya está en el sur de Italia, en Campania, cerca de Nápoles… el Vesubio a apenas 10 km… hoy abierta al público…"
 - IMG: mapa del mundo haciendo zoom hacia Europa → Italia. (zoom-in progresivo)
 - IMG: mapa de Italia señalando el sur, la región de Campania y Nápoles. (zoom-in)
 - IMG: mapa cercano de la bahía de Nápoles con Pompeya, Herculano y el Vesubio marcados. (paneo)
@@ -369,21 +369,21 @@
 > Anclaje para los clips de ruinas actuales: "ruinas arqueológicas de Pompeya en la actualidad,
 > Vesubio al fondo, sur de Italia" (sin coches ni elementos modernos en primer plano).
 
-### N46 · "Pompeya no es solo una ciudad muerta… es la prueba de que ningún amanecer está garantizado… el tiempo también se entierra…"
+### N47 · "Pompeya no es solo una ciudad muerta… es la prueba de que ningún amanecer está garantizado… el tiempo también se entierra…"
 - IMG: ruinas de Pompeya al atardecer con el Vesubio detrás. (zoom-out)
 - IMG: una columna rota en primer plano, la ciudad muerta alrededor. (paneo)
 - IMG: detalle de un fresco superviviente, color desvaído por el tiempo. (zoom-in)
 - CLIP: vuelo de dron ascendente sobre las ruinas con el Vesubio al fondo, reflexivo y épico.
 - CLIP: travelling lento por una calle vacía de Pompeya al atardecer, melancolía.
 
-### N47 · "Quizá esa sea la lección más profunda… mirar las señales y decidir que no son nada… los pompeyanos eran exactamente como nosotros…"
+### N48 · "Quizá esa sea la lección más profunda… mirar las señales y decidir que no son nada… los pompeyanos eran exactamente como nosotros…"
 - IMG: montaje simbólico de los moldes junto a la ciudad viva reconstruida (pasado/presente). (paneo)
 - IMG: las señales ignoradas (cuenco temblando, pozo seco) en montaje. (zoom-in)
 - IMG: rostro sereno de un molde, espejo de la humanidad. (zoom-in, sobrio)
 - CLIP: disolvencias entre la ciudad viva y las ruinas, el contraste de lo perdido.
 - CLIP: push-in reflexivo a un molde, invitando a la introspección del espectador.
 
-### N48 · CTA · "Si esta historia te removió… ¿habrías huido al primer temblor o te habrías quedado?… Suscríbete a Elara Historiadora…"
+### N49 · "Si esta historia te removió… ¿habrías huido al primer temblor o te habrías quedado?… Suscríbete a Elara Historiadora… (CTA)"
 - IMG: (Elara, imagen base) Elara entre las ruinas al atardecer, mirada reflexiva. (zoom-in suave)
 - IMG: texto en pantalla "¿Habrías huido… o te habrías quedado?" sobre las ruinas. (fijo, leve zoom)
 - IMG: nombre del canal "ELARA HISTORIADORA" con el Vesubio al fondo. (zoom-out)
@@ -393,15 +393,15 @@
 ---
 
 ## 📊 RESUMEN DE PRODUCCIÓN
-- **Bloques de narración cubiertos:** 48 (toda la narración, en orden).
-- **Imágenes base:** 48 × 3 = **144 imágenes** (efecto Ken Burns ~3 s c/u).
-- **Clips de video:** 48 × 2 = **96 clips** de 8 s.
-- **Material visual total:** (144 × 3 s) + (96 × 8 s) = 432 s + 768 s = **1.200 s = 20 min** ✅
-- **Cobertura:** 100% de la narración (~3.010 palabras / ~20 min).
+- **Bloques de narración cubiertos:** 49 (toda la narración, incluida la ubicación geográfica).
+- **Imágenes base:** **147 imágenes** (efecto Ken Burns ~3 s c/u).
+- **Clips de video:** **98 clips** de 8 s.
+- **Material visual total:** (147 × 3 s) + (98 × 8 s) = 441 s + 784 s = **1.225 s ≈ 20:25** ✅
+- **Cobertura:** 100% de la narración (~3.112 palabras / ~20.7 min).
 - **Personaje recurrente — ELARA en 3 clips clave:**
   - **Clip clave 1/3 → N2 (apertura):** presenta el canal y promete el viaje.
   - **Clip clave 2/3 → N23 (la revelación):** "todavía podían salvarse" — el giro emocional del video.
-  - **Clip clave 3/3 → N48 (cierre + CTA):** despedida, pregunta a la audiencia y suscripción.
+  - **Clip clave 3/3 → N49 (cierre + CTA):** despedida, pregunta a la audiencia y suscripción.
   - Usar SIEMPRE la imagen base de Elara (ver `guia-imagenes-base.md`) para consistencia.
-- **Ritmo:** acelerar imágenes (1.5–2 s) en N18–N34 (erupción/oleada); alargar (3–4 s) en N39–N47 (moldes/cierre).
+- **Ritmo:** acelerar imágenes (1.5–2 s) en la erupción/oleada; alargar (3–4 s) en los moldes/cierre.
 - **Sensibilidad:** moldes y muertes SIEMPRE sobrios y respetuosos, sin gore (guía anti-bloqueo del brief).

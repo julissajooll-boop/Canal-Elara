@@ -6,6 +6,14 @@
 
 ---
 
+## 📸 Imagen de referencia oficial
+![Hoja de referencia de ELARA](elara-avatar-referencia.jpg)
+
+> Adjuntar SIEMPRE esta imagen al generador de IA para mantener el rostro y el vestuario
+> idénticos en todas las miniaturas e intros. Archivo: `guiones/elara-avatar-referencia.jpg`
+
+---
+
 ## 🧬 Descripción física
 - Mujer latina, aprox. 40 años.
 - Pelo largo, liso y oscuro (castaño muy oscuro / negro).

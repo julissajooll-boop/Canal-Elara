@@ -20,14 +20,15 @@
 - Piel morena clara, rasgos cálidos, sonrisa amable y cercana.
 - Expresión versátil: curiosa y didáctica en calma; de asombro/tensión en escenas dramáticas.
 
-## 👗 Vestuario característico (su "uniforme" de marca)
-- **Sombrero de explorador** beige con cinta de cuero marrón (SELLO principal).
-- **Blazer terracota / teja** con mangas algo remangadas.
-- Blusa blanca debajo.
-- **Pañuelo mostaza estampado** al cuello (acento de color).
-- Pantalón caqui ajustado.
-- Botas de cuero marrón.
-- Accesorios: mochila verde de lona con correas de cuero, cámara fotográfica vintage.
+## 👗 Vestuario — VARIABLE POR GUION
+> IMPORTANTE: Elara usa un VESTUARIO DISTINTO en cada video, adaptado al tema y al clima
+> de la época. Lo único fijo es su ROSTRO y su esencia. Ver los vestuarios concretos en
+> **`elara-vestuarios-por-guion.md`**.
+
+- Look de referencia original (imagen base): sombrero explorador beige, blazer terracota,
+  blusa blanca, pañuelo mostaza, pantalón caqui, botas marrón, mochila verde, cámara vintage.
+  → Sirve solo como referencia de CARA; el vestuario cambia en cada guion.
+- Estilo general: siempre "exploradora / historiadora moderna" (nunca ropa de época histórica).
 
 ## 🎭 Personalidad / rol
 - Es la **presentadora MODERNA** del canal (historiadora-exploradora tipo documentalista).
@@ -70,7 +71,8 @@ ni manos deformes, sin gore, sin anacronismos.]
 ---
 
 ## ✅ Reglas de consistencia
-1. Mismo sombrero + blazer terracota + pañuelo mostaza en TODA aparición.
-2. ELara siempre moderna; el fondo cambia según la época del video.
-3. Su cara y sombrero deben ser reconocibles al instante (identidad de marca).
+1. El ROSTRO y la esencia de Elara son SIEMPRE los mismos (mujer latina ~40, pelo largo
+   oscuro, mirada cálida) → eso la hace reconocible.
+2. El VESTUARIO CAMBIA en cada guion según el tema (ver `elara-vestuarios-por-guion.md`).
+3. ELara siempre moderna; el fondo/época cambia según el video. Nunca ropa histórica.
 4. Miniatura: 1280x720, <2MB, texto de 2-3 palabras, sin taparle los ojos.

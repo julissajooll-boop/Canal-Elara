@@ -33,25 +33,25 @@ pantalón oscuro, botas de cuero. Sin sombrero.
 
 ---
 
-## 🏺 EGIPTO / DEIR EL-MEDINA — "Exploradora del desierto"
+## 🏺 EGIPTO / DEIR EL-MEDINA — "Exploradora" (MISMO ESTILO QUE POMPEYA, otro color)
 **Ambiente:** desierto egipcio, calor, arena y adobe. Paleta de escena: arena / ocre / azul egipcio.
-**Objetivo del look:** ropa ligera y clara de desierto (creíble para el calor), con un acento AZUL que remite al "azul egipcio" y la hace destacar sobre el fondo ocre.
+**Objetivo del look:** MISMO estilo de exploradora que en Pompeya (coherencia de marca), pero
+cambiando el color de la ropa → **blusa blanca + chaqueta azul**. El azul es un guiño al
+"azul egipcio" y hace que Elara destaque sobre el fondo ocre/arena.
 
 | Prenda | Descripción |
 |--------|-------------|
-| 🧢 Cabeza | Sombrero de ala ancha color **arena**, o pañuelo estilo desierto |
-| 👚 Camisa | Lino **beige / arena** de manga larga (protección del sol), remangada |
-| 🦺 Chaleco | Chaleco safari **caqui claro** con bolsillos |
-| 🧣 Pañuelo | **Azul turquesa / lapislázuli** (guiño al azul egipcio) → acento de color |
-| 👖 Pantalón | Caqui claro / lino |
-| 👢 Calzado | Botas de desierto color tostado |
-| 🕶️ Extra | Gafas de sol colgando del cuello (opcional) |
+| 💇 Pelo | Igual que en Pompeya (suelto / semirecogido) |
+| 👚 Blusa | **Blanca** |
+| 🧥 Chaqueta | **Azul** (mismo corte de exploradora que la de Pompeya) |
+| 👖 Pantalón | Caqui claro / neutro |
+| 👢 Calzado | Botas de cuero |
 
 **Prompt de vestuario (Egipto):**
 ```
-mujer latina de unos 40 años, pelo largo oscuro, sombrero de ala ancha color arena, camisa
-de lino beige de manga larga remangada, chaleco safari caqui claro con bolsillos, pañuelo
-azul turquesa (azul egipcio) al cuello, pantalón caqui claro, botas de desierto.
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta azul de exploradora,
+pantalón caqui claro, botas de cuero. Mismo estilo de exploradora que en Pompeya pero en
+colores blanco y azul.
 ```
 
 ---
@@ -66,11 +66,14 @@ Para cada video nuevo, define un vestuario con esta lógica:
 4. **Mantén el ROSTRO y la esencia** → misma cara, mirada cálida y curiosa. Eso es lo que la
    identifica como Elara, no la ropa.
 
-| Guion | Vestuario | Acento de color |
+| Guion | Vestuario | Color principal |
 |-------|-----------|-----------------|
-| Pompeya | Exploradora mediterránea / dramática | Rojo burdeos (lava) |
-| Egipto (Deir el-Medina) | Exploradora del desierto | Azul turquesa (azul egipcio) |
+| Pompeya | Exploradora / dramática | Camisa crema + chaqueta marrón, pañuelo burdeos |
+| Egipto (Deir el-Medina) | Exploradora (mismo estilo) | Blusa blanca + chaqueta azul |
 | *(próximo)* | *(por definir)* | *(por definir)* |
+
+> NOTA: mismo ESTILO de exploradora en todos los videos (coherencia de marca); lo que cambia
+> es el COLOR de la ropa según el tema.
 
 ---
 

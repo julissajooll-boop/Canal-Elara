@@ -30,3 +30,22 @@ Cada prompt de imagen debe entregarse COMPLETO, con todo incluido en el mismo bl
 - Prompts visuales específicos y variados (evitar descripciones genéricas o repetidas).
 - Coherencia entre voz en off, guion gráfico y montaje.
 - Antes de dar por terminado, revisar que todo encaje y tenga el nivel del canal.
+
+
+
+## 👩‍🏫 5. ELARA COMO GUÍA INMERSIVA (estilo del canal)
+- Elara debe APARECER e INTERACTUAR dentro de las escenas, caminando por las calles, los
+  lugares y entre las personas de las que se está hablando, como una TURISTA / GUÍA que lleva
+  al espectador de la mano por el pasado (estilo Chloe VS History, pero cinematográfico).
+- Puede caminar, señalar, observar de cerca, reaccionar, agacharse a mirar objetos, pasar
+  entre los personajes históricos. Su voz narra (voz en off) mientras la vemos recorrer el lugar.
+- Sigue siendo la presentadora MODERNA (nunca ropa de época). Vestuario según el guion
+  (Egipto: blusa blanca + chaqueta azul). Usar siempre su imagen de referencia para la cara.
+- Estos clips de Elara-guía son SIEMPRE video animado (camina/gesticula) e incluyen prompt de
+  imagen + prompt de video.
+
+## 🎬 6. FORMATO OBLIGATORIO DE CADA CLIP
+Cada clip del guion gráfico se entrega SIEMPRE con:
+1. **PROMPT DE IMAGEN** completo (anclaje + escena + estilo + negativo).
+2. **PROMPT DE VIDEO** (movimiento de cámara y acción), aunque sea imagen con Ken Burns.
+Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y emoción.

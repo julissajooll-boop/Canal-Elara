@@ -3,6 +3,8 @@
 ## 🎯 Regla
 Los videos del canal **Elara Historiadora** duran **25 minutos**.
 TODOS los guiones nuevos deben diseñarse para llenar 25 min, para que NUNCA falte material.
+Puede pasarse hasta ~5 minutos (25–30 min está bien); nunca quedarse corto.
+(Ver también `reglas-produccion-guiones.md` para el formato de prompts y calidad.)
 
 ## 📏 Objetivos por video (para 25 min)
 - **Voz en off:** ~3.700–4.000 palabras (a ~150 palabras/min).

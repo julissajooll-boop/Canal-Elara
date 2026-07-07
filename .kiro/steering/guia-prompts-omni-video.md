@@ -70,3 +70,27 @@ misterio y presagio. Ritmo lento y ominoso, 8 s, sin cortes, alto contraste, fot
 ## ✅ REGLA
 Todos los prompts de VIDEO del canal deben escribirse con estas 7 capas (mini-guion), no como
 una frase suelta. Los prompts de IMAGEN siguen igual (anclaje + escena + estilo + negativo).
+
+
+
+---
+
+## 🎬 ESPECÍFICO PARA GOOGLE FLOW (Veo) — usar todos los beneficios
+- 🧬 **Ingredients to Video:** subir `elara-avatar-referencia.jpg` como ingrediente de personaje
+  para que Elara salga idéntica en todos sus clips. También pueden usarse imágenes de estilo o
+  de un moái como "ingredientes" para mantener consistencia.
+- 🎞️ **Frames to Video:** usar la imagen generada como FOTOGRAMA INICIAL; si se quiere un
+  movimiento exacto, dar también un fotograma FINAL. El prompt describe el movimiento entre ambos.
+- 🔊 **Audio sincronizado:** Flow/Veo genera audio. Siempre indicar: diálogo de Elara (para
+  lip-sync), sonido ambiente y efectos (foley). Para reconstrucción: solo ambiente + foley
+  (la voz en off va aparte).
+- ➕ **Extend / Scenebuilder:** si un plano necesita más de 8s o continuidad, usar Extend para
+  prolongarlo o encadenar tomas.
+- 🎥 **Fórmula 7 capas de Veo:** Cámara y óptica + Sujeto + Acción y física + Entorno + Luz +
+  Estilo/textura + Audio. Escribir el prompt de video como un mini-storyboard con esas capas.
+
+### Flujo recomendado por clip en Flow
+1. Genera/importa la IMAGEN (fotograma inicial).
+2. Para Elara: añade su foto como Ingredient (consistencia de cara/vestuario mostaza).
+3. Escribe el prompt de VIDEO con las 7 capas + audio.
+4. Si hace falta, define fotograma final (Frames) o alarga con Extend.

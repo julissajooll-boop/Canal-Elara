@@ -94,3 +94,68 @@ una frase suelta. Los prompts de IMAGEN siguen igual (anclaje + escena + estilo 
 2. Para Elara: añade su foto como Ingredient (consistencia de cara/vestuario mostaza).
 3. Escribe el prompt de VIDEO con las 7 capas + audio.
 4. Si hace falta, define fotograma final (Frames) o alarga con Extend.
+
+
+
+---
+
+## 🏆 ESTÁNDAR PROFESIONAL (calidad superproducción de cine)
+Todos los prompts de VIDEO deben sonar a orden de rodaje de una gran productora. Vocabulario:
+
+- **Plano:** gran plano general (establishing), plano general, plano entero, plano medio,
+  primer plano (CU), primerísimo (ECU), plano detalle, plano/contraplano, over-the-shoulder.
+- **Óptica:** lente de 24 mm (amplia), 35/50 mm (natural), 85 mm (retrato), anamórfica,
+  profundidad de campo corta (bokeh), foco selectivo, rack focus.
+- **Cámara:** dolly-in/out, travelling, Steadicam/gimbal, grúa (crane up/down), plano aéreo
+  con dron, órbita, tilt, whip pan, handheld sutil, cámara lenta (slow motion) selectiva.
+- **Iluminación (motivada):** luz de hora dorada, contraluz/rim light, clave baja (chiaroscuro),
+  clave alta, luz práctica (fuego, antorcha, lámpara), luz volumétrica (rayos de dios), niebla.
+- **Color/grade:** gradación cinematográfica, teal & orange, paleta cálida ámbar, fría desaturada,
+  alto rango dinámico, contraste filmico.
+- **Textura/look:** estética de cámara de cine digital (tipo Arri Alexa), grano de 35 mm sutil,
+  halación suave en las luces, motion blur natural a 24 fps.
+- **Composición:** regla de los tercios, líneas de fuga, simetría, espacio negativo, escala épica.
+- **Diseño de sonido:** mezcla profesional; ambiente + foley detallado + (voz de Elara si aplica).
+
+### 🎬 BLOQUE DE ESTILO PRO (pegar al FINAL de cada prompt de video)
+```
+Estilo: producción cinematográfica de alto presupuesto, estética de cámara de cine digital tipo
+Arri Alexa, óptica anamórfica, gradación de color de largometraje, grano de 35 mm sutil y
+halación suave, alto rango dinámico, 24 fps con motion blur natural, composición impecable,
+acabado fotorrealista 8K de calidad de película. Sin logos, sin texto, sin marcas de agua.
+```
+
+### Ejemplos al MÁXIMO nivel
+
+**R3 — "casi mil estatuas colosales" (reconstrucción)**
+```
+Gran plano general (establishing) rodado con dron en descenso lento y órbita suave sobre una
+hilera de moái colosales sobre su ahu, al amanecer. Óptica gran angular de 24 mm, gran
+profundidad. Acción/física: bruma marina desplazándose a ras de suelo, hierba ondeando con el
+viento, primeras luces recortando las siluetas. Iluminación: hora dorada con contraluz intenso y
+niebla volumétrica. Color: cálido ámbar contra sombras azuladas, gradación de largometraje.
+Audio: viento envolvente, oleaje profundo, un coro grave y solemne muy tenue. Ritmo majestuoso,
+8 s, sin cortes. [Bloque de estilo PRO]
+```
+
+**R66 — "los moái caminaron"**
+```
+Plano general con teleobjetivo de 85 mm y Steadicam en travelling lateral que sigue el movimiento;
+compresión de fondo y bokeh del océano. Sujeto: un moái gigante, atado con cuerdas, pivota sobre
+una esquina de su base y "camina" balanceándose sobre una loma verde; equipos de rapanui tiran
+al ritmo. Física: cuerdas vibrando y soltando polvo, hierba pisada, tierra saltando en cada apoyo.
+Iluminación: sol bajo de media tarde, rim light dorado en el borde de la piedra. Color: teal &
+orange cinematográfico. Audio: cánticos rítmicos, crujido de cuerdas de fibra, golpe sordo y
+grave de la piedra al pivotar, viento. Ritmo hipnótico y solemne, 8 s, sin cortes. [Bloque de estilo PRO]
+```
+
+**E17 — Elara en Orongo (a cámara)**
+```
+Plano medio, lente de 35 mm, gimbal con leve dolly-in; Elara (chaqueta mostaza) al borde del
+acantilado de Orongo. Ingredient: foto de referencia de Elara. Acción/actuación: el viento azota
+su pelo y su ropa; señala hacia abajo el islote de Motu Nui, se gira a cámara y habla con emoción
+contenida y una pizca de vértigo. Iluminación: cielo dramático, luz natural difusa con nubes en
+movimiento. Color: azul oceánico frío con su chaqueta mostaza como acento cálido. Audio: su voz
+"Estoy justo donde competían. Mira hacia abajo: ese islote es al que llegaban a nado", viento
+fuerte, oleaje golpeando abajo, graznidos de aves marinas. 8 s, sin cortes. [Bloque de estilo PRO]
+```

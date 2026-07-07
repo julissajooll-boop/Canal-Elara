@@ -30,6 +30,10 @@
   → Sirve solo como referencia de CARA; el vestuario cambia en cada guion.
 - Estilo general: siempre "exploradora / historiadora moderna" (nunca ropa de época histórica).
 
+## 🎙️ Voz
+- Elara habla SIEMPRE con **voz latinoamericana** (español latino neutro).
+- Aplica a la narración (voz en off) y a los clips donde habla a cámara / lip-sync en Flow.
+
 ## 🎭 Personalidad / rol
 - Es la **presentadora MODERNA** del canal (historiadora-exploradora tipo documentalista).
 - NO es un personaje dentro de la época histórica: nunca se viste de romana, egipcia, etc.

@@ -8,7 +8,7 @@
 - La voz de Elara narra TODO el video (voz en off continua). Se lee de corrido.
 - 🟢 **[ELARA GUÍA]** → Elara aparece en escena, caminando/interactuando por el lugar como guía.
 - ⚪ **[Voz en off sobre reconstrucción]** → su voz acompaña las imágenes, sin verla.
-- Vestuario Rapa Nui: (se define en el archivo de vestuario). Usar su imagen de referencia para la cara.
+- Vestuario Rapa Nui: blusa blanca + chaqueta de exploradora color MOSTAZA / amarillo tierra. Usar su imagen de referencia para la cara. NUNCA ropa de época.
 
 ---
 

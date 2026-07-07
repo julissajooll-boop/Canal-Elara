@@ -82,3 +82,34 @@ Para cada video nuevo, define un vestuario con esta lógica:
 - ✅ El vestuario CAMBIA en cada guion según el tema.
 - ❌ Nunca vestirla con ropa de la época histórica (romana, egipcia): sigue siendo la
   presentadora MODERNA que te lleva al pasado.
+
+
+
+---
+
+## 🗿 ISLA DE PASCUA (RAPA NUI) — "Exploradora" (mismo estilo, color mostaza)
+**Ambiente:** isla volcánica del Pacífico, océano azul, hierba verde, piedra gris.
+**Objetivo del look:** MISMO estilo de exploradora, en **mostaza / amarillo tierra** para que
+Elara resalte sobre el azul del mar y el gris de los moái.
+
+| Prenda | Descripción |
+|--------|-------------|
+| 💇 Pelo | Suelto / semirecogido (viento de la isla) |
+| 👚 Blusa | **Blanca** |
+| 🧥 Chaqueta | **Mostaza / amarillo tierra** (corte de exploradora) |
+| 👖 Pantalón | Caqui claro / neutro |
+| 👢 Calzado | Botas de cuero |
+
+**Prompt de vestuario (Rapa Nui):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta mostaza de
+exploradora, pantalón caqui claro, botas de cuero. Mismo estilo de exploradora que en los
+otros videos pero en color mostaza.
+```
+
+### Tabla actualizada de colores por proyecto
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Chaqueta marrón + pañuelo burdeos |
+| Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
+| Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |

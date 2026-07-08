@@ -88,7 +88,7 @@
 
 **R62 · 🎬**
 - IMG: Moái de pie con gruesas cuerdas de fibra atadas a los lados y a la frente, equipos de rapanui a ambos lados sujetándolas, listos. Óptica 35 mm. Fotorrealismo cine 8K. NEG: sin modernos/texto/logos/marcas/deformes/anacronismos.
-- VID: Plano medio, leve dolly-in; las cuerdas se tensan a un lado y luego al otro, el moái empieza a inclinarse sobre una esquina de su base. Luz cálida. Audio: cuerdas crujiendo, orden gritada, tambor rítmico. Ritmo de anticipación, 8 s, sin cortes. [+PRO]
+- VID: Plano medio, leve dolly-in. Un grupo de aldeanos rapanui participa en una ceremonia comunitaria: sujetan con cuerdas de fibra vegetal un gran moái de piedra y, con movimientos suaves y coordinados, la estatua comienza a mecerse muy despacio sobre su base. Ambiente festivo y respetuoso, trabajo en equipo. Luz cálida dorada. Audio: cánticos rítmicos alegres, percusión suave de madera, roce de cuerdas, brisa. Ritmo de anticipación, 8 s, sin cortes. [+PRO]
 
 **R63 · 🎬**
 - IMG: El moái inclinado sobre una esquina de su base a punto de "dar un paso", polvo saltando en el punto de apoyo. Óptica 35 mm. Fotorrealismo cine 8K. NEG: sin modernos/texto/logos/marcas/deformes/anacronismos.

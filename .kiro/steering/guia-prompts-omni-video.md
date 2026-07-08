@@ -159,3 +159,19 @@ movimiento. Color: azul oceánico frío con su chaqueta mostaza como acento cál
 "Estoy justo donde competían. Mira hacia abajo: ese islote es al que llegaban a nado", viento
 fuerte, oleaje golpeando abajo, graznidos de aves marinas. 8 s, sin cortes. [Bloque de estilo PRO]
 ```
+
+
+
+---
+
+## 🛡️ EVITAR BLOQUEOS DE POLÍTICAS EN FLOW (falsos positivos)
+Flow a veces marca prompts por palabras que malinterpreta como violencia/peligro. Para evitarlo:
+- Evita palabras de agresión/tensión: "gritada/gritos", "tensan/tensión", "golpe", "arma",
+  "sangre", "atacar", "forzar". Sustitúyelas por lenguaje neutro o ceremonial.
+- Reemplazos útiles: "orden gritada" → "cánticos rítmicos"; "las cuerdas se tensan" →
+  "movimientos suaves y coordinados"; "tambor" → "percusión suave de madera"; "golpe de piedra"
+  → "roce grave de la piedra".
+- Enmarca las escenas de esfuerzo como CEREMONIA COMUNITARIA / trabajo en equipo / festivo /
+  respetuoso (contexto cultural positivo).
+- Personas siempre claramente vestidas; nada ambiguo. Nada de gore ni peligro explícito.
+- Si un clip se bloquea, reescríbelo en positivo antes de cambiar de idea: casi siempre pasa.

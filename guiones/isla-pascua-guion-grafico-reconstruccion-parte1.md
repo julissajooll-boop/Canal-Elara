@@ -202,7 +202,7 @@
 - IMG: Vista aérea de numerosos moái repartidos por el paisaje de la isla. Cine 8K. NEG: sin modernos/texto/logos/marcas/deformes/anacronismos.
 - VID: Travelling aéreo revelando moái por toda la isla, cinematográfico.
 
-**R43 · 🖼️** — "Y la pregunta que obsesionó a todos: ¿cómo demonios los movieron?"
+**R43 · 🖼️** — "Y la pregunta que obsesionó a todos: ¿cómo lograron mover semejantes gigantes?"
 - IMG: Un moái aislado en mitad de un sendero de la isla, lejos de la cantera, intrigante. Cine 8K. NEG: sin modernos/texto/logos/marcas/deformes/anacronismos.
 - VID (CapCut): zoom out mostrando la distancia recorrida.
 

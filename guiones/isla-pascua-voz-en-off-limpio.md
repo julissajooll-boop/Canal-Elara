@@ -50,7 +50,7 @@ Olvida la idea de que los moái miran al mar, esperando algo o a alguien. Es jus
 
 Los rapanui creían que esas figuras contenían el mana, una fuerza espiritual sagrada, el poder de sus ancestros. Un moái sobre su plataforma no era una escultura decorativa: era un abuelo, un líder, un protector que, desde la muerte, seguía cuidando las cosechas, la pesca y a la familia. Por eso los tallaron con tanto cuidado, y por eso los levantaron mirando a su gente. Los llamaban, de hecho, aringa ora: los rostros vivos de los antepasados.
 
-Se han contado casi mil moái repartidos por toda la isla. Y la pregunta que ha obsesionado a exploradores, científicos y curiosos durante siglos es siempre la misma, la más difícil de todas: ¿cómo demonios los movieron?
+Se han contado casi mil moái repartidos por toda la isla. Y la pregunta que ha obsesionado a exploradores, científicos y curiosos durante siglos es siempre la misma, la más difícil de todas: ¿cómo lograron mover semejantes gigantes?
 
 🟢 *[ELARA GUÍA — junto a la base de un moái enorme, mirando hacia arriba, a cámara]*
 

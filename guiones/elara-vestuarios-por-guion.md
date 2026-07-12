@@ -113,3 +113,38 @@ otros videos pero en color mostaza.
 | Pompeya | Chaqueta marrón + pañuelo burdeos |
 | Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
 | Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+
+
+
+---
+
+## ✝️ BETANIA / LÁZARO (JUDEA, SIGLO I) — "Exploradora" (mismo estilo, color verde oliva)
+**Ambiente:** Judea del siglo I, colinas de Betania, piedra caliza beige y ocre, olivares
+verde-plata, lino crema, bronce. Paleta de escena: arena / ocre / oliva / dorado cálido.
+**Objetivo del look:** MISMO estilo de exploradora (coherencia de marca), en **verde oliva
+oscuro**. Es un guiño directo al OLIVAR y al aceite de oliva que dieron riqueza a la familia
+de Lázaro, y contrasta con la piedra caliza clara para que Elara resalte en la miniatura.
+
+| Prenda | Descripción |
+|--------|-------------|
+| 💇 Pelo | Suelto / semirecogido (misma cara de siempre) |
+| 👚 Blusa | **Blanca / crema de lino** |
+| 🧥 Chaqueta | **Verde oliva oscuro** (mismo corte de exploradora) |
+| 🧣 Acento | Pañuelo o correa de cuero marrón (tonos tierra de Judea) |
+| 👖 Pantalón | Caqui claro / neutro |
+| 👢 Calzado | Botas de cuero marrón |
+
+**Prompt de vestuario (Betania / Lázaro):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca de lino, chaqueta verde oliva
+oscuro de exploradora, pantalón caqui claro, botas de cuero marrón. Mismo estilo de
+exploradora que en los otros videos pero en color verde oliva.
+```
+
+### Tabla actualizada de colores por proyecto
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Chaqueta marrón + pañuelo burdeos |
+| Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
+| Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+| Betania / Lázaro (Judea) | Blusa blanca + chaqueta verde oliva |

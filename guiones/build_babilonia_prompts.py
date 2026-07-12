@@ -386,7 +386,8 @@ def main():
             tag = "🎬 VIDEO (ELARA)"
             body = (f"ELARA (subir imagen base `elara-avatar-referencia.jpg` como Ingredient; "
                     f"vestuario Babilonia: blusa crema, chaqueta rosa palo, pañuelo azul "
-                    f"lapislázuli). {ANCLA} {escena}. Ver prompt de video rico y su línea "
+                    f"lapislázuli, zapatos de tacón de aguja de punta fina color nude). {ANCLA} "
+                    f"{escena}. Ver prompt de video rico y su línea "
                     f"hablada en `babilonia-elara-clips-flow.md`. {EST_VID}")
         out.append(f"\n### #{i} · {tag} · {bloque} · *{mov}*\n")
         out.append("```\n" + body + "\n```\n")

@@ -1,7 +1,8 @@
 # BABILONIA — CLIPS DE ELARA · PROMPTS DE VIDEO PARA FLOW (Veo)
 ## Versión rica: Ingredients + Frames + audio + dirección de actuación (8 s)
 
-> Vestuario Babilonia: **blusa crema + chaqueta rosa palo + pañuelo azul lapislázuli** (guiño a
+> Vestuario Babilonia: **blusa crema + chaqueta rosa palo + pañuelo azul lapislázuli + zapatos de
+> tacón de aguja de punta fina color nude** (guiño a
 > la Puerta de Ishtar). Elara SIEMPRE moderna (exploradora), voz **latinoamericana** (español
 > latino neutro). En Flow:
 > - 🧬 Ingredient: sube `elara-avatar-referencia.jpg` (cara/consistencia) en TODOS los clips.
@@ -147,7 +148,8 @@ cortes, fotorrealismo cinematográfico 8K.
 ## 📊 NOTA
 - 10 clips de Elara con prompts de VIDEO ricos para Flow (Ingredients + Frames + audio + actuación).
 - Sube SIEMPRE `elara-avatar-referencia.jpg` como Ingredient para la consistencia de su cara.
-- Mantén el vestuario: blusa crema + chaqueta **rosa palo** + pañuelo **azul lapislázuli**.
+- Mantén el vestuario: blusa crema + chaqueta **rosa palo** + pañuelo **azul lapislázuli** +
+  **zapatos de tacón de aguja de punta fina color nude** (visibles en planos de cuerpo entero).
 - Estos 10 clips cubren los 9 marcadores 🎬 (ELARA) de `babilonia-prompts.md` (apertura, cruce de
   la puerta, CTA intermedio, tesis, noche del río, legado, lección y despedida doble).
 - Si prefieres poner la voz en off aparte en CapCut, quita la línea de "su voz" y deja solo el

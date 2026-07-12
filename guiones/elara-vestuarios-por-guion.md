@@ -133,14 +133,15 @@ guiño directo a la Puerta de Ishtar (el rosa palo y el azul combinan muy bien).
 | 🧥 Chaqueta | **Rosa palo / rosa empolvado (dusty pink)** (corte de exploradora) |
 | 🧣 Pañuelo | **Azul lapislázuli** (evoca la Puerta de Ishtar) |
 | 👖 Pantalón | Caqui claro / neutro |
-| 👢 Calzado | Botas de cuero |
+| 👠 Calzado | **Zapatos de tacón de aguja, punta fina, color nude/beige** (nude pointed-toe pumps) |
 
 **Prompt de vestuario (Babilonia):**
 ```
 mujer latina de unos 40 años, pelo largo oscuro, blusa crema de lino, chaqueta rosa palo (rosa
 empolvado / dusty pink) de exploradora, pañuelo azul lapislázuli al cuello, pantalón caqui claro,
-botas de cuero. Mismo estilo de exploradora que en los otros videos pero en color rosa palo con
-acento azul lapislázuli.
+zapatos de tacón de aguja de punta fina en color nude/beige (nude pointed-toe stiletto pumps).
+Mismo estilo de exploradora elegante que en los otros videos pero en color rosa palo con acento
+azul lapislázuli y tacones nude.
 ```
 
 ### Tabla actualizada de colores por proyecto

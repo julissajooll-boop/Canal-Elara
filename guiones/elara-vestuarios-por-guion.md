@@ -113,3 +113,38 @@ otros videos pero en color mostaza.
 | Pompeya | Chaqueta marrón + pañuelo burdeos |
 | Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
 | Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+
+
+
+---
+
+## 🏛️ BABILONIA — "Exploradora" (mismo estilo, color terracota + azul Ishtar)
+**Ambiente:** Mesopotamia, siglo VI a.C., llanura entre ríos; ladrillo de barro, oro y, sobre
+todo, el azul lapislázuli de la Puerta de Ishtar. Paleta de escena: azul lapislázuli / oro / ocre.
+**Objetivo del look:** MISMO estilo de exploradora, en **terracota / teja** para que Elara
+resalte (color complementario) sobre el azul y el ocre de Babilonia. Acento simbólico: un
+**pañuelo azul lapislázuli**, guiño directo a la Puerta de Ishtar.
+
+| Prenda | Descripción |
+|--------|-------------|
+| 💇 Pelo | Suelto / semirecogido |
+| 👚 Blusa | **Crema** de lino |
+| 🧥 Chaqueta | **Terracota / teja** (corte de exploradora) |
+| 🧣 Pañuelo | **Azul lapislázuli** (evoca la Puerta de Ishtar) |
+| 👖 Pantalón | Caqui claro / neutro |
+| 👢 Calzado | Botas de cuero |
+
+**Prompt de vestuario (Babilonia):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa crema de lino, chaqueta terracota de
+exploradora, pañuelo azul lapislázuli al cuello, pantalón caqui claro, botas de cuero. Mismo
+estilo de exploradora que en los otros videos pero en color terracota con acento azul lapislázuli.
+```
+
+### Tabla actualizada de colores por proyecto
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Chaqueta marrón + pañuelo burdeos |
+| Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
+| Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+| Babilonia | Blusa crema + chaqueta terracota + pañuelo azul lapislázuli |

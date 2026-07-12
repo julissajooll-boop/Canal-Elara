@@ -33,7 +33,7 @@ contraste. La emoción y el azul icónico venden más que el paisaje solo.
 ```
 Miniatura cinematográfica de YouTube de altísimo impacto. A un lado, en primer plano, ELARA
 (historiadora exploradora latina de ~40 años: pelo largo oscuro, blusa crema, chaqueta
-terracota, pañuelo azul lapislázuli) con expresión de asombro y tensión, el rostro iluminado
+rosa palo, pañuelo azul lapislázuli) con expresión de asombro y tensión, el rostro iluminado
 por el resplandor cálido de antorchas. Al otro lado y de fondo, la monumental Puerta de Ishtar
 de Babilonia cubierta de azulejos vidriados azul lapislázuli con relieves dorados de dragones y
 toros, iluminada por antorchas en una noche cerrada, y la silueta del gran zigurat Etemenanki

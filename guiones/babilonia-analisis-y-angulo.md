@@ -43,7 +43,7 @@ THRILLER HISTÓRICO inmersivo con cuenta regresiva hacia la noche del desvío de
   Babilonia sigue viva. La ciudad murió; su mente, no. Y murió el día que su propia gente
   decidió no defenderla.
 - **Factura visual superior:** ~188 clips blindados (anclaje mesopotámico + estilo 8K + negativo)
-  con azul lapislázuli, oro y ocre; Elara con vestuario propio (terracota + pañuelo azul Ishtar).
+  con azul lapislázuli, oro y ocre; Elara con vestuario propio (rosa palo + pañuelo azul Ishtar).
 
 ## 4. Comprobación de originalidad
 - Reescritura total (ninguna frase copiada del referente).

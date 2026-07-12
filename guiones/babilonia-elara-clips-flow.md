@@ -1,7 +1,7 @@
 # BABILONIA — CLIPS DE ELARA · PROMPTS DE VIDEO PARA FLOW (Veo)
 ## Versión rica: Ingredients + Frames + audio + dirección de actuación (8 s)
 
-> Vestuario Babilonia: **blusa crema + chaqueta terracota + pañuelo azul lapislázuli** (guiño a
+> Vestuario Babilonia: **blusa crema + chaqueta rosa palo + pañuelo azul lapislázuli** (guiño a
 > la Puerta de Ishtar). Elara SIEMPRE moderna (exploradora), voz **latinoamericana** (español
 > latino neutro). En Flow:
 > - 🧬 Ingredient: sube `elara-avatar-referencia.jpg` (cara/consistencia) en TODOS los clips.
@@ -17,7 +17,7 @@
 **E1 (8s)** · 🧬 Ingredient: foto Elara · 🎞️ Frame inicial: imagen de la Puerta de Ishtar de noche
 🎬 VIDEO (Flow):
 ```
-Plano general que abre amplio y hace un dolly-in lento hacia Elara (chaqueta terracota, pañuelo
+Plano general que abre amplio y hace un dolly-in lento hacia Elara (chaqueta rosa palo, pañuelo
 azul lapislázuli) de pie ante la monumental Puerta de Ishtar iluminada por antorchas en una
 noche cerrada. Acción beat a beat: contempla la puerta azul, posa la vista en los relieves
 dorados, se gira a cámara y empieza a hablar con calidez y misterio. Entorno: llamas de antorcha
@@ -32,7 +32,7 @@ sin cortes, fotorrealismo cinematográfico 8K.
 **E2 (8s)** · 🧬 Ingredient: foto Elara
 🎬 VIDEO (Flow):
 ```
-Plano medio, ligero travelling lateral. Elara (chaqueta terracota, pañuelo azul) abre el brazo
+Plano medio, ligero travelling lateral. Elara (chaqueta rosa palo, pañuelo azul) abre el brazo
 presentando la ciudad dorada tras la puerta y luego mira a cámara. Entorno: antorchas, siluetas
 de torres al fondo. Luz: cálida de fuego. Actuación: orgullo sereno, gesto acogedor. Audio: su
 voz en español latino "La ciudad más grande de la Tierra. Y esta noche… decidió no defenderse";
@@ -45,7 +45,7 @@ crepitar de fuego y brisa nocturna. 8 s, sin cortes, fotorrealismo cinematográf
 🎬 VIDEO (Flow):
 ```
 Plano medio siguiéndola por detrás con gimbal, luego rodea hasta su rostro. Elara (chaqueta
-terracota, pañuelo azul) cruza bajo el arco de la Puerta de Ishtar y roza con la mano un relieve
+rosa palo, pañuelo azul) cruza bajo el arco de la Puerta de Ishtar y roza con la mano un relieve
 dorado de dragón sobre el azulejo azul. Acción: avanza, toca la pared, se vuelve a cámara con
 asombro. Entorno: relieves de toros y dragones a los lados, luz de día entrando por el arco. Luz:
 azul lapislázuli realzado por destellos dorados. Actuación: fascinación contenida, casi susurro.
@@ -58,7 +58,7 @@ al ombligo del mundo"; eco suave de pasos y ambiente de ciudad lejana. 8 s, sin 
 **E4 (8s)** · 🧬 Ingredient: foto Elara
 🎬 VIDEO (Flow):
 ```
-Primer plano medio, push-in lento. Elara (chaqueta terracota, pañuelo azul) sobre la muralla al
+Primer plano medio, push-in lento. Elara (chaqueta rosa palo, pañuelo azul) sobre la muralla al
 atardecer, gesto de intriga y una ceja apenas alzada. Entorno: viento moviendo su pelo, cielo
 naranja apagándose hacia el azul. Luz: dorada cayendo a fría. Actuación: misterio y complicidad.
 Audio: su voz en español latino "¿Cómo cae en una sola noche la ciudad que se creía eterna?
@@ -72,7 +72,7 @@ fotorrealismo 8K.
 🎬 VIDEO (Flow):
 ```
 Primer plano, push-in lento al rostro, ligera clave baja (chiaroscuro). Elara (chaqueta
-terracota, pañuelo azul) mira a cámara con gravedad, una puerta antigua entreabierta desenfocada
+rosa palo, pañuelo azul) mira a cámara con gravedad, una puerta antigua entreabierta desenfocada
 detrás. Entorno: penumbra, una antorcha lejana. Luz: cálida lateral, mucho contraste. Actuación:
 seriedad rotunda, baja el tono, pausa antes de la frase. Audio: su voz en español latino "Escucha
 bien esto: a Babilonia no la conquistaron. La entregaron… desde dentro"; silencio tenso con leve
@@ -84,7 +84,7 @@ crepitar de fuego. 8 s, sin cortes, fotorrealismo cinematográfico 8K.
 **E6 (8s)** · 🧬 Ingredient: foto Elara · 🎞️ Frame inicial: imagen del lecho del río bajo la muralla
 🎬 VIDEO (Flow):
 ```
-Plano general de vértigo: Elara (chaqueta terracota, pañuelo azul) pequeña de pie en el lecho
+Plano general de vértigo: Elara (chaqueta rosa palo, pañuelo azul) pequeña de pie en el lecho
 casi seco del río, bajo el enorme arco de la muralla, de noche. Acción: señala el cauce a sus
 pies, luego alza la vista a la muralla colosal y se gira a cámara. Entorno: agua baja
 reflejando la luna, barro húmedo, muros gigantes arriba. Luz: azul plateada de luna con destellos
@@ -98,7 +98,7 @@ sirvieron de nada"; goteo de agua, eco y viento leve. 8 s, sin cortes, fotorreal
 **E7 (8s)** · 🧬 Ingredient: foto Elara
 🎬 VIDEO (Flow):
 ```
-Plano medio, push-in suave. Elara (chaqueta terracota, pañuelo azul) sostiene o señala una esfera
+Plano medio, push-in suave. Elara (chaqueta rosa palo, pañuelo azul) sostiene o señala una esfera
 de reloj/astrolabio y mira a cámara con entusiasmo cálido. Entorno: fondo cálido con símbolos
 cuneiformes sutiles y un cielo estrellado. Luz: dorada suave. Actuación: cercana, reveladora,
 como compartiendo un secreto. Audio: su voz en español latino "¿Sabes qué? Cada vez que miras el
@@ -112,7 +112,7 @@ sereno, leve tono musical. 8 s, sin cortes, fotorrealismo cinematográfico 8K.
 🎬 VIDEO (Flow):
 ```
 Primer plano, push-in lento, luz cálida de atardecer entre ruinas de ladrillo. Elara (chaqueta
-terracota, pañuelo azul) habla a cámara con emoción contenida. Entorno: muros milenarios, polvo
+rosa palo, pañuelo azul) habla a cámara con emoción contenida. Entorno: muros milenarios, polvo
 dorado flotando, viento leve. Luz: hora dorada. Actuación: reflexiva, sincera, mirada firme.
 Audio: su voz en español latino "Las civilizaciones no siempre mueren por sus enemigos. Mueren
 cuando pierden la voluntad de ser lo que son"; viento suave entre las ruinas. 8 s, sin cortes,
@@ -124,7 +124,7 @@ fotorrealismo cinematográfico 8K.
 **E9 (8s)** · 🧬 Ingredient: foto Elara
 🎬 VIDEO (Flow):
 ```
-Plano medio; Elara (chaqueta terracota, pañuelo azul) entre las ruinas de Babilonia al atardecer
+Plano medio; Elara (chaqueta rosa palo, pañuelo azul) entre las ruinas de Babilonia al atardecer
 plantea una pregunta a cámara con gesto abierto. Entorno: silueta del zigurat detrás, cielo
 naranja, viento. Luz: dorada intensa. Actuación: cercana, invita a responder. Audio: su voz en
 español latino "Dime en los comentarios: ¿las civilizaciones caen por sus enemigos… o por los
@@ -134,7 +134,7 @@ suyos?"; viento cálido. 8 s, sin cortes, fotorrealismo 8K.
 **E10 (8s)** · 🧬 Ingredient: foto Elara
 🎬 VIDEO (Flow):
 ```
-Primer plano, push-in final suave; Elara (chaqueta terracota, pañuelo azul) mira a cámara con
+Primer plano, push-in final suave; Elara (chaqueta rosa palo, pañuelo azul) mira a cámara con
 calidez y una chispa de misterio, sol poniéndose entre las ruinas. Luz: dorada. Actuación:
 despedida cálida y enigmática, leve sonrisa y asentimiento. Audio: su voz en español latino "Si
 quieres seguir explorando conmigo los mundos que el tiempo enterró, suscríbete. Soy Elara. Nos
@@ -147,7 +147,7 @@ cortes, fotorrealismo cinematográfico 8K.
 ## 📊 NOTA
 - 10 clips de Elara con prompts de VIDEO ricos para Flow (Ingredients + Frames + audio + actuación).
 - Sube SIEMPRE `elara-avatar-referencia.jpg` como Ingredient para la consistencia de su cara.
-- Mantén el vestuario: blusa crema + chaqueta **terracota** + pañuelo **azul lapislázuli**.
+- Mantén el vestuario: blusa crema + chaqueta **rosa palo** + pañuelo **azul lapislázuli**.
 - Estos 10 clips cubren los 9 marcadores 🎬 (ELARA) de `babilonia-prompts.md` (apertura, cruce de
   la puerta, CTA intermedio, tesis, noche del río, legado, lección y despedida doble).
 - Si prefieres poner la voz en off aparte en CapCut, quita la línea de "su voz" y deja solo el

@@ -49,3 +49,17 @@ Cada clip del guion gráfico se entrega SIEMPRE con:
 1. **PROMPT DE IMAGEN** completo (anclaje + escena + estilo + negativo).
 2. **PROMPT DE VIDEO** (movimiento de cámara y acción), aunque sea imagen con Ken Burns.
 Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y emoción.
+
+
+
+
+## ⏱️ 7. CLIPS DE ELARA: LÍNEA HABLADA AJUSTADA A 8 SEGUNDOS (OBLIGATORIO)
+- Todo clip de Elara a cámara dura **8 segundos**, así que lo que dice DEBE caber en 8 s con
+  ritmo natural (español latino, voz de presentadora).
+- **Límite:** máximo **~20 palabras** por clip; lo ideal son **12–18 palabras**.
+- Frases con pausas dramáticas ("…") → tirar a la parte baja del rango (12–16 palabras).
+- Si una idea es más larga, **PÁRTELA en dos (o más) clips** de 8 s; nunca metas un párrafo
+  en un solo clip.
+- Al escribir cada clip de Elara, anota su **línea hablada exacta** y su conteo de palabras
+  para verificar que entra en 8 s (ver `babilonia-elara-clips-flow.md` como referencia de formato).
+- Esto aplica también si Elara habla dentro de un clip del guion gráfico (`*-prompts.md`).

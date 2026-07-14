@@ -5,6 +5,7 @@
 > - **Qué se narra** = las palabras que suenan MIENTRAS se ve ese clip.
 > - 🖼️ = imagen con movimiento (Ken Burns 8 s) · 🎬 = clip animado (8 s) · 👩 = se ve la cara de Elara diciendo esa frase.
 > Timecodes aproximados: la voz manda; al grabarla, ajusta el fin de cada clip al audio real (por eso conviene cortar la voz por frases).
+> ℹ️ **¿Ya produjiste desde `babilonia-prompts.md` (los 202 clips)?** NO necesitas esta versión a 8 s: mantén tus 202 clips y deja que cada uno dure lo que dure su frase (media ~11–12 s). Esta hoja es la alternativa para editar con cortes rígidos de 8 s. Tu material ya hecho es válido en ambos casos.
 
 | # | Inicio | Fin | Tipo | Qué se narra en ese clip |
 |---|--------|-----|------|--------------------------|

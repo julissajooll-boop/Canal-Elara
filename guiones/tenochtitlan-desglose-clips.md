@@ -2106,3 +2106,577 @@ Negativo: sin cortes bruscos, sin flicker, sin morphing del ave, sin objetos que
   escritas en modo SÍMBOLO/entorno (objetos, siluetas, contraluz), sin gore, para no ser bloqueadas.
 - **Anti-anacronismos:** todos los prompts anclan época/lugar y llevan negativo contra soldados
   modernos, armas de fuego modernas, vehículos y edificios contemporáneos.
+
+
+---
+
+# 🎭 FICHAS DE PERSONAJE — IMÁGENES BASE (generar UNA vez y reutilizar)
+
+> Regla del canal (guia-imagenes-base): todo personaje que aparece en **varios clips** se genera
+> primero como **imagen fija (base)** y se reutiliza en modo *image-to-video*, para que su rostro
+> y vestuario sean IDÉNTICOS en todas sus tomas. Genera cada ficha una sola vez y guárdala.
+
+## 👩‍🏫 ELARA — imagen base para ESTE video (Tenochtitlán)
+> Misma cara de siempre (usar su referencia del canal); solo cambia el vestuario a terracota + turquesa.
+```
+Retrato de cuerpo entero de Elara, presentadora documental: mujer latina de unos 40 años, rostro
+expresivo y cálido, piel trigueña, ojos marrones inteligentes, cabello largo oscuro ondulado suelto
+movido por la brisa, sonrisa segura y cercana. Viste blusa blanca, chaqueta terracota color rojo teja
+de exploradora abierta, pañuelo de seda turquesa al cuello, pantalón caqui claro y botas de cuero.
+Está de pie sobre una calzada de piedra azteca con la ciudad-lago de Tenochtitlán y sus templos al
+fondo, luz dorada del amanecer. Fotorrealismo cinematográfico, look documental premium, 8K,
+profundidad de campo, iluminación cálida favorecedora, gran detalle.
+Negativo: sin ropa de época en Elara, sin logotipos ni marcas, sin texto, sin gafas de sol, sin
+elementos modernos fuera de lugar (autos, móviles), sin rasgos ni manos deformes, sin marcas de agua.
+```
+> Usar esta base en TODOS los clips [ELARA] (1, 4, 8, 21, 27, 44, 55, 62, 70, 76, 81, 91, 96, 101,
+> 105, 114, 119, 127, 135, 139, 143, 144, 145, 147, 148, 149, 150).
+
+## 👑 MOCTEZUMA XOCOYOTZIN — imagen base (aparece en clips 92, 94, 107, 109, 113)
+```
+Retrato de cuerpo entero de Moctezuma Xocoyotzin, tlatoani mexica (hacia 1519), hombre de unos 50
+años, rostro digno y sereno, piel morena, cabello negro hasta los hombros, bezote y orejeras de
+turquesa. Viste un tocado imperial de largas plumas verdes de quetzal, manto de algodón fino
+(tilma) anudado al hombro con bordados geométricos, sandalias doradas, y ornamentos de oro,
+turquesa y jade. De pie con porte solemne en una sala de palacio de piedra decorada con relieves.
+Fotorrealismo histórico mesoamericano, 8K, iluminación cálida de claroscuro, gran detalle.
+Negativo: sin ropa moderna ni occidental, sin elementos anacrónicos, sin iconografía europea, sin
+texto, sin logotipos, sin marcas de agua, sin rostros ni manos deformes.
+```
+
+## ⚔️ HERNÁN CORTÉS — imagen base (aparece en clips 100, 107)
+```
+Retrato de cuerpo entero de Hernán Cortés, capitán español (siglo XVI), hombre de unos 35 años,
+rostro anguloso con barba oscura recortada, mirada calculadora. Viste coraza de acero pulido del
+siglo XVI, jubón oscuro debajo, gola, capa oscura sobre el hombro y espada ropera al cinto, botas
+de cuero altas. De pie con actitud firme, fondo de calzada sobre el lago con la ciudad azteca al
+fondo. Fotorrealismo histórico, 8K, iluminación lateral dramática, gran detalle en el metal.
+Negativo: sin uniformes militares modernos, sin armas de fuego modernas, sin ropa moderna, sin
+elementos anacrónicos, sin texto, sin logotipos, sin marcas de agua, sin rostros ni manos deformes.
+```
+
+## 🗣️ MALINTZIN (LA MALINCHE) — imagen base (aparece en clips 104, 107)
+```
+Retrato de cuerpo entero de Malintzin (la Malinche), joven mujer indígena mesoamericana (hacia
+1519), unos 20 años, rostro sereno e inteligente, piel morena, cabello negro largo trenzado o
+suelto. Viste un huipil de algodón blanco con bordados de colores y falda envolvente (enredo),
+collar de cuentas de jade. De pie en actitud de intérprete mediando, con gesto de estar hablando,
+fondo de encuentro entre mexicas y españoles. Fotorrealismo histórico mesoamericano, 8K,
+iluminación cálida, gran detalle.
+Negativo: sin ropa moderna ni occidental, sin elementos anacrónicos, sin texto, sin logotipos, sin
+marcas de agua, sin rostros ni manos deformes.
+```
+
+## 🦅 CUAUHTÉMOC — imagen base (aparece en clips 125, 128)
+```
+Retrato de cuerpo entero de Cuauhtémoc, último tlatoani mexica (1521), joven guerrero de unos 25
+años, rostro firme y valiente, piel morena, cabello negro recogido de guerrero. Viste atuendo de
+guerrero águila mexica: tocado con plumas y pico de águila estilizado, peto de algodón acolchado,
+escudo (chimalli) con mosaico de plumas y ornamentos de oro y jade. De pie con porte heroico, la
+ciudad sitiada y humeante al fondo. Fotorrealismo histórico mesoamericano, 8K, iluminación heroica
+de atardecer, gran detalle.
+Negativo: sin ropa moderna, sin armas de fuego, sin elementos anacrónicos, sin texto, sin
+logotipos, sin marcas de agua, sin rostros ni manos deformes.
+```
+
+## 🧑‍🌾 EXTRAS RECURRENTES (opcional, para coherencia de multitudes)
+- **Sacerdote mexica:** túnica negra, cuerpo pintado de negro, cabello largo, incensario. Base útil para clips del recinto sagrado (67–74).
+- **Guerrero jaguar:** traje completo de piel de jaguar con casco de fauces, escudo de plumas. Útil en clips 39, 112, 126.
+> Si aparecen de fondo, no requieren base; genera base solo si un rostro concreto se repite en primer plano.
+
+---
+
+# 🗺️ MAPAS ANIMADOS (clips 153–157)
+
+> Regla del canal (guia-mapas-animados): los mapas NO se generan con IA de video (distorsiona la
+> geografía). Se genera una **imagen de mapa** con IA y se anima en **CapCut** con keyframes
+> (expansión de color, rutas con línea creciente, zoom-in suave). Paleta sepia/dorada coherente
+> en todos los mapas. Duración 8 s cada uno.
+
+### CLIP 153 — MAPA: el Valle de México y sus cinco lagos
+- 🖼️ **IMG (mapa base):**
+```
+Mapa histórico estilizado del Valle de México prehispánico, estética de pergamino sepia y dorado,
+montañas y volcanes dibujados alrededor, la cadena de cinco lagos conectados marcada en azul, y la
+isla de Tenochtitlán señalada en el centro del lago de Texcoco. Sin texto en inglés, cinematográfico,
+alta resolución.
+Negativo: sin texto moderno, sin letras latinas grandes, sin logos, sin marcas de agua, sin fronteras modernas, sin anacronismos.
+```
+- 🎬 **Animación (CapCut):** zoom-in suave (100%→110%) hacia la isla central; un punto dorado latiendo
+  marca Tenochtitlán. Rótulo pequeño y elegante "Tenochtitlán" y "Lago de Texcoco" en español.
+  `Negativo del video: sin cortes bruscos, sin flicker, sin morphing, sin texto en inglés, sin marcas de agua.`
+
+### CLIP 154 — MAPA: la peregrinación desde Aztlán
+- 🖼️ **IMG (mapa base):**
+```
+Mapa histórico estilizado de Mesoamérica, estética de pergamino sepia y dorado, con una línea de
+ruta punteada que baja desde el norte (Aztlán, marcado con un glifo) hasta el lago de Texcoco en el
+centro del Valle de México. Montañas dibujadas. Sin texto en inglés, cinematográfico, alta resolución.
+Negativo: sin texto moderno, sin letras latinas grandes, sin logos, sin marcas de agua, sin fronteras modernas, sin anacronismos.
+```
+- 🎬 **Animación (CapCut):** la línea punteada de la ruta **crece** de norte a sur con keyframes
+  (revelado tipo "wipe") hasta llegar al lago; leve zoom-in final sobre la isla.
+  `Negativo del video: sin cortes bruscos, sin flicker, sin morphing, sin texto en inglés, sin marcas de agua.`
+
+### CLIP 155 — MAPA: la ciudad-isla y sus tres calzadas
+- 🖼️ **IMG (mapa base):**
+```
+Mapa-plano histórico estilizado de la ciudad de Tenochtitlán sobre el lago, estética de pergamino
+sepia y dorado, mostrando la isla con su retícula de canales, el recinto sagrado al centro, y las
+tres grandes calzadas saliendo hacia el norte, el poniente y el sur, más la línea del acueducto de
+Chapultepec. Sin texto en inglés, cinematográfico, alta resolución.
+Negativo: sin texto moderno, sin letras latinas grandes, sin logos, sin marcas de agua, sin calles modernas, sin anacronismos.
+```
+- 🎬 **Animación (CapCut):** cada calzada se **ilumina/dibuja** una por una con keyframes; el recinto
+  sagrado brilla suave al final; leve zoom-in.
+  `Negativo del video: sin cortes bruscos, sin flicker, sin morphing, sin texto en inglés, sin marcas de agua.`
+
+### CLIP 156 — MAPA: la ruta de Cortés desde la costa
+- 🖼️ **IMG (mapa base):**
+```
+Mapa histórico estilizado del centro de México, estética de pergamino sepia y dorado, con una línea
+de ruta que avanza desde la costa del Golfo (Veracruz, marcado con un barco) tierra adentro,
+pasando por Tlaxcala, hasta Tenochtitlán en el lago. Montañas y volcanes dibujados. Sin texto en
+inglés, cinematográfico, alta resolución.
+Negativo: sin texto moderno, sin letras latinas grandes, sin logos, sin marcas de agua, sin carreteras modernas, sin anacronismos.
+```
+- 🎬 **Animación (CapCut):** la línea de ruta **avanza** desde la costa hasta la ciudad con keyframes;
+  un pequeño ícono se desplaza por la línea; zoom-in final sobre Tenochtitlán.
+  `Negativo del video: sin cortes bruscos, sin flicker, sin morphing, sin texto en inglés, sin marcas de agua.`
+
+### CLIP 157 — MAPA: el cerco de 1521
+- 🖼️ **IMG (mapa base):**
+```
+Mapa-plano histórico estilizado de Tenochtitlán sitiada, estética de pergamino sepia y dorado,
+mostrando la isla en el centro, las tres calzadas CORTADAS (marcadas con un corte rojo) y los
+bergantines rodeando la isla por el lago desde varios puntos. Sin texto en inglés, cinematográfico,
+alta resolución.
+Negativo: sin texto moderno, sin letras latinas grandes, sin logos, sin marcas de agua, sin barcos modernos, sin anacronismos.
+```
+- 🎬 **Animación (CapCut):** flechas/marcas de cerco **se cierran** hacia la isla con keyframes; los
+  cortes rojos aparecen en las calzadas; leve zoom-in dramático.
+  `Negativo del video: sin cortes bruscos, sin flicker, sin morphing, sin texto en inglés, sin marcas de agua.`
+
+
+---
+
+# 🎞️ MATERIAL ADICIONAL — TOMAS DE REFUERZO (clips 158–188)
+
+> B-roll extra para intercalar y enriquecer el montaje (cumple el estándar de ~185+ tomas del
+> canal). Encajan sobre la voz en off del Acto 2 (la grandeza) y como transiciones. Todas con
+> IMG + su negativo y VID + su negativo.
+
+### CLIP 158 — El artesano de plumas (amanteca)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Artesano amanteca componiendo con precisión un mosaico de plumas de
+colores (quetzal, guacamaya) sobre un escudo ceremonial, pinzas de hueso, taller iluminado. Fotorrealismo cinematográfico 8K, macro, luz cálida.
+Negativo: sin herramientas modernas, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in a las manos del amanteca colocando las plumas una a una.
+Negativo: sin cortes, sin flicker, sin morphing de manos, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 159 — El orfebre y el oro (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Orfebre mexica fundiendo y labrando una pieza de oro con forma de animal,
+crisol y brasas, destellos dorados, taller sombrío. Fotorrealismo cinematográfico 8K, luz cálida.
+Negativo: sin herramientas modernas, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in al oro fundido brillando y a la pieza tomando forma.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 160 — El escriba (tlacuilo) pintando un códice
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Tlacuilo (escriba-pintor) mexica pintando glifos de colores en un códice
+de papel amate desplegado, pinceles de fibra y cuencos de pigmento, luz cálida. Fotorrealismo cinematográfico 8K, gran detalle.
+Negativo: sin letras latinas, sin texto moderno, sin anacronismos, sin logos, sin marcas de agua, sin manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in al pincel pintando un glifo en el códice.
+Negativo: sin cortes, sin flicker, sin morphing de manos, sin objetos que aparecen o desaparecen, sin texto moderno, sin logos, sin marcas de agua.
+```
+
+### CLIP 161 — El juego de pelota (tlachtli) (video)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Cancha del juego de pelota mesoamericano con muros inclinados y anillo de
+piedra, jugadores con protecciones golpeando una pelota de hule con la cadera, público en las gradas. Fotorrealismo cinematográfico 8K, luz cálida, dinamismo.
+Negativo: sin deportes modernos, sin ropa moderna, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Travelling lateral siguiendo la pelota de hule y a los jugadores golpeándola con la cadera.
+Negativo: sin cortes de plano, sin saltos, sin flicker, sin morphing de caras ni manos, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin cámara temblorosa.
+```
+
+### CLIP 162 — Música y danza en la fiesta (video)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Danzantes mexicas con penachos girando en una plaza al ritmo de tambores
+huehuetl y flautas, ambiente festivo y colorido, día soleado. Fotorrealismo cinematográfico 8K, movimiento y color.
+Negativo: sin instrumentos modernos, sin ropa moderna, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes, sin personas duplicadas.
+```
+- 🎬 **VID:**
+```
+Travelling circular suave alrededor de los danzantes girando; penachos y faldas en movimiento.
+Negativo: sin cortes de plano, sin saltos, sin flicker, sin morphing de caras ni manos, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin cámara temblorosa.
+```
+
+### CLIP 163 — Los tambores huehuetl (imagen detalle)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Detalle de manos tocando un tambor huehuetl de madera tallada y un
+teponaztli, ritmo ceremonial, luz cálida. Fotorrealismo cinematográfico 8K, macro.
+Negativo: sin instrumentos modernos, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in a las manos percutiendo el tambor.
+Negativo: sin cortes, sin flicker, sin morphing de manos, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 164 — La Piedra del Sol / calendario (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Gran monolito circular del calendario mexica (Piedra del Sol) recién
+tallado, relieves concéntricos con glifos, iluminado con luz cálida en el recinto. Fotorrealismo cinematográfico 8K, gran detalle.
+Negativo: sin anacronismos, sin texto moderno, sin logos, sin marcas de agua, sin distorsión.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in lento y rotación mínima aparente sobre los relieves del calendario.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 165 — Astrónomos observando el cielo (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Sacerdotes-astrónomos mexicas observando las estrellas desde lo alto de un
+templo de noche, señalando constelaciones, cielo estrellado. Fotorrealismo cinematográfico 8K, luz de luna y antorchas.
+Negativo: sin telescopios ni instrumentos modernos, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: paneo lento del cielo estrellado hacia los astrónomos en la cima.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 166 — Los mercaderes pochteca de viaje (video)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Caravana de mercaderes pochteca cruzando un paisaje tropical con fardos y
+bastones, transportando bienes de tierras lejanas hacia la ciudad, luz de mañana. Fotorrealismo cinematográfico 8K.
+Negativo: sin ropa moderna, sin anacronismos, sin vehículos, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes, sin personas duplicadas.
+```
+- 🎬 **VID:**
+```
+Travelling lateral acompañando a la caravana pochteca que avanza por el sendero.
+Negativo: sin cortes de plano, sin saltos, sin flicker, sin morphing de caras ni manos, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin cámara temblorosa.
+```
+
+### CLIP 167 — El herbolario y la medicina (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Curandero mexica (ticitl) seleccionando hierbas medicinales y preparando
+un remedio en un cuenco, manojos de plantas colgando, luz cálida. Fotorrealismo cinematográfico 8K, gran detalle botánico.
+Negativo: sin instrumentos modernos, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in a las manos moliendo hierbas en el cuenco.
+Negativo: sin cortes, sin flicker, sin morphing de manos, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 168 — Pesca al amanecer en el lago (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Pescador mexica lanzando una red desde una canoa en el lago al amanecer,
+neblina dorada, aves acuáticas, reflejos. Fotorrealismo cinematográfico 8K, atmósfera serena.
+Negativo: sin embarcaciones modernas, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in lento al pescador lanzando la red; ondas expandiéndose en el agua.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 169 — Preparando el chocolate espumoso (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Mujer mexica vertiendo chocolate de un recipiente a otro desde lo alto
+para levantar espuma, granos de cacao molidos, cocina de barro, luz cálida. Fotorrealismo cinematográfico 8K.
+Negativo: sin utensilios modernos, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in al chorro de chocolate cayendo y formando espuma.
+Negativo: sin cortes, sin flicker, sin morphing de manos, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 170 — El xoloitzcuintle (perro mexica) (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Un perro xoloitzcuintle (sin pelo) descansando junto a una casa de adobe
+encalada al sol, escena cotidiana, luz cálida. Fotorrealismo cinematográfico 8K, gran detalle.
+Negativo: sin perros de razas modernas, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin animales deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in suave al xoloitzcuintle que mueve las orejas y respira.
+Negativo: sin cortes, sin flicker, sin morphing del animal, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 171 — El maguey y el aguamiel (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Campesino mexica raspando el corazón de un maguey para extraer aguamiel
+con un acocote (calabazo largo), campo de magueyes, luz de tarde. Fotorrealismo cinematográfico 8K.
+Negativo: sin herramientas modernas, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in al acocote extrayendo el aguamiel del maguey.
+Negativo: sin cortes, sin flicker, sin morphing de manos, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 172 — Chiles y especias en el mercado (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Puesto del mercado con montañas de chiles secos rojos, semillas y
+especias en cestos de palma, colores intensos, luz cálida. Fotorrealismo cinematográfico 8K, macro.
+Negativo: sin productos modernos, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin distorsión.
+```
+- 🎬 **VID:**
+```
+Ken Burns: paneo lento sobre los cestos de chiles y especias.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 173 — El muro de serpientes (coatepantli) (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Muro coatepantli del recinto sagrado coronado por cabezas de serpiente de
+piedra pintadas, relieves imponentes, luz dorada. Fotorrealismo cinematográfico 8K, gran detalle.
+Negativo: sin anacronismos, sin texto, sin logos, sin marcas de agua, sin distorsión.
+```
+- 🎬 **VID:**
+```
+Travelling lateral lento a lo largo del muro de serpientes de piedra.
+Negativo: sin cortes de plano, sin saltos, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin cámara temblorosa.
+```
+
+### CLIP 174 — Guerrero águila y guerrero jaguar (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Un guerrero águila (traje con plumas y casco de pico) y un guerrero jaguar
+(traje de piel de jaguar con casco de fauces) de pie firmes, escudos de plumas, luz heroica. Fotorrealismo cinematográfico 8K, gran detalle, sin violencia.
+Negativo: sin sangre, sin gore, sin armas de fuego, sin anacronismos, sin ropa moderna, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: paneo lento de un guerrero al otro; plumas y pieles moviéndose apenas.
+Negativo: sin cortes, sin flicker, sin morphing de caras, sin objetos que aparecen o desaparecen, sin gore, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 175 — La partera y la vida cotidiana (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Escena cálida y respetuosa de una partera mexica acompañando a una madre
+con su bebé recién nacido en el interior de una casa, ternura, luz suave. Fotorrealismo cinematográfico 8K.
+Negativo: sin desnudez explícita, sin sangre, sin anacronismos, sin ropa moderna, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in suave a la madre y el bebé; ambiente cálido.
+Negativo: sin cortes, sin flicker, sin morphing de caras, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 176 — Flor y canto: la poesía (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Un poeta-noble mexica recitando en un jardín florido junto a una fuente,
+flores y aves alrededor, atmósfera contemplativa (in xochitl in cuicatl, flor y canto). Fotorrealismo cinematográfico 8K, luz dorada.
+Negativo: sin anacronismos, sin ropa moderna, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: paneo lento por el jardín hacia el poeta recitando.
+Negativo: sin cortes, sin flicker, sin morphing de caras, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 177 — El cargador de tributo (tameme) (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Primer plano de un tameme (cargador) con el mecapal (banda en la frente)
+sosteniendo un fardo pesado de mercancías, esfuerzo digno, luz cálida. Fotorrealismo cinematográfico 8K.
+Negativo: sin anacronismos, sin ropa moderna, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in al rostro esforzado y al mecapal tensándose.
+Negativo: sin cortes, sin flicker, sin morphing de cara, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 178 — La calzada al anochecer con antorchas (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. La gran calzada al anochecer iluminada por antorchas reflejadas en el
+lago, gente regresando a casa, cielo púrpura. Fotorrealismo cinematográfico 8K, luz cálida de antorcha.
+Negativo: sin luces eléctricas, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Travelling lento por la calzada nocturna, llamas de antorcha oscilando y reflejándose.
+Negativo: sin cortes de plano, sin saltos, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin cámara temblorosa.
+```
+
+### CLIP 179 — El cañón español (sugerido) (imagen)
+- 🖼️ **IMG:**
+```
+Año 1521, histórico. Un cañón de bronce del siglo XVI montado por soldados españoles apuntando hacia
+la ciudad desde una calzada, humo de pólvora tenue, tono dramático, sin mostrar impacto. Fotorrealismo cinematográfico 8K.
+Negativo: sin armas de fuego modernas, sin artillería moderna, sin anacronismos, sin sangre, sin gore, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in lento al cañón de bronce con humo de pólvora saliendo suave.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin armas modernas, sin gore, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 180 — Batalla naval en el lago (sugerido) (video)
+- 🖼️ **IMG:**
+```
+Año 1521, histórico. Bergantines españoles y canoas mexicas maniobrando en el lago durante el
+asedio, velas y remos, agua agitada, sin sangre ni cuerpos, tono épico y sobrio. Fotorrealismo cinematográfico 8K, luz dramática.
+Negativo: sin barcos modernos, sin sangre, sin gore, sin cuerpos, sin armas de fuego modernas, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+- 🎬 **VID:**
+```
+Travelling aéreo lento sobre los bergantines y las canoas maniobrando en el agua agitada.
+Negativo: sin cortes de plano, sin saltos, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin gore, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin cámara temblorosa.
+```
+
+### CLIP 181 — Detalle: mosaico de turquesa (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Detalle macro de una máscara ceremonial cubierta de mosaico de turquesa
+azul brillante, gran artesanía, luz cálida de museo. Fotorrealismo cinematográfico 8K.
+Negativo: sin anacronismos, sin texto, sin logos, sin marcas de agua, sin distorsión.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in muy lento al mosaico de turquesa revelando su detalle.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 182 — Amanecer sobre el Templo Mayor (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. El sol naciendo justo entre los dos santuarios del Templo Mayor, rayos
+dorados alineados, humo de incienso, momento sagrado del amanecer. Fotorrealismo cinematográfico 8K, gran belleza.
+Negativo: sin anacronismos, sin cruces, sin texto, sin logos, sin marcas de agua, sin distorsión.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in lento al sol alineándose entre los santuarios.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 183 — Niños jugando junto al canal (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Niños mexicas jugando y riendo junto a un canal con una pequeña canoa,
+escena cotidiana y tierna, luz cálida de tarde. Fotorrealismo cinematográfico 8K.
+Negativo: sin ropa moderna, sin anacronismos, sin juguetes modernos, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: paneo suave sobre los niños jugando junto al agua.
+Negativo: sin cortes, sin flicker, sin morphing de caras, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 184 — El trono de Moctezuma (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Sala del trono en el palacio de Moctezuma: asiento bajo de mimbre (icpalli)
+con respaldo, esteras finas, biombos, relieves y antorchas, ambiente de poder. Fotorrealismo cinematográfico 8K, luz cálida.
+Negativo: sin tronos europeos, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin distorsión.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in lento hacia el trono vacío bañado por la luz de antorchas.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 185 — Vista nocturna de la ciudad iluminada (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Vista aérea nocturna de Tenochtitlán con cientos de antorchas y fogatas
+reflejándose en los canales y el lago, cielo estrellado, belleza serena. Fotorrealismo cinematográfico 8K, gran escala.
+Negativo: sin luces eléctricas, sin edificios modernos, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin distorsión.
+```
+- 🎬 **VID:**
+```
+Travelling aéreo muy lento sobre la ciudad iluminada de noche, reflejos temblando en el agua.
+Negativo: sin cortes de plano, sin saltos, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua, sin cámara temblorosa.
+```
+
+### CLIP 186 — Ofrenda de flores y copal (imagen)
+- 🖼️ **IMG:**
+```
+Imperio azteca histórico. Manos colocando flores de cempasúchil y quemando copal en un brasero de
+barro como ofrenda, humo aromático subiendo, luz cálida. Fotorrealismo cinematográfico 8K, macro.
+Negativo: sin anacronismos, sin texto, sin logos, sin marcas de agua, sin manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns: zoom-in al humo de copal subiendo entre las flores.
+Negativo: sin cortes, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin anacronismos, sin texto, sin logos, sin marcas de agua.
+```
+
+### CLIP 187 — Ruinas del Templo Mayor de noche hoy (imagen)
+- 🖼️ **IMG:**
+```
+Ciudad de México actual. Zona arqueológica del Templo Mayor iluminada de noche en el centro
+histórico, cimientos de piedra bajo luces cálidas, la catedral iluminada al fondo. Fotorrealismo cinematográfico 8K.
+Negativo: sin coches en primer plano, sin texto legible, sin logos, sin marcas de agua, sin distorsión.
+```
+- 🎬 **VID:**
+```
+Travelling aéreo lento sobre las ruinas iluminadas de noche.
+Negativo: sin cortes de plano, sin saltos, sin flicker, sin morphing, sin objetos que aparecen o desaparecen, sin texto, sin logos, sin marcas de agua, sin cámara temblorosa.
+```
+
+### CLIP 188 — Transición pasado-presente (imagen)
+- 🖼️ **IMG:**
+```
+Composición de doble exposición cinematográfica: la Tenochtitlán dorada sobre el lago fundiéndose
+suavemente con la Ciudad de México actual en el mismo encuadre, pasado y presente superpuestos. Fotorrealismo cinematográfico 8K, luz cálida.
+Negativo: sin texto, sin logos, sin marcas de agua, sin distorsión, sin rostros ni manos deformes.
+```
+- 🎬 **VID:**
+```
+Ken Burns con fundido: transición lenta de la ciudad antigua a la moderna en el mismo plano.
+Negativo: sin cortes bruscos, sin flicker, sin morphing extraño, sin objetos que aparecen o desaparecen, sin texto, sin logos, sin marcas de agua.
+```
+
+---
+
+## ✅ RESUMEN FINAL DEL GUION GRÁFICO (actualizado)
+- **152 clips de narración** (Hook, Contexto, Acto 1, Acto 2, Acto 3, Cierre + CTA).
+- **5 mapas animados** (clips 153–157) con método CapCut y paleta sepia/dorada coherente.
+- **31 tomas de refuerzo / material adicional** (clips 158–188).
+- **TOTAL: 188 clips** → cumple el estándar del canal (~185+) y llena con holgura 25–30 min.
+- **5 fichas de personaje con imagen base** (Elara-Tenochtitlán, Moctezuma, Cortés, Malinche,
+  Cuauhtémoc) + 2 extras recurrentes → coherencia de rostro/vestuario en todos sus clips.
+- Cada clip lleva **IMAGEN + su negativo** y **VIDEO + su negativo** (regla del canal cumplida).
+- Anti-anacronismos y anti-bloqueos (escenas duras por símbolos, sin gore) aplicados en todo.

@@ -63,3 +63,18 @@ Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y em
 - Al escribir cada clip de Elara, anota su **línea hablada exacta** y su conteo de palabras
   para verificar que entra en 8 s (ver `babilonia-elara-clips-flow.md` como referencia de formato).
 - Esto aplica también si Elara habla dentro de un clip del guion gráfico (`*-prompts.md`).
+
+
+
+
+## 🗣️ 8. LAS LÍNEAS DE ELARA A CÁMARA = TROZO EXACTO DE LA VOZ EN OFF (OBLIGATORIO)
+- La voz en off es UNA sola narración continua (toda con la voz de Elara).
+- Los clips donde se VE su cara NO llevan texto nuevo ni parafraseado: dicen **exactamente un
+  fragmento literal de la voz en off**. En ese momento solo cambia que en pantalla vemos a Elara
+  en vez de imágenes de reconstrucción.
+- ❌ NUNCA escribir una versión "parecida" de la frase para el clip de Elara y a la vez dejar la
+  frase original en la voz en off: eso hace que parezca que todo se dice dos veces (confuso).
+- Elegir como momentos de Elara frases que ya sean cortas (≤ ~20 palabras / 8 s). Si la frase
+  natural es más larga, Elara dice a cámara el trozo que entra en 8 s y el resto continúa en voz
+  en off sobre imágenes.
+- En el archivo de clips de Elara, citar la frase EXACTA tal como aparece en la voz en off.

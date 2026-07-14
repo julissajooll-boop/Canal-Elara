@@ -2,6 +2,8 @@
 **Canal:** Elara Historiadora · Video ~37 min · Guion: "La noche en que cayó sin luchar"
 
 > Cómo debe ir TODO, capa por capa. La VOZ EN OFF manda: los clips se ajustan a ella.
+> 📌 Esta tabla es la VISIÓN GENERAL por secciones. Para el minutaje EXACTO clip por clip
+> (inicio y fin de cada uno de los 295 clips de 8 s), usa `babilonia-timeline-montaje.md`.
 > Timecodes aproximados (ajústalos al audio real). Orden = clips del montaje (#1–#202 de
 > `babilonia-prompts.md`) + clips de Elara (E1–E9 de `babilonia-elara-clips-flow.md`) intercalados.
 

@@ -2,6 +2,11 @@
 **Canal:** Elara Historiadora · **Imágenes:** 130 · **Clips de video:** 63 · **Clips de Elara:** 9 · **Total:** 202 prompts
 > Anclaje histórico mesopotámico + estilo + negativo aplicados automáticamente. Imágenes = efecto Ken Burns; Clips = video 8 s. Los clips 🎬 (ELARA) tienen su prompt de video RICO en `babilonia-elara-clips-flow.md` (subir siempre `elara-avatar-referencia.jpg` como Ingredient).
 
+> 🗺️ **Este archivo es la BIBLIOTECA de prompts visuales (QUÉ generar), agrupada por tema.**
+> Para saber **CUÁNDO va cada clip y cuánto dura** (minuto a minuto), usa la hoja principal
+> `babilonia-timeline-montaje.md` (295 clips de 8 s sincronizados con la voz en off). Un mismo
+> tema/prompt de aquí suele cubrir varios tramos de 8 s seguidos de la timeline.
+
 ## 🚫 PROMPT NEGATIVO OBLIGATORIO (cópialo en todas las generaciones)
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin uniformes ni armas de fuego modernos, sin vehículos motorizados, sin edificios modernos ni rascacielos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore explícito.

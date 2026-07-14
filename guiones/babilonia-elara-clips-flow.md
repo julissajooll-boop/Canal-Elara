@@ -15,12 +15,12 @@
 > - 🧬 Ingredient: sube `elara-avatar-referencia.jpg` (cara/consistencia) en TODOS los clips.
 > - 🎞️ Frame inicial: la imagen generada de cada clip.
 > - 🔊 Audio ON: voz de Elara (lip-sync) + ambiente + foley.
-> - Son los 9 marcadores 🎬 (ELARA) de `babilonia-prompts.md`: #6, #20, #46, #102, #133, #183,
->   #198, #201 y #202.
+> - Cuándo va cada uno (nº de clip + minuto exacto): ver `babilonia-timeline-montaje.md` (hoja
+>   principal) y el resumen en `babilonia-elara-ubicacion-montaje.md`.
 
 ---
 
-## E1 — APERTURA (Puerta de Ishtar, de noche) · clip #6
+## E1 — APERTURA (Puerta de Ishtar, de noche) · timeline #7 · 00:48–00:56
 🗣️ Frase exacta (voz en off): *"Soy Elara, y esta noche vamos a vivir, hora a hora, la última noche de Babilonia."*
 🎬 VIDEO (Flow):
 ```
@@ -33,7 +33,7 @@ Actuación: cercana e intrigante, media sonrisa, mirada directa. Audio: su voz e
 antorchas y viento suave. 8 s, sin cortes, fotorrealismo cinematográfico 8K.
 ```
 
-## E2 — CRUZANDO LA PUERTA · clip #20
+## E2 — CRUZANDO LA PUERTA · timeline #22 · 02:48–02:56
 🗣️ Frase exacta (voz en off): *"Cuando cruzabas esa puerta, no entrabas a una ciudad cualquiera. Entrabas al ombligo del mundo."*
 🎬 VIDEO (Flow):
 ```
@@ -46,7 +46,7 @@ latino "Cuando cruzabas esa puerta, no entrabas a una ciudad cualquiera. Entraba
 mundo"; eco de pasos y ciudad lejana. 8 s, sin cortes, 8K.
 ```
 
-## E3 — LA PREGUNTA + CTA (murallas al atardecer) · clip #46
+## E3 — LA PREGUNTA + CTA (murallas al atardecer) · timeline #49 · 06:24–06:32
 🗣️ Frase exacta (voz en off): *"Si quieres entender la respuesta completa, quédate conmigo hasta el final."*
 🎬 VIDEO (Flow):
 ```
@@ -57,7 +57,7 @@ invita a seguir. Audio: su voz en español latino "Si quieres entender la respue
 quédate conmigo hasta el final"; viento suave. 8 s, sin cortes, fotorrealismo 8K.
 ```
 
-## E4 — LA TESIS DE LA TRAICIÓN · clip #102
+## E4 — LA TESIS DE LA TRAICIÓN · timeline #150 · 19:52–20:00
 🗣️ Frase exacta (voz en off): *"A Babilonia no la conquistaron. La entregaron."*
 🎬 VIDEO (Flow):
 ```
@@ -69,7 +69,7 @@ conquistaron. La entregaron"; silencio tenso con leve crepitar de fuego. 8 s, si
 fotorrealismo cinematográfico 8K.
 ```
 
-## E5 — EN EL LECHO DEL RÍO (la noche) · clip #133
+## E5 — EN EL LECHO DEL RÍO (la noche) · timeline #172 · 22:48–22:56
 🗣️ Frase exacta (voz en off): *"Y las murallas colosales, esas por las que Babilonia se creía eterna, no sirvieron de nada."*
 🎬 VIDEO (Flow):
 ```
@@ -82,7 +82,7 @@ colosales, esas por las que Babilonia se creía eterna, no sirvieron de nada"; g
 y viento leve. 8 s, sin cortes, fotorrealismo 8K.
 ```
 
-## E6 — EL LEGADO (Babilonia sigue viva) · clip #183
+## E6 — EL LEGADO (Babilonia sigue viva) · timeline #256 · 34:00–34:08
 🗣️ Frase exacta (voz en off, primer trozo de la frase; el resto sigue en voz en off): *"Cada vez que miras el reloj y ves que son las ocho y cuarto…"*
 🎬 VIDEO (Flow):
 ```
@@ -94,7 +94,7 @@ sereno, leve tono musical. (Después se corta a imágenes mientras la voz en off
 8 s, sin cortes, fotorrealismo cinematográfico 8K.
 ```
 
-## E7 — LA LECCIÓN · clip #198
+## E7 — LA LECCIÓN · timeline #283 · 37:36–37:44
 🗣️ Frase exacta (voz en off): *"Mueren cuando pierden la voluntad de ser lo que son."*
 🎬 VIDEO (Flow):
 ```
@@ -105,7 +105,7 @@ milenarios, polvo dorado flotando, viento leve. Luz: hora dorada. Audio: su voz 
 cortes, fotorrealismo cinematográfico 8K.
 ```
 
-## E8 — PREGUNTA A COMENTARIOS · clip #201
+## E8 — PREGUNTA A COMENTARIOS · timeline #291 · 38:40–38:48
 🗣️ Frase exacta (voz en off): *"Dime con sinceridad: ¿crees que las civilizaciones caen por sus enemigos… o por los suyos?"*
 🎬 VIDEO (Flow):
 ```
@@ -116,7 +116,7 @@ español latino "Dime con sinceridad: ¿crees que las civilizaciones caen por su
 los suyos?"; viento cálido. 8 s, sin cortes, fotorrealismo 8K.
 ```
 
-## E9 — DESPEDIDA (cierre de marca) · clip #202
+## E9 — DESPEDIDA (cierre de marca) · timeline #295 · 39:12–39:20
 🗣️ Frase exacta (voz en off): *"Soy Elara. Nos vemos en la historia."*
 🎬 VIDEO (Flow):
 ```

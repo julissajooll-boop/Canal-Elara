@@ -78,3 +78,19 @@ Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y em
   natural es más larga, Elara dice a cámara el trozo que entra en 8 s y el resto continúa en voz
   en off sobre imágenes.
 - En el archivo de clips de Elara, citar la frase EXACTA tal como aparece en la voz en off.
+
+
+
+
+## ⏱️ 9. HOJA DE TIEMPO (TIMELINE): dividir la voz en off en clips de 8 s (OBLIGATORIO)
+- El montaje se construye **dividiendo la voz en off en tramos de 8 s**: cada 8 s = un clip.
+- Nº de clips = duración de la voz en off ÷ 8. Así los clips **SIEMPRE cuadran** con la voz
+  (ej.: una narración de ~39 min = ~295 clips de 8 s).
+- Entregar SIEMPRE una **hoja de timeline** con: nº de clip · inicio · fin · tipo
+  (🖼️ imagen / 🎬 video / 👩 Elara) · **el texto exacto que se narra durante ese clip**.
+- Los clips de Elara ocupan su propio tramo de 8 s (su frase = ese tramo).
+- Generar la timeline DESDE el archivo de voz en off (script `build_<tema>_timeline.py`) para no
+  desincronizar el texto con los tiempos.
+- Diferencia clave: la hoja `*-prompts.md` es la **BIBLIOTECA visual** (QUÉ generar); la
+  `*-timeline-montaje.md` dice **CUÁNDO va cada clip y cuánto dura**. Timecodes aproximados: al
+  grabar la voz, se ajusta el fin de cada clip al audio real (cortar la voz por frases ayuda).

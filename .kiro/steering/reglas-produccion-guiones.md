@@ -4,8 +4,10 @@
 ## ⏱️ 1. DURACIÓN DEL GUION: 25 MINUTOS
 - Todo guion se diseña para durar **25 minutos**.
 - Puede **pasarse hasta ~5 minutos** (25–30 min está bien). Nunca quedarse corto.
-- Objetivo de voz en off: **~3.700–4.500 palabras** de narración.
-- Desglose de clips que cubra TODA la narración (~185+ clips de 8 s).
+- Objetivo de voz en off: **~3.700–4.500 palabras** de narración (o más si el tema lo pide).
+- Desglose de clips que cubra TODA la narración. ⚠️ El nº de clips **NO es fijo**: se calcula
+  `nº de clips = duración de la voz en off (seg) ÷ 8` (≈ `palabras ÷ 19`). El "~188" es solo
+  para 25 min; si la voz dura más, hacen falta más clips (30 min ≈ 225; 39 min ≈ 295).
 - Rellenar con MÁS historias humanas reales y documentadas, nunca con paja.
 > Nota: la usuaria indicó "25" como duración objetivo del guion (se interpreta en MINUTOS,
 > coherente con el estándar del canal). Confirmar si en algún caso se refiere a otra unidad.
@@ -83,9 +85,16 @@ Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y em
 
 
 ## ⏱️ 9. HOJA DE TIEMPO (TIMELINE): dividir la voz en off en clips de 8 s (OBLIGATORIO)
+> 🚨 **ERROR QUE NO DEBE REPETIRSE:** en Babilonia la voz en off duraba ~39 min pero el desglose
+> tenía ~200 clips (≈27 min): NO cuadraban. Causa: usar un nº de clips fijo (~188) sin escalarlo
+> a la duración real. **Antes de entregar, SIEMPRE verificar que `nº de clips × 8 s ≈ duración de
+> la voz en off`.** Si no cuadra, faltan (o sobran) clips: hay que ajustarlos.
 - El montaje se construye **dividiendo la voz en off en tramos de 8 s**: cada 8 s = un clip.
-- Nº de clips = duración de la voz en off ÷ 8. Así los clips **SIEMPRE cuadran** con la voz
-  (ej.: una narración de ~39 min = ~295 clips de 8 s).
+- Nº de clips = duración de la voz en off ÷ 8 (≈ `palabras ÷ 19`). Así los clips **SIEMPRE
+  cuadran** con la voz (ej.: una narración de ~39 min = ~295 clips de 8 s). NO usar 188 por defecto.
+- ✅ **Paso de verificación obligatorio** antes de dar por terminado: contar los clips del
+  desglose/timeline y comprobar que `clips × 8 s` está dentro de ±1 min de la duración de la voz
+  en off. Dejar constancia del cálculo (palabras, minutos, nº de clips).
 - Entregar SIEMPRE una **hoja de timeline** con: nº de clip · inicio · fin · tipo
   (🖼️ imagen / 🎬 video / 👩 Elara) · **el texto exacto que se narra durante ese clip**.
 - Los clips de Elara ocupan su propio tramo de 8 s (su frase = ese tramo).

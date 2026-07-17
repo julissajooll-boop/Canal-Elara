@@ -570,3 +570,35 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ⚔️👑 BLOQUE B24 · CIRO EL GRANDE y su ascenso · junto a tus clips #87–#90
+### Frase: *"Ciro Segundo, al que la historia llamaría Ciro el Grande… empezó siendo el príncipe de una región periférica… Se rebeló, y para sorpresa de todos, venció… En menos de veinte años construyó el mayor imperio que el mundo había visto jamás."*
+
+**🖼️ IMAGEN — retrato de Ciro el Grande**
+```
+Imperio Persa aqueménida, siglo VI a.C., Persia histórica, indumentaria persa auténtica. Retrato imponente de Ciro el Grande, rey persa de unos cuarenta años, con tiara real persa, barba cuidada, manto ricamente bordado en púrpura y oro; mirada serena, inteligente y poderosa. Detrás, en penumbra, un salón persa con relieves de toros alados y columnas. Luz cálida lateral. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro majestuoso, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 1 (8 s) — el ejército persa en marcha**
+```
+Imperio Persa aqueménida, siglo VI a.C., llanura de Oriente Próximo. Gran plano general, cámara con leve grúa: un vasto ejército persa aqueménida avanza en formación ordenada por la llanura, con lanceros, arqueros y jinetes; estandartes reales ondeando, polvo dorado levantándose bajo miles de pasos, escala épica e imparable. Luz: dorada de amanecer. Audio: paso rítmico de tropas, cuernos de guerra graves, viento, redoble profundo. Ritmo imponente y arrollador, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — la riqueza de Lidia (Creso) y la expansión**
+```
+Siglo VI a.C., reino de Lidia y mundo antiguo. Empieza en un primer plano del fabuloso tesoro del rey Creso de Lidia (montañas de monedas y objetos de oro brillando) y hace un travelling-out que se transforma en un mapa antiguo estilizado donde una luz dorada se expande desde Persia iluminando un imperio inmenso, desde el mar Egeo hasta los confines de la India. Ambiente: destellos del oro, textura de mapa de arcilla y pigmentos. Luz: cálida, resplandor creciente. Audio: tintineo de oro, un coro grave y triunfal que asciende. Ritmo majestuoso y expansivo, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin fronteras ni países modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

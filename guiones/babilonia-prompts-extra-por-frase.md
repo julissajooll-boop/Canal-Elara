@@ -436,3 +436,49 @@ Negativo:
 ```
 sin sangre, sin violencia explícita, sin armas clavadas, sin cuerpos, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+
+---
+
+## 🕳️ BLOQUE B18 · el vacío de poder y la llegada de Nabónido · junto a tus clips #67–#69
+### Frase: *"El aparato seguía funcionando por inercia… Pero el centro de poder se había convertido en un vacío… El hombre que finalmente lo llenó fue, quizá, el rey más extraño de Babilonia. Se llamaba Nabónido."*
+
+**🖼️ IMAGEN — la inercia y el vacío**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (ladrillo de barro y betún, azulejos azul lapislázuli). Composición de contraste: en primer plano, un salón del trono en penumbra con el asiento real vacío bajo un haz de luz; a través de un gran vano, al fondo y soleado, la ciudad sigue viva (mercado abriendo, humo de los templos). La vida continúa pero el corazón del poder está vacío. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro, luz cálida, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — el rey extraño entra en escena**
+```
+Babilonia neobabilónica, siglo VI a.C., salón del trono. Plano general con dolly-in lento: por un corredor iluminado a contraluz avanza con paso pausado y algo dudoso la figura de Nabónido, aristócrata de mediana edad con manto sobrio y barba rizada; se detiene ante el trono vacío y lo contempla. Ambiente: motas de polvo en el haz de luz, quietud. Luz: contraluz dorado que recorta su silueta, resto en penumbra. Audio: pasos que resuenan en la sala vacía, un eco grave, silencio expectante. Ritmo lento y enigmático, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+---
+
+## 🌙 BLOQUE B19 · Nabónido y el culto al dios lunar Sin · junto a tus clips #70–#73
+### Frase: *"Nabónido no era de sangre real. Era un aristócrata de provincias, hijo de una sacerdotisa de la ciudad de Harrán, entregada al culto del dios lunar Sin."*
+
+**🖼️ IMAGEN — retrato de Nabónido**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica. Retrato de Nabónido, rey babilonio de mirada introspectiva y algo melancólica, barba rizada canosa, manto sobrio con bordados; sostiene un cetro rematado con el símbolo de la luna creciente del dios Sin. Detrás, en penumbra, un santuario con el emblema lunar en vez del de Marduc. Luz plateada fría mezclada con dorado tenue. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — el culto a la luna**
+```
+Babilonia neobabilónica, siglo VI a.C., santuario del dios lunar. Plano medio, push-in lento: Nabónido, de noche, rinde culto ante un altar coronado por el emblema de la luna creciente, alzando las manos con devoción mientras el incienso sube; a un lado, una anciana sacerdotisa (su madre) con vestiduras rituales observa. Luz plateada de luna que entra por una abertura, mezclada con la luz cálida del incienso. Ambiente: humo ascendiendo, quietud sagrada. Audio: un cántico grave y sereno, campanillas suaves, viento nocturno. Ritmo solemne y místico, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

@@ -235,3 +235,27 @@ Negativo:
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
 > 💡 En CapCut, sobre este clip entra el botón de **Suscríbete** + campana y el logo ELARA.
+
+
+
+---
+
+## 🌍 BLOQUE B12 · el "estado total" · junto a tus clips #47–#49
+### Frase: *"En ese tiempo transformó una ciudad ya poderosa en algo parecido a un estado total: una maquinaria militar, económica y religiosa que se extendía desde las costas del Mediterráneo hasta las montañas de Persia."*
+
+**🖼️ IMAGEN — el corazón de un imperio**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (ladrillo de barro y betún, azulejos azul lapislázuli, zigurat escalonado). Gran vista aérea de Babilonia en su apogeo como capital imperial: murallas colosales, la Puerta de Ishtar azul, la Vía Procesional, el gran zigurat y los templos, un puerto fluvial atareado y columnas de soldados babilónicos desfilando ordenadamente; todo funcionando como una maquinaria perfecta. Luz dorada de amanecer. Fotorrealismo histórico cinematográfico, 8K, escala épica, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — la extensión del imperio (mapa que cobra vida)**
+```
+Babilonia neobabilónica, siglo VI a.C. Plano de un mapa antiguo estilizado grabado en arcilla y pintado, visto desde arriba con un lento push-in; una línea de luz dorada se expande desde Babilonia, marcada con el zigurat, y avanza iluminando el territorio del imperio neobabilónico desde las costas del mar Mediterráneo hasta las montañas de Persia; pequeños íconos de murallas, templos y tropas se encienden por el camino. Ambiente: polvo dorado, textura de arcilla y pigmentos. Luz: cálida, resplandor que crece. Audio: un coro grave y solemne que asciende, un redoble profundo y lejano. Ritmo majestuoso y expansivo, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin fronteras ni países modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

@@ -308,3 +308,27 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🎨 BLOQUE B15 · la paradoja cosmopolita · junto a tus clips #57–#59
+### Frase: *"Esa política de deportación convirtió a Babilonia en el lugar más culto y cosmopolita del mundo."*
+
+**🖼️ IMAGEN — el crisol de culturas y saberes**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (ladrillo de barro y betún, azulejos azul lapislázuli). Un patio soleado rebosante de vida intelectual y artística: escribas de distintos pueblos inclinados sobre tablillas escribiendo en varias escrituras antiguas; artesanos trabajando joyería, cerámica pintada y telas teñidas; músicos con liras; estantes con rollos y tablillas de conocimiento. Vestimentas, rasgos y tocados diversos convivendo en armonía. Luz dorada cálida. Fotorrealismo histórico cinematográfico, 8K, gran riqueza de detalle, iluminación volumétrica.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — la efervescencia cultural**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica. Plano general con travelling suave que recorre un patio-escuela bullicioso y luminoso: escribas de varios pueblos grabando distintas escrituras en tablillas, un maestro señalando símbolos a alumnos, artesanos puliendo joyas y pintando cerámica, un músico tañendo una lira, mercaderes mostrando telas exóticas. Todo se entrelaza como un crisol vivo de culturas. Ambiente: polvo dorado en los haces de luz, movimiento constante, telas ondeando. Luz: cálida de media mañana. Audio: murmullo de varias lenguas, roce de punzones, notas de lira, ambiente animado y sereno. Ritmo fluido y luminoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

@@ -506,3 +506,35 @@ Negativo:
 ```
 sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+
+---
+
+## 🌑 BLOQUE B21–B22 · una década ausente y el Akitu que no se celebró · junto a tus clips #77–#83
+### Frase: *"El rey más poderoso del mundo, ausente de su propia capital durante una década. Y mientras tanto, año tras año, la gran fiesta del Año Nuevo, el festival Akitu, no se pudo celebrar como debía."*
+
+**🎬 VIDEO 1 (8 s) — el rey lejos, en el desierto (contraste)**
+```
+Babilonia neobabilónica, siglo VI a.C., oasis de Tayma en el desierto de Arabia. Plano general amplio: la pequeña figura de Nabónido, con manto real, de pie sobre una duna al atardecer, de espaldas, contemplando el horizonte desértico, lejísimos de su capital; palmeras y ruinas antiguas alrededor. Sensación de un rey que ha dado la espalda a su ciudad. Ambiente: arena arrastrada por el viento, luz cayendo. Luz: dorada de atardecer, larga sombra. Audio: viento del desierto, soledad, un lamento musical muy tenue. Ritmo lento y melancólico, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — la fiesta que no ocurrió (Vía Procesional vacía)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica. La Vía Procesional de azulejos azules y leones dorados, completamente vacía y en silencio el día que debería celebrarse el festival del Año Nuevo (Akitu): estandartes ceremoniales colgando inmóviles, pétalos secos en el suelo, ni desfile ni gente. Travelling frontal lento y solitario por la avenida hacia el templo. Ambiente: polvo arrastrándose, quietud absoluta. Luz: dorada apagada, sombras largas. Audio: viento silbando en la avenida vacía, un eco lejano, silencio pesado. Ritmo lento y desolado, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 3 (8 s) — la mano de Marduc que nadie toma**
+```
+Babilonia neobabilónica, siglo VI a.C., santuario del templo Esagila en penumbra. Primer plano lento sobre la gran mano dorada de la estatua de Marduc, extendida en el vacío, esperando la mano de un rey que no llega; motas de polvo flotando en un único haz de luz, ofrendas marchitas al pie. Ambiente: silencio sagrado, humo casi extinto. Luz: cálida tenue sobre el oro, resto en sombra. Audio: silencio profundo, un goteo lejano, un suspiro de viento. Ritmo íntimo y triste, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

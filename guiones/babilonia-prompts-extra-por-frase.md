@@ -210,3 +210,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🔔 BLOQUE B11 · CTA suscripción · junto a tu clip #46 (después de E3)
+### Frase: *"Y si esta historia ya te está atrapando, suscríbete al canal y activa la campana: cada semana desentierro contigo un mundo que el tiempo intentó borrar."*
+
+**🖼️ IMAGEN — un mundo que renace**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (ladrillo de barro y betún, azulejos azul lapislázuli, zigurat escalonado). Composición dividida y poética: a un lado, montículos grises de ruinas y arena en el desierto; al otro, esos mismos muros cobrando vida, revestidos de azulejo azul y oro, con el gran zigurat y la Puerta de Ishtar resplandecientes bajo luz dorada, como una ciudad que renace del polvo. Fotorrealismo histórico cinematográfico, 8K, contraste entre gris apagado y dorado vivo, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — desenterrar el mundo perdido**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica. Plano cinematográfico con dolly-in lento que avanza sobre montículos grises de ruinas cubiertas de arena; a medida que la cámara entra, el polvo se disipa y los muros se reconstruyen en tiempo real (morphing suave): brotan los azulejos azul lapislázuli, los relieves dorados, el gran zigurat y la Puerta de Ishtar iluminándose, la ciudad dorada volviendo a la vida. Ambiente: partículas de polvo dorado flotando, luz que crece de gris frío a dorado cálido. Audio: viento del desierto que se transforma en un coro grave y luminoso, un suave repique. Ritmo mágico y ascendente, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+> 💡 En CapCut, sobre este clip entra el botón de **Suscríbete** + campana y el logo ELARA.

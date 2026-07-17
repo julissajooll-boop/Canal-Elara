@@ -482,3 +482,27 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🗡️👑 BLOQUE B17 · el general toma el trono · junto a tus clips #63–#66
+### Frase: *"…antes de ser derrocado por su cuñado, un general que dio un golpe de palacio."*
+
+**🖼️ IMAGEN — el general en el trono**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (ladrillo de barro y betún, azulejos azul lapislázuli). Un general babilonio curtido, de barba rizada y armadura lamelar de bronce con manto militar, sentado ya en el trono real con gesto firme y ambicioso; a sus lados, soldados babilonios con lanzas y escudos custodiando en actitud de lealtad; braseros ardiendo. Ha tomado el poder por la fuerza. Luz dorada de fuego, atmósfera imponente. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro, gran detalle.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+**🎬 VIDEO (8 s) — la toma del poder**
+```
+Babilonia neobabilónica, siglo VI a.C., salón del trono. Plano general con leve grúa y contrapicado: el general babilonio, con armadura lamelar de bronce y manto, sube con paso decidido los escalones hacia el trono, se gira, toma el cetro real y se sienta; a su espalda, sus soldados golpean el suelo con las lanzas en señal de apoyo e inclinan la cabeza. Ambiente: braseros ardiendo, estandartes, polvo en los haces de luz. Luz: dorada de fuego, rim light sobre la armadura. Audio: golpes rítmicos de lanzas contra el suelo, un cuerno grave y triunfal, eco de la sala. Ritmo poderoso y tenso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

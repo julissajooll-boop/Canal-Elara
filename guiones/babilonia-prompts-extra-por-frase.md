@@ -134,3 +134,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ⚖️ BLOQUE B11 · junto a tus clips #44–#46
+### Frase: *"la caída de Babilonia no fue obra de una espada. Fue obra de una cadena de decisiones humanas: de ambiciones, de orgullo, y de una traición tan silenciosa que casi nadie la vio venir."*
+
+**🎬 VIDEO 1 (8 s) — no una espada, sino una intriga**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (ladrillo de barro y betún, azulejos azul lapislázuli). Composición de profundidad con rack focus: en primer término, sobre una mesa de piedra, una espada ceremonial babilónica descansa quieta y cubierta de una fina capa de polvo, sin usar; al hacer foco al fondo, en penumbra, siluetas de figuras con túnicas (sacerdotes y mercaderes) murmuran entre columnas y se pasan una tablilla sellada. Ambiente: humo tenue de una lámpara, motas de polvo flotando, quietud tensa. Luz: cálida y baja, chiaroscuro de intriga. Audio: murmullos apenas audibles, silencio pesado, crepitar lejano de una llama. Ritmo lento y ominoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🎬 VIDEO 2 (8 s) — ambición y traición silenciosa (detalle)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica, sala palaciega en penumbra. Primer plano con push-in muy lento: en la sombra, unas manos deslizan discretamente monedas de plata y una tablilla sellada de una mano a otra, un pacto en voz baja; al fondo, muy desenfocada, la silueta dorada de la ciudad por una ventana. Ambiente: una única lámpara temblando, polvo suspendido en el haz de luz. Luz: cálida puntual sobre las manos, resto en penumbra profunda. Audio: tintineo apagado de la plata, un susurro, silencio tenso. Ritmo íntimo y sigiloso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

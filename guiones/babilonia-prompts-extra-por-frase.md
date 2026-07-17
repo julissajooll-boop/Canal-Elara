@@ -378,3 +378,27 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ✍️ BLOQUE B15 · los escribas ponen por escrito · junto a tus clips #57–#59
+### Frase: *"Los escribas judíos que vivían allí, junto a los ríos de Babilonia, pusieron por escrito y dieron forma a textos que después serían el corazón de la Biblia hebrea, absorbiendo imágenes y estructuras que venían directamente de Mesopotamia."*
+
+**🖼️ IMAGEN — la mano que da forma al texto**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (orillas del Éufrates), arquitectura mesopotámica al fondo. Primerísimo plano de la mano de un escriba hebreo anciano escribiendo con cálamo, con tinta, líneas de escritura antigua sobre un rollo de pergamino extendido; junto al rollo, tablillas mesopotámicas con relieves (un zigurat, un toro alado) sirviéndole de referencia. Detalle de la tinta fresca brillando. Luz cálida de lámpara de aceite. Fotorrealismo histórico cinematográfico, 8K, gran detalle de texturas, iluminación volumétrica.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin bolígrafos ni papel moderno, sin militares modernos, sin edificios modernos, sin texto en inglés legible, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — el saber que pasa de Mesopotamia al pergamino**
+```
+Babilonia neobabilónica, siglo VI a.C., orillas del Éufrates. Plano de detalle con rack focus: primero, una tablilla mesopotámica con relieves e imágenes cuneiformes iluminada por la lámpara; el foco pasa a la mano del escriba hebreo que, mirándola, traza líneas de escritura sobre un rollo de pergamino, como si el saber cruzara de la arcilla al pergamino. Al fondo, desenfocada, la silueta del zigurat. Ambiente: reflejo del río, leve viento, palmeras. Luz: cálida de lámpara contra el azul de la tarde. Audio: cálamo rasgando el pergamino, agua, un canto suave y nostálgico. Ritmo íntimo y reflexivo, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin bolígrafos ni papel moderno, sin militares modernos, sin edificios modernos, sin texto en inglés legible, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

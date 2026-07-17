@@ -402,3 +402,37 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin bolígrafos ni papel moderno, sin militares modernos, sin edificios modernos, sin texto en inglés legible, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 👑💥 BLOQUE B17 · cuatro reyes en 23 años · junto a tus clips #63–#66
+> Golpes de palacio contados con SÍMBOLOS (coronas, sombras), sin violencia ni sangre, para no bloquear en Flow.
+
+### Frase: *"En los veintitrés años que siguieron a la muerte de Nabucodonosor, Babilonia tuvo cuatro reyes distintos… casi todas manchadas de sangre."*
+
+**🖼️ IMAGEN — cuatro coronas, cuatro reinados**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (ladrillo de barro y betún, azulejos azul lapislázuli). Cuatro coronas y tocados reales babilónicos distintos alineados sobre un paño oscuro de terciopelo, cada uno con una fina capa de polvo distinta, iluminados por un haz de luz lateral; símbolo de cuatro reinados fugaces que se suceden. Fondo en penumbra. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro solemne, luz cálida, gran detalle.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+**🎬 VIDEO 1 (8 s) — la corona que cambia de manos**
+```
+Babilonia neobabilónica, siglo VI a.C., salón del trono en penumbra. Plano de detalle: una corona real babilónica pasa de unas manos a otras, una y otra vez, en un relevo tenso y silencioso; cada par de manos la sostiene un instante y otra la arrebata. Metáfora del poder que no se asienta. Ambiente: haz de luz sobre las manos, humo tenue, resto en sombra. Luz: cálida y baja, chiaroscuro. Audio: roce de telas, un latido grave, silencio tenso, un cuerno lejano. Ritmo inquieto y ominoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+**🎬 VIDEO 2 (8 s) — el golpe de palacio (sugerido)**
+```
+Babilonia neobabilónica, siglo VI a.C., sala palaciega en penumbra. Plano medio simbólico: sobre una mesa de piedra, una corona real caída de lado y una daga ceremonial envainada; en la pared, sombras alargadas de figuras con túnicas que se acercan sigilosas. Todo insinuado con sombras, sin mostrar violencia. Ambiente: llama de una lámpara temblando, corrientes de aire moviendo una cortina. Luz: cálida vacilante, mucho contraste. Audio: pasos sigilosos, una lámpara chisporroteando, silencio cortado por un golpe sordo y grave fuera de plano. Ritmo tenso y sombrío, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin armas clavadas, sin cuerpos, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

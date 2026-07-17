@@ -159,3 +159,54 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 👑 BLOQUE B12–B13 · NABUCODONOSOR II · junto a tus clips #47–#52
+### Frase: *"Esa mano fue la de Nabucodonosor Segundo, que reinó cuarenta y tres años… un general brillante y un constructor obsesivo."*
+
+**🖼️ IMAGEN — retrato imponente del rey**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (ladrillo de barro y betún, azulejos azul lapislázuli). Retrato imponente de Nabucodonosor II, rey babilonio de unos cincuenta años, con corona real, larga barba rizada peinada en bucles al estilo babilónico, manto bordado con hilos de oro y joyas; mirada firme y calculadora. Detrás, en penumbra dorada, el salón del trono con relieves y columnas. Fotorrealismo histórico cinematográfico, 8K, luz cálida lateral, chiaroscuro majestuoso, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 1 (8 s) — el rey en su trono**
+```
+Babilonia neobabilónica, siglo VI a.C., salón del trono del palacio. Plano medio con push-in muy lento y ligero contrapicado que engrandece a Nabucodonosor II, sentado en su trono con corona, barba rizada y manto bordado en oro; gira la cabeza y fija la mirada en la cámara con autoridad serena; un escriba a su lado sostiene una tablilla. Ambiente: braseros ardiendo, humo tenue, estandartes quietos. Luz: dorada de fuego, rim light sobre la corona. Audio: eco de una sala vasta, crepitar de brasas, un cuerno grave y lejano. Ritmo solemne y poderoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — el rey constructor supervisando las obras**
+```
+Babilonia neobabilónica, siglo VI a.C. Plano general con travelling que acompaña a Nabucodonosor II, con manto real, recorriendo una gran obra de construcción de la ciudad: andamios de madera, obreros elevando ladrillos con cuerdas y poleas, muros creciendo, la Puerta de Ishtar a medio revestir de azulejo azul; el rey señala y da instrucciones. Ambiente: polvo dorado, actividad constante, telas y cuerdas moviéndose. Luz: sol cálido de media mañana. Audio: golpes de trabajo rítmicos, voces de capataces, cuerdas y madera crujiendo, viento. Ritmo enérgico y monumental, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+### Frase: *"mandó grabar su propio nombre en los ladrillos de sus obras… como una firma repetida hasta el infinito."*
+
+**🖼️ IMAGEN — el ladrillo con su nombre**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica. Primerísimo plano de un ladrillo de barro cocido con una inscripción cuneiforme grabada en el centro (el nombre y los títulos del rey), textura rugosa, restos de betún en los bordes; luz rasante que resalta el relieve de los signos. Fotorrealismo histórico cinematográfico, 8K, luz cálida, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — la firma repetida hasta el infinito**
+```
+Babilonia neobabilónica, siglo VI a.C. Empieza en primer plano de un ladrillo con la inscripción cuneiforme del rey y hace un travelling-out ascendente que revela un muro enorme hecho de miles de ladrillos idénticos, todos con la misma inscripción repetida hasta perderse de vista. Ambiente: polvo dorado, sol rasante marcando cada surco. Luz: cálida de atardecer. Audio: viento suave, un eco grave y solemne. Ritmo revelador y majestuoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

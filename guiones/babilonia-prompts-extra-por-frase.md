@@ -332,3 +332,49 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 📜 BLOQUE B15 (cierre) · el verdugo que ayudó a escribir la Biblia · junto a tu clip #59
+### Frase: *"El verdugo, sin saberlo, estaba ayudando a escribir uno de los libros más influyentes de la humanidad."*
+
+**🎬 VIDEO (8 s) — el texto sagrado que nace a la sombra del imperio**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (a orillas del Éufrates), arquitectura mesopotámica auténtica al fondo (murallas de ladrillo, zigurat lejano en penumbra). Primer plano de las manos de un escriba hebreo completando con cálamo un rollo de pergamino a la luz de una lámpara; rack focus del rollo a la silueta imponente de la ciudad de Babilonia al fondo, oscura y colosal. La idea: algo íntimo y eterno naciendo a la sombra del poder. Ambiente: leve viento, reflejo del río. Luz: cálida sobre el pergamino contra el azul de la tarde. Audio: cálamo rasgando el pergamino, agua, un canto grave y solemne. Ritmo íntimo y trascendente, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés legible, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+---
+
+## ⚱️ BLOQUE B16 · la muerte del rey y la grieta · junto a tus clips #60–#62
+### Frase: *"Pero cuando Nabucodonosor murió… dejó, sin darse cuenta, una trampa… La grieta ya estaba abierta."*
+
+**🖼️ IMAGEN — el trono vacío**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica, salón del trono del palacio en penumbra. Un trono real vacío en el centro, con un manto real y una corona apoyados sobre él; un único haz de luz cae desde lo alto, motas de polvo flotando; el resto de la sala en sombra profunda. Sensación de poder que ha quedado huérfano. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro solemne, luz dorada tenue, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 1 (8 s) — la grieta que avanza**
+```
+Babilonia neobabilónica, siglo VI a.C. Primer plano macro de un muro dorado de ladrillo con azulejo azul: una grieta fina nace y avanza lentamente por la superficie, desprendiendo polvo y pequeños fragmentos; metáfora del imperio que empieza a resquebrajarse desde dentro. Ambiente: silencio tenso, motas de polvo cayendo en un haz de luz. Luz: cálida lateral que acentúa el relieve de la grieta. Audio: un crujido grave y profundo, silencio, un latido lejano. Ritmo lento y ominoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — la intriga de los sacerdotes (la trampa)**
+```
+Babilonia neobabilónica, siglo VI a.C., sala palaciega en penumbra. Plano medio con leve travelling: entre columnas, siluetas de sacerdotes y nobles con túnicas murmuran en corrillos, miradas de reojo, gestos de ambición contenida; al fondo, el trono vacío iluminado por un haz de luz. Atmósfera de conspiración silenciosa. Ambiente: humo tenue de lámparas, quietud cargada. Luz: cálida y baja, chiaroscuro de intriga. Audio: murmullos apenas audibles, ecos, silencio pesado. Ritmo lento y tenso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

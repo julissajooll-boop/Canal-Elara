@@ -109,3 +109,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🏙️ BLOQUE B10 · junto a tus clips #41–#43
+### Frase: *"Un mosaico de lenguas, de dioses, de comerciantes venidos de todos los rincones del mundo conocido."*
+
+**🎬 VIDEO 1 (8 s) — los comerciantes**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (ladrillo de barro y betún, azulejos azul lapislázuli). Travelling lateral con gimbal por un mercado bullicioso: comerciantes de muchos pueblos con vestimentas variadas regatean entre puestos rebosantes de especias de colores, telas teñidas, ánforas de vino, dátiles y objetos de cobre; un cambista pesa plata en una balanza; camellos y burros cargados al fondo. Ambiente: gente yendo y viniendo, polvo dorado flotando, toldos meciéndose. Luz: cálida de media mañana entre las callejuelas. Audio: voces en varias lenguas, regateos, tintineo de monedas y balanzas, animales, bullicio. Ritmo vivo y dinámico, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🎬 VIDEO 2 (8 s) — mosaico de lenguas y dioses**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica, gran plaza junto a los templos. Plano general con leve grúa que recorre una multitud diversa: pueblos de distintas tierras con vestimentas, rasgos y tocados variados conviven; a un lado, escribas inclinados sobre tablillas escribiendo en distintas escrituras antiguas; al otro, pequeños altares y figuras de dioses diferentes que cada grupo honra con ofrendas e incienso; estandartes y símbolos religiosos variados. Ambiente: incienso subiendo, telas ondeando, movimiento constante de gente. Luz: dorada cálida, haces entre las columnas. Audio: murmullo de muchas lenguas mezcladas, cánticos suaves de varios cultos, campanillas e incienso. Ritmo fluido y envolvente, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

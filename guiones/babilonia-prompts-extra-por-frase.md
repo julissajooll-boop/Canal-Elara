@@ -538,3 +538,35 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🌩️ BLOQUE B23 · Belsasar regente y la tormenta en el este · junto a tus clips #84–#86
+### Frase: *"En ausencia de Nabónido, su hijo Belsasar gobernaba como regente, pero sin el título completo de rey… Y mientras tanto, en el este, un nuevo poder crecía con una velocidad que hacía temblar el suelo."*
+
+**🖼️ IMAGEN — Belsasar, medio rey**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (ladrillo de barro y betún, azulejos azul lapislázuli). Belsasar, joven regente de barba oscura y manto rico pero SIN corona real completa (solo una diadema), de pie JUNTO al trono sin llegar a sentarse en él, con gesto inseguro y ambicioso a la vez; el gran trono real vacío a su lado subraya su poder a medias. Braseros, penumbra dorada. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 1 (8 s) — el regente de poder ambiguo**
+```
+Babilonia neobabilónica, siglo VI a.C., salón del trono. Plano medio con push-in lento: Belsasar, joven regente con diadema (no corona plena), pasea junto al trono vacío y apoya la mano en el reposabrazos sin atreverse a sentarse; mira de reojo a unos cortesanos que cuchichean. Poder inseguro, ambiente tenso. Ambiente: braseros ardiendo, estandartes, humo tenue. Luz: dorada baja, chiaroscuro. Audio: murmullos de corte, crepitar de brasas, un latido grave. Ritmo tenso y contenido, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — la tormenta que crece en el este**
+```
+Mesopotamia histórica, siglo VI a.C. Gran plano general desde las murallas de Babilonia mirando hacia el este: sobre las montañas lejanas, densas nubes de tormenta se acumulan en time-lapse y avanzan, con relámpagos silenciosos; el viento levanta polvo de la llanura y hace ondear los estandartes de la muralla. Metáfora de un nuevo poder que se acerca. Luz: dramática, cielo oscureciéndose, últimos rayos dorados. Audio: viento creciente, trueno grave y lejano, tensión. Ritmo ominoso y ascendente, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

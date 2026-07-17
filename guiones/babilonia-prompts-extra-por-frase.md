@@ -259,3 +259,52 @@ Negativo:
 ```
 sin fronteras ni países modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ✡️ BLOQUE B14–B15 · JERUSALÉN Y EL EXILIO · junto a tus clips #53–#59
+> Tema sensible: se cuenta con SÍMBOLOS y a distancia (sin violencia ni sufrimiento explícito) para no disparar bloqueos en Flow.
+
+### Frase: *"Su campaña más recordada fue la conquista de Jerusalén. Tras un largo asedio, la ciudad sagrada de los hebreos cayó…"*
+
+**🎬 VIDEO 1 (8 s) — el asedio, a distancia y sobrio**
+```
+Antigua Jerusalén y ejército babilonio, siglo VI a.C., Cercano Oriente histórico, arquitectura antigua auténtica (murallas de piedra de la ciudad hebrea, tiendas y estandartes babilónicos). Gran plano general al atardecer, cámara lenta y solemne: a lo lejos, las murallas de la ciudad sagrada rodeadas por el campamento del ejército babilonio; polvo dorado en suspensión, estandartes ondeando, hogueras del campamento encendiéndose. Todo visto de lejos, sin combate en primer plano. Luz: crepúsculo dramático anaranjado. Audio: viento, tambores graves y lejanos, un cuerno profundo. Ritmo grave y ominoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin violencia explícita, sin sangre, sin heridos, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+
+**🖼️ IMAGEN — el templo lejano y la partida (simbólico)**
+```
+Cercano Oriente histórico, siglo VI a.C., arquitectura antigua auténtica. Plano sobrio y simbólico: al fondo, un gran templo antiguo sobre una colina con una columna de humo elevándose (sugerido, sin fuego explícito en primer plano); en primer término, siluetas de una caravana que se aleja por el camino polvoriento hacia el horizonte. Atmósfera de duelo contenido. Luz de atardecer apagada. Fotorrealismo histórico cinematográfico, 8K, tonos sobrios, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin violencia explícita, sin sangre, sin heridos, sin cuerpos, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+
+### Frase: *"…miles de judíos fueron llevados cautivos a Babilonia. Comenzaba así el exilio de Babilonia."*
+
+**🎬 VIDEO 2 (8 s) — la larga marcha del exilio (digna, melancólica)**
+```
+Cercano Oriente histórico, siglo VI a.C., arquitectura mesopotámica al fondo. Plano general con travelling lateral que acompaña una larga columna de personas con túnicas caminando por el desierto hacia las murallas de Babilonia al atardecer; siluetas a contraluz, cargando fardos y enseres con dignidad; escoltas babilonios a distancia. Sin sufrimiento explícito, tono melancólico y respetuoso. Ambiente: polvo dorado, viento moviendo las telas. Luz: contraluz cálido de atardecer. Audio: viento, pasos, un lamento coral muy tenue. Ritmo lento y emotivo, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin violencia explícita, sin sangre, sin heridos, sin cadenas visibles, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+
+### Frase: *"Los escribas judíos que vivían allí, junto a los ríos de Babilonia, pusieron por escrito y dieron forma a textos que después serían el corazón de la Biblia hebrea."*
+
+**🎬 VIDEO 3 (8 s) — los escribas junto a los ríos de Babilonia**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (a orillas del Éufrates), arquitectura mesopotámica auténtica al fondo (murallas de ladrillo, zigurat lejano). Plano medio, leve push-in: escribas hebreos con túnicas sentados a la orilla del río bajo palmeras, escribiendo con cálamo sobre rollos y tablillas; reflejos del agua, hojas meciéndose. Uno se detiene, pensativo, mirando la corriente. Ambiente sereno y melancólico. Luz: dorada suave de media tarde. Audio: agua corriendo, viento entre las palmeras, un canto suave y nostálgico. Ritmo íntimo y sereno, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

@@ -674,3 +674,27 @@ Negativo:
 ```
 sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+
+---
+
+## 💰 BLOQUE B24 · Lidia y el rey Creso · junto a tus clips #87–#90
+### Frase: *"Después conquistó el riquísimo reino de Lidia, gobernado por el legendario Creso, cuyo nombre se volvió sinónimo de riqueza."*
+
+**🖼️ IMAGEN — Creso, el rey más rico del mundo antiguo**
+```
+Reino de Lidia, siglo VI a.C., Asia Menor histórica, indumentaria lidia antigua. Retrato de Creso, rey de Lidia, hombre maduro de barba, con corona y vestiduras suntuosas bordadas en oro, sentado en un trono rodeado de un tesoro deslumbrante: copas, lingotes y las primeras monedas de oro y electro apiladas, jarrones y objetos preciosos por todas partes. Opulencia abrumadora. Luz cálida dorada reflejándose en el oro. Fotorrealismo histórico cinematográfico, 8K, gran detalle, iluminación volumétrica.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin monedas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — la caída de Lidia ante Ciro**
+```
+Asia Menor histórica, siglo VI a.C., reino de Lidia. Plano que arranca en el tesoro dorado de Creso brillando y hace un travelling que se abre para revelar, entrando por las puertas del palacio, al ejército persa de Ciro tomando la ciudad sin resistencia; Creso, digno, contempla cómo su reino cambia de manos. Ambiente: destellos del oro, polvo, estandartes persas al fondo. Luz: cálida que vira a un tono más frío al entrar los persas. Audio: tintineo del oro, pasos de tropas acercándose, un cuerno grave, tensión. Ritmo solemne y revelador, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

@@ -650,3 +650,27 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🏔️ BLOQUE B24 · Ciro, príncipe de una región periférica que se rebela · junto a tus clips #87–#90
+### Frase: *"Ciro empezó siendo el príncipe de una región periférica sometida a otros. Se rebeló, y para sorpresa de todos, venció."*
+
+**🖼️ IMAGEN — el príncipe de tierras humildes**
+```
+Persia histórica, siglo VI a.C., indumentaria persa antigua sencilla. Un Ciro joven, príncipe de una región montañosa y periférica, de pie sobre una loma contemplando sus tierras modestas (aldeas de piedra, rebaños, montañas áridas), con manto sencillo pero mirada firme y ambiciosa; al fondo, muy lejano, se intuye el poderío del imperio que lo domina. Contraste entre su origen humilde y su destino. Luz dorada de amanecer. Fotorrealismo histórico cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — la rebelión que nadie esperaba**
+```
+Persia histórica, siglo VI a.C., ladera montañosa. Plano general con leve grúa: el joven Ciro, sobre una roca elevada, alza el brazo y arenga a un grupo de guerreros persas que responden alzando lanzas y escudos, decididos a rebelarse contra el poder que los somete; estandartes improvisados ondean al viento. Ambiente: viento fuerte, polvo, capas y telas agitándose, energía creciente. Luz: amanecer dramático, rayos rasantes. Audio: un clamor de voces que se une, viento, un redoble que crece, cuerno. Ritmo enérgico y ascendente, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

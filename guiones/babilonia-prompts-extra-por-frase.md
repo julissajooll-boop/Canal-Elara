@@ -602,3 +602,27 @@ Negativo:
 ```
 sin fronteras ni países modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🤴 BLOQUE B17 · el hijo de Nabucodonosor (reinado breve) · junto a tus clips #63–#66
+### Frase: *"Su propio hijo ocupó el trono apenas dos años antes de ser derrocado por su cuñado."*
+
+**🖼️ IMAGEN — el heredero en el trono**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (ladrillo de barro y betún, azulejos azul lapislázuli). El hijo de Nabucodonosor, un rey joven de barba corta, sentado en el gran trono real con corona y manto bordado que parecen quedarle grandes; gesto entre la solemnidad y la inseguridad, como si el peso del poder lo superara. Braseros y columnas en penumbra dorada. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — un reinado que se apaga rápido**
+```
+Babilonia neobabilónica, siglo VI a.C., salón del trono. Plano medio con push-in muy lento sobre el joven rey (hijo de Nabucodonosor) sentado en el trono con corona y manto; mira alrededor con inquietud creciente mientras, en la pared del fondo, se alargan sombras de figuras con túnicas que se acercan. Al lado, una lámpara de aceite se consume rápidamente (metáfora de su breve reinado). Ambiente: humo tenue, quietud tensa. Luz: cálida y baja, chiaroscuro; la llama de la lámpara menguando. Audio: crepitar de la lámpara, murmullos lejanos, un latido grave que sube. Ritmo tenso y ominoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

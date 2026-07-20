@@ -103,3 +103,17 @@ Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y em
 - Diferencia clave: la hoja `*-prompts.md` es la **BIBLIOTECA visual** (QUÉ generar); la
   `*-timeline-montaje.md` dice **CUÁNDO va cada clip y cuánto dura**. Timecodes aproximados: al
   grabar la voz, se ajusta el fin de cada clip al audio real (cortar la voz por frases ayuda).
+
+
+
+
+## 🧬 10. IMAGEN DE REFERENCIA PARA PERSONAJES RECURRENTES (consistencia)
+- Todo personaje HISTÓRICO que aparezca en MÁS DE UN clip debe tener UNA imagen de referencia
+  fija (retrato) que se sube como **Ingredient / referencia de personaje** en Flow en TODOS sus
+  clips, para que mantenga el mismo rostro, corona/tocado y vestuario en todo el video.
+- Flujo: 1) generar primero su retrato; 2) elegir el mejor; 3) reutilizarlo como Ingredient en
+  cada clip donde aparezca ese personaje.
+- Ejemplos en Babilonia: Ciro el Grande, Nabucodonosor II, Nabónido, Belsasar (además de Elara,
+  que ya tiene su `elara-avatar-referencia.jpg`).
+- Los EXTRAS y multitudes (soldados, mercaderes, sacerdotes de fondo) NO necesitan referencia.
+- Al entregar los prompts, señalar qué personajes necesitan referencia y en qué bloques recurren.

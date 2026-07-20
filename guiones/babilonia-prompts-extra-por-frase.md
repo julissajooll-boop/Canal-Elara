@@ -626,3 +626,27 @@ Negativo:
 ```
 sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+
+---
+
+## 🦅👑 BLOQUE B24 · Ciro el Grande, FUNDADOR del Imperio Persa · junto a tus clips #87–#90
+### Frase: *"Ciro Segundo, al que la historia llamaría Ciro el Grande, fundador del Imperio Persa, fue exactamente ese tipo de conquistador."*  (buen momento para el rótulo CIRO EL GRANDE)
+
+**🖼️ IMAGEN — el fundador (toma heroica)**
+```
+Imperio Persa aqueménida, siglo VI a.C., Persia histórica, indumentaria persa auténtica. Toma heroica de Ciro el Grande de cuerpo entero, de pie e imponente sobre una terraza de palacio persa (columnas y relieves de toros alados y guardias), con tiara real, manto púrpura y oro y las manos en actitud serena de dominio; a sus pies y al fondo se extiende su naciente imperio bajo un amanecer dorado. Composición de póster épico, contrapicado que lo engrandece. Fotorrealismo histórico cinematográfico, 8K, luz dorada, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — el nacimiento de un imperio**
+```
+Imperio Persa aqueménida, siglo VI a.C., terraza de un palacio persa al amanecer. Plano que arranca en un primer plano de Ciro el Grande (tiara y manto púrpura, mirada firme) y hace un lento retroceso con grúa ascendente que lo revela dominando desde lo alto un vasto panorama: su ejército formado abajo, estandartes reales ondeando y la tierra extendiéndose hasta el horizonte, mientras la luz del amanecer crece. Sensación de un imperio que nace. Ambiente: viento moviendo el manto y los estandartes, polvo dorado. Luz: amanecer épico, rim light sobre su figura. Audio: un coro grave y solemne que asciende, cuernos lejanos, viento. Ritmo majestuoso y fundacional, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

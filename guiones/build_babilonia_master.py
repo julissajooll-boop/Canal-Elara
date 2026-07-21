@@ -9,6 +9,7 @@ Lee: babilonia-voz-en-off-limpio.md (narración) y babilonia-prompts.md (prompts
 Ejecuta:  python3 build_babilonia_master.py
 """
 import re
+import csv
 
 CLIPS_HECHOS = 131
 WPS = 2.5  # palabras por segundo (~150 wpm) para calcular la duración de cada clip
@@ -155,7 +156,9 @@ def main():
                "rostros ni manos deformes, sin gore.\n```\n")
     out.append("\n---\n")
 
+    elara_order = [x["n"] for x in clips if x["elara"]]
     bloque_actual = None
+    rows_csv = []
     for c in clips:
         # cabecera de bloque cuando cambia
         if c["bloque"] != bloque_actual:
@@ -163,18 +166,41 @@ def main():
             out.append(f"\n## ▬▬ {bloque_actual} ▬▬\n")
         estado = "✅ HECHO" if c["n"] <= CLIPS_HECHOS else "⏳ FALTA"
         etiqueta = c["tipo"]
+        eid = ""
         if c["elara"]:
-            eid = "E" + str([x["n"] for x in clips if x["elara"]].index(c["n"]) + 1)
+            eid = "E" + str(elara_order.index(c["n"]) + 1)
             etiqueta += f" ({eid})"
         out.append(f"\n### #{c['n']} · {mmss(c['ini'])}–{mmss(c['fin'])} · {etiqueta} · {estado}\n")
         narr_txt = narr.get(c["n"], "").strip()
         out.append(f"🎙️ **Voz en off (suena aquí):** {narr_txt}\n\n")
         out.append("🎬 **Prompt:**\n```\n" + c["prompt"] + "\n```\n")
+        # fila CSV
+        tipo_txt = ("Elara" if c["elara"] else ("Imagen" if "IMAGEN" in c["tipo"] else "Video"))
+        rows_csv.append({
+            "clip": c["n"],
+            "inicio": mmss(c["ini"]),
+            "fin": mmss(c["fin"]),
+            "tipo": tipo_txt,
+            "elara_id": eid,
+            "estado": "HECHO" if c["n"] <= CLIPS_HECHOS else "FALTA",
+            "bloque": c["bloque"],
+            "narracion": narr_txt,
+            "prompt": c["prompt"],
+        })
 
     with open("babilonia-GUION-MAESTRO.md", "w", encoding="utf-8") as f:
         f.write("".join(out))
+
+    # CSV para Excel / Google Sheets
+    campos = ["clip", "inicio", "fin", "tipo", "elara_id", "estado", "bloque",
+              "narracion", "prompt"]
+    with open("babilonia-GUION-MAESTRO.csv", "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=campos)
+        w.writeheader()
+        w.writerows(rows_csv)
+
     n_done = sum(1 for c in clips if c["n"] <= CLIPS_HECHOS)
-    print(f"OK · clips={len(clips)} · duracion=~{total} · hechos<= {CLIPS_HECHOS} ({n_done})")
+    print(f"OK · clips={len(clips)} · duracion=~{total} · hechos<= {CLIPS_HECHOS} ({n_done}) · CSV ok")
 
 
 if __name__ == "__main__":

@@ -780,3 +780,35 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🕯️ BLOQUE B26 · la red de simpatizantes dentro de Babilonia · junto a tus clips #94–#97
+### Frase: *"Había tejido una red de simpatizantes dentro de la propia ciudad. Los sacerdotes de Marduc… empezaron a ver a Ciro no como un invasor, sino como un libertador… Los grandes comerciantes calculaban que sus rutas y mercados no harían más que crecer."*
+
+**🎬 VIDEO 1 (8 s) — el mensaje secreto llega a los sacerdotes**
+```
+Babilonia neobabilónica, siglo VI a.C., interior del templo Esagila en penumbra. Plano medio con leve dolly-in: un mensajero embozado entrega discretamente una tablilla sellada a un sacerdote de Marduc, que la recibe y la esconde entre sus mantos mirando de reojo; otros sacerdotes vigilan la entrada. Intriga silenciosa. Ambiente: humo de una lámpara, sombras largas entre columnas. Luz: cálida y baja, chiaroscuro. Audio: pasos sigilosos, susurros, crepitar de una llama. Ritmo tenso y sigiloso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — los sacerdotes ven a Ciro como libertador**
+```
+Babilonia neobabilónica, siglo VI a.C., templo de Marduc. Plano medio: un grupo de sacerdotes de Marduc reunidos en corrillo a la luz de una lámpara, con gesto de esperanza y resentimiento contenido, asienten mientras uno señala hacia el este; sobre un altar, la estatua dorada de Marduc parece presidir la escena. Deciden abrir la puerta a Ciro. Ambiente: incienso, penumbra dorada. Luz: cálida, dramática. Audio: murmullos convencidos, un cántico grave, tensión esperanzada. Ritmo intrigante, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🖼️ IMAGEN — los comerciantes hacen sus cuentas**
+```
+Babilonia neobabilónica, siglo VI a.C., sala de mercaderes. Grandes comerciantes babilónicos con ropas ricas reunidos alrededor de una mesa con balanzas, plata, tablillas de cuentas y un mapa de rutas comerciales; señalan hacia el este calculando las ganancias que traería el imperio persa. Gesto frío y práctico. Luz cálida de lámparas. Fotorrealismo histórico cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin monedas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

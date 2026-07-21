@@ -987,3 +987,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🌆 BLOQUE B32→B33 · "y así llegamos a la noche que lo cambió todo" · junto a tus clips #115–#116
+> "Ayudaron a escribir el discurso" ya lo cubre el clip #112 (escriba grabando el Cilindro). Esto es la TRANSICIÓN a la noche.
+### Frase: *"Y hasta ayudaron a escribir el discurso. Y así llegamos a la noche. A la noche que lo cambió todo."*
+
+**🎬 VIDEO (8 s) — cae la noche que lo cambió todo**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (murallas de ladrillo, azulejos azul lapislázuli, gran zigurat). Gran plano general de la ciudad dorada mientras cae la noche en time-lapse suave: el sol se hunde, las sombras se alargan, el cielo pasa de dorado a azul profundo y se encienden una a una las antorchas de las murallas; una quietud ominosa se apodera de todo. Es la última noche. Ambiente: nubes desplazándose, primeras estrellas, leve niebla al ras del río. Luz: de atardecer cálido a noche fría. Audio: viento que crece, un tono grave y ominoso que se sostiene, silencio tenso. Ritmo lento y presagioso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🖼️ IMAGEN — el umbral de la última noche**
+```
+Babilonia neobabilónica, siglo VI a.C. La ciudad dorada bajo un cielo nocturno recién caído, el gran zigurat y las murallas recortados contra un firmamento estrellado con luna; antorchas encendidas en los muros, niebla ligera junto al río. Calma tensa antes de la tormenta. Fotorrealismo histórico cinematográfico, 8K, luz cálida de antorcha contra el azul profundo de la noche, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

@@ -722,3 +722,36 @@ Negativo:
 ```
 sin fronteras ni países modernos, sin nombres modernos, sin elementos modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🤝 BLOQUE B25 · la tolerancia de Ciro (su arma más lista) · junto a tus clips #91–#93
+> Ciro recurrente → subir su imagen de referencia (Ingredient) en todos estos clips.
+### Frase: *"Lo que hacía a Ciro distinto no era su espada… respetaba los templos y los dioses locales… convertía a las élites conquistadas en colaboradores voluntarios."*
+
+**🎬 VIDEO 1 (8 s) — Ciro respeta el templo de un pueblo conquistado**
+```
+Imperio Persa aqueménida, siglo VI a.C., templo de un pueblo conquistado, arquitectura antigua local. Plano medio (Ciro con imagen de referencia, tiara y manto púrpura): Ciro entra en el templo local sin arrasarlo, se inclina levemente con respeto ante el altar y hace un gesto de protección hacia los sacerdotes locales, que lo miran con alivio y gratitud. Ambiente: incienso, luz cálida entrando por lo alto. Actuación: magnánimo, sereno. Luz: dorada reverente. Audio: cánticos locales, murmullo agradecido, un tono musical cálido. Ritmo solemne y noble, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — cada pueblo conserva sus dioses y tradiciones**
+```
+Imperio Persa aqueménida, siglo VI a.C., gran plaza. Plano general con travelling suave: bajo estandartes reales persas, pueblos de distintas tierras siguen practicando en paz sus propias tradiciones: unos rinden culto a sus dioses en pequeños altares, otros escriben en sus lenguas, comercian y celebran; convivencia respetuosa y próspera. Ambiente: incienso, telas de colores, movimiento sereno. Luz: dorada cálida. Audio: mezcla armónica de lenguas y cánticos, ambiente vivo y pacífico. Ritmo fluido y luminoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🖼️ IMAGEN — las élites locales se vuelven colaboradoras**
+```
+Imperio Persa aqueménida, siglo VI a.C., salón de recepción. Ciro (imagen de referencia, tiara y manto púrpura) recibe con gesto cordial a un grupo de élites locales —sacerdotes con vestiduras rituales y comerciantes con ropas ricas— que se inclinan y le ofrecen presentes de forma voluntaria, no sometidos por la fuerza sino como aliados. Ambiente: columnas, braseros, luz cálida. Fotorrealismo histórico cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

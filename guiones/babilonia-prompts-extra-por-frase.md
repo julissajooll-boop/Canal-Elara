@@ -1061,3 +1061,27 @@ Negativo:
 ```
 sin texto en inglés ni en idiomas modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 💧 BLOQUE B36 · el desvío del Éufrates y el agua que baja (clips nuevos) · junto a tus clips #126–#129
+### Frase: *"Desviaron el caudal del río Éufrates hacia un canal lateral. Y el nivel del agua empezó a bajar… bajando lentamente en la oscuridad."*
+
+**🎬 VIDEO 1 (8 s) — el desvío del canal (obreros persas de noche)**
+```
+Mesopotamia, siglo VI a.C., a las afueras de Babilonia, de noche. Gran plano general con leve grúa: cuadrillas de obreros e ingenieros persas, a la luz de antorchas, terminan de abrir un gran canal lateral y retiran una compuerta de tierra; el caudal del río Éufrates empieza a desviarse y a fluir hacia el nuevo cauce, alejándose de la ciudad. Esfuerzo silencioso y coordinado. Ambiente: antorchas reflejadas en el agua, vapor, polvo húmedo, la ciudad dorada a lo lejos ajena a todo. Luz: cálida de antorcha contra el azul de la noche. Audio: agua corriendo con fuerza hacia el canal, palas en la tierra, murmullos contenidos, viento. Ritmo tenso y sigiloso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin maquinaria moderna, sin militares modernos ni soldados occidentales, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — el nivel del agua bajando lentamente**
+```
+Babilonia neobabilónica, siglo VI a.C., el río Éufrates bajo las murallas de la ciudad, de noche. Plano medio-general, cámara fija con muy leve push-in: el nivel del agua desciende lentamente y en silencio, dejando al descubierto el lecho fangoso y resbaladizo junto al gran arco por donde el río cruza bajo la muralla; marcas de humedad quedan en la piedra a medida que el agua se retira, reflejos de la luna temblando. Tensión creciente. Ambiente: goteo, burbujeo suave, leve niebla al ras del agua. Luz: azul plateada de luna con destellos de antorcha en la muralla. Audio: chapoteo tenue, goteo, un tono grave y ominoso, silencio expectante. Ritmo lento y presagioso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

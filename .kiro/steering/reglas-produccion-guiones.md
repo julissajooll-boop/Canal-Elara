@@ -117,3 +117,17 @@ Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y em
   que ya tiene su `elara-avatar-referencia.jpg`).
 - Los EXTRAS y multitudes (soldados, mercaderes, sacerdotes de fondo) NO necesitan referencia.
 - Al entregar los prompts, señalar qué personajes necesitan referencia y en qué bloques recurren.
+
+
+
+
+## 🎛️ 11. DURACIÓN DE CLIPS: los VIDEOS son fijos (8 s), las IMÁGENES son flexibles
+- 🎬 **Videos animados** (Omni/Flow): duran **8 s fijos** (es lo que genera la herramienta).
+- 🖼️ **Imágenes (Ken Burns):** NO tienen duración fija. Se pueden dejar en pantalla el tiempo
+  que se quiera (típico 3–8 s) arrastrando el clip en CapCut. Son la "perilla de ajuste" para
+  cuadrar el video con la voz en off.
+- En las hojas de timeline/montaje se ponen las imágenes a 8 s SOLO para simplificar la cuenta
+  (nº de clips × 8 s ≈ duración de la voz). Aclarar a la usuaria que la imagen se puede acortar
+  o alargar sin regenerar nada.
+- Dos ritmos válidos: (A) imágenes ~8 s = tranquilo/cinematográfico (menos clips); (B) imágenes
+  ~3–5 s = dinámico (más clips, se usa el relleno extra). El material ya generado sirve para ambos.

@@ -885,3 +885,36 @@ Negativo:
 ```
 sin fronteras ni países modernos, sin nombres modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ⚔️ BLOQUE B27 · batalla de Opis y toma de Sippar · junto a tus clips #98–#101
+> Batalla contada a DISTANCIA y con símbolos (polvo, estandartes), sin sangre ni combate en primer plano, para no bloquear en Flow.
+### Frase: *"Derrotó al ejército babilonio en la batalla de Opis. Después tomó la ciudad de Sippar sin apenas combate. El camino hacia Babilonia quedó abierto."*
+
+**🎬 VIDEO 1 (8 s) — la batalla de Opis (a distancia)**
+```
+Mesopotamia, siglo VI a.C., orillas del río Tigris cerca de Opis. Gran plano general muy amplio, cámara elevada: dos grandes ejércitos antiguos —persas y babilonios— chocan a lo lejos en la llanura junto al río, envueltos en enormes nubes de polvo dorado; se ven masas de estandartes, lanzas y siluetas en movimiento, pero todo lejano y difuso, sin detalle de violencia. Luz: atardecer dramático, polvo filtrando el sol. Audio: fragor lejano y sordo, cuernos de guerra graves, viento, tambores. Ritmo épico y grave, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin heridos, sin cuerpos, sin violencia explícita en primer plano, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+**🎬 VIDEO 2 (8 s) — Sippar se rinde sin combate**
+```
+Mesopotamia, siglo VI a.C., ciudad antigua de Sippar (murallas de ladrillo). Plano general: las grandes puertas de la ciudad se abren lentamente y los habitantes salen en señal de rendición pacífica mientras el ejército persa entra en orden, sin lucha; estandartes persas ondeando, gesto de sometimiento tranquilo. Ambiente: polvo dorado, quietud tensa. Luz: cálida de media tarde. Audio: crujido de las puertas, pasos de tropas, un murmullo contenido, cuerno lejano. Ritmo solemne, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+**🖼️ IMAGEN — el camino abierto hacia Babilonia**
+```
+Mesopotamia, siglo VI a.C. Vista amplia de un camino polvoriento que serpentea por la llanura entre los ríos y conduce directo, sin obstáculos, hasta las lejanas murallas doradas de Babilonia y su zigurat en el horizonte; huellas de un ejército en el camino. Sensación de que la puerta está abierta. Luz dorada de atardecer. Fotorrealismo histórico cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

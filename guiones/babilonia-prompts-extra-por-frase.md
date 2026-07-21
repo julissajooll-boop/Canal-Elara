@@ -1037,3 +1037,27 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin banderas modernas, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🔥 BLOQUE B34 · macro de "la escritura en la pared" (detalle) · junto a tus clips #120–#121
+### Frase: *"De aquella noche nace una expresión que todavía usamos hoy: 'ver la escritura en la pared'."*
+
+**🖼️ IMAGEN — macro de la escritura en la pared**
+```
+Babilonia neobabilónica, siglo VI a.C., interior del palacio, escena simbólica. Primerísimo plano (macro) de unos caracteres antiguos en arameo trazados con luz sobrenatural sobre el muro de azulejo azul del salón; los signos resplandecen con un fulgor frío y tembloroso, dejando un leve rastro luminoso, como escritos por una mano invisible. El resto del muro en penumbra. Atmósfera sobrecogedora. Luz: resplandor frío de los signos contra el azul oscuro. Fotorrealismo histórico cinematográfico, 8K, gran detalle de la textura del azulejo y el fulgor.
+```
+Negativo:
+```
+sin texto en inglés ni en idiomas modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — los signos que aparecen ardiendo**
+```
+Babilonia neobabilónica, siglo VI a.C., salón del palacio, escena simbólica. Macro con muy leve deriva y foco selectivo: sobre el muro de azulejo azul, los caracteres arameos se van dibujando solos con luz fría y sobrenatural, uno tras otro, con destellos y un leve temblor; pequeñas chispas de luz caen. El fulgor palpita. Ambiente: penumbra total alrededor, motas de polvo brillando. Luz: resplandor frío pulsante. Audio: un zumbido grave y sobrenatural, un susurro, silencio sobrecogedor. Ritmo lento y ominoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin texto en inglés ni en idiomas modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

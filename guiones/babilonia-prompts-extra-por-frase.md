@@ -837,3 +837,27 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 😤 BLOQUE B26 · los sacerdotes de Marduc, furiosos con Nabónido · junto a tus clips #94–#97
+### Frase: *"Los sacerdotes de Marduc, furiosos con Nabónido por haber abandonado a su dios y por los años en que la gran fiesta no se celebró…"*
+
+**🖼️ IMAGEN — la indignación de los sacerdotes**
+```
+Babilonia neobabilónica, siglo VI a.C., interior del templo Esagila. Grupo de sacerdotes de Marduc con túnicas rituales y barbas rizadas, de pie ante el altar de Marduc descuidado (ofrendas marchitas, lámpara apagada, polvo), con rostros de indignación y resentimiento contenido; uno aprieta el puño, otro mira el altar con dolor. La ausencia del rey se siente. Luz cálida y dramática, penumbra dorada. Fotorrealismo histórico cinematográfico, 8K, chiaroscuro, gran detalle.
+```
+Negativo:
+```
+sin violencia explícita, sin sangre, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+**🎬 VIDEO (8 s) — el rencor contra el rey ausente**
+```
+Babilonia neobabilónica, siglo VI a.C., templo de Marduc en penumbra. Plano medio con leve push-in: los sacerdotes de Marduc, alrededor del altar descuidado, murmuran con enojo contenido; uno señala con indignación el emblema de la luna creciente (el dios de Nabónido) que ha desplazado a Marduc, y niega con la cabeza; otro cubre con un paño el altar apagado. Resentimiento por el rey que los abandonó. Ambiente: humo tenue, sombras duras. Luz: cálida baja, chiaroscuro. Audio: murmullos tensos y airados, un cántico grave interrumpido, crepitar de brasas. Ritmo tenso y sombrío, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin violencia explícita, sin sangre, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

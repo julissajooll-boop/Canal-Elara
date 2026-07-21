@@ -698,3 +698,27 @@ Negativo:
 ```
 sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+
+---
+
+## 🌐 BLOQUE B24 · el mayor imperio jamás visto (del Egeo a la India) · junto a tus clips #87–#90
+### Frase: *"En menos de veinte años construyó el mayor imperio que el mundo había visto jamás, desde el mar Egeo hasta los confines de la India."*
+
+**🎬 VIDEO (8 s) — sobrevuelo de la inmensidad del imperio**
+```
+Imperio Persa aqueménida, siglo VI a.C., mundo antiguo. Sobrevuelo aéreo épico y continuo (como un dron majestuoso) que encadena los paisajes del vastísimo imperio: costas del mar Egeo con barcos antiguos, llanuras y ciudades amuralladas, desiertos dorados, cordilleras nevadas y, al final, el gran río Indo; en puntos clave ondean estandartes reales persas, unificándolo todo. Sensación de escala colosal e imparable. Luz: dorada cambiante según el terreno. Audio: un coro épico y creciente, viento, un redoble profundo. Ritmo grandioso y expansivo, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin fronteras ni países modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🖼️ IMAGEN — el mapa del mayor imperio**
+```
+Mundo antiguo, siglo VI a.C. Gran mapa antiguo estilizado, pintado sobre pergamino y arcilla, que muestra la extensión máxima del Imperio Persa aqueménida iluminada en dorado: desde el mar Egeo al oeste hasta los confines de la India al este, con íconos antiguos de ciudades, montañas y ríos, y el corazón persa resaltado. Estética de mapa histórico, texturas de pigmento y arcilla, luz cálida de lámpara. Fotorrealismo cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin fronteras ni países modernos, sin nombres modernos, sin elementos modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

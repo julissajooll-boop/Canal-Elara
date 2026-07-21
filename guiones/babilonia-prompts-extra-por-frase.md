@@ -1012,3 +1012,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ⚖️ BLOQUE B34 · el veredicto de Daniel (pesado en la balanza / reino dividido) · junto a tus clips #120–#123
+> Ya tienes la escena (#120–#123: la mano, los signos, Belsasar, Daniel). Esto añade el veredicto en SÍMBOLOS.
+### Frase: *"…pesado en la balanza, y hallado falto. Tu reino será dividido y entregado a los medos y a los persas."*
+
+**🎬 VIDEO (8 s) — pesado en la balanza y hallado falto**
+```
+Babilonia neobabilónica, siglo VI a.C., interior del palacio en penumbra, escena simbólica. Primer plano de una gran balanza ceremonial de bronce: en un platillo reposa una corona real babilónica; el platillo de la corona sube lentamente, hallado falto de peso, mientras el otro baja. Un haz de luz fría cae sobre la balanza. Metáfora del reino juzgado y encontrado insuficiente. Ambiente: motas de polvo, humo tenue. Luz: dramática, chiaroscuro. Audio: un tono grave y solemne, el crujido de la balanza al inclinarse, silencio sentencioso. Ritmo lento y sentencioso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin balanzas modernas, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🖼️ IMAGEN — el reino dividido y entregado**
+```
+Babilonia neobabilónica, siglo VI a.C., escena simbólica. Una corona real babilónica partida por una grieta de luz que la divide en dos, sobre un fondo en penumbra; a un lado, una sombra dorada (Babilonia) se apaga; al otro, un resplandor con motivos persas (toros alados) crece, como si el reino pasara de unas manos a otras. Atmósfera solemne y presagiosa. Luz dramática fría y cálida enfrentadas. Fotorrealismo histórico cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin banderas modernas, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

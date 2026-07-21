@@ -812,3 +812,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin monedas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 👁️ BLOQUE B26 · Ciro ya había ganado antes de mover un soldado · junto a tus clips #94–#97
+> Ciro recurrente → subir su imagen de referencia (Ingredient).
+### Frase: *"Y cuando Ciro puso sus ojos en Babilonia, ya había hecho su trabajo mucho antes de que un solo soldado se pusiera en marcha."*
+
+**🖼️ IMAGEN — Ciro contempla Babilonia a lo lejos**
+```
+Imperio Persa aqueménida / Mesopotamia, siglo VI a.C., indumentaria persa auténtica. Ciro (imagen de referencia, tiara y manto púrpura) de pie sobre una loma al atardecer, contemplando en la distancia la silueta dorada de Babilonia con su zigurat y sus murallas; gesto sereno y calculador, casi una media sonrisa de quien ya sabe que ha ganado. Detrás de él, su campamento en calma. Luz cálida de atardecer, larga sombra. Fotorrealismo histórico cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — ganada sin mover un soldado**
+```
+Mesopotamia, siglo VI a.C., atardecer. Plano general: Ciro (imagen de referencia) observa desde una loma la lejana Babilonia dorada; leve dolly-in hacia su perfil sereno. Detrás y abajo, su ejército permanece en calma en el campamento, sin marchar, las armas quietas: nadie se mueve todavía. El viento agita su manto. La ciudad brilla al fondo como un premio ya conseguido. Luz: dorada de atardecer que baja. Audio: viento suave, un murmullo lejano de campamento, un tono grave y confiado. Ritmo lento y estratégico, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

@@ -861,3 +861,27 @@ Negativo:
 ```
 sin violencia explícita, sin sangre, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+
+---
+
+## 📈 BLOQUE B26 · los comerciantes calculan las ganancias del imperio persa · junto a tus clips #94–#97
+### Frase: *"Los grandes comerciantes calculaban que, dentro del vasto imperio persa, sus rutas y sus mercados no harían más que crecer. Y tenían razón."*
+
+**🎬 VIDEO (8 s) — la codicia que hace cuentas**
+```
+Babilonia neobabilónica, siglo VI a.C., sala de mercaderes. Plano medio con leve push-in: grandes comerciantes babilónicos con ropas ricas alrededor de una mesa con un mapa de rutas comerciales, balanzas y plata; uno recorre con el dedo una ruta que se extiende hacia el este y sonríe con avidez, otro asiente y desliza monedas de plata contando ganancias. Cálculo frío y satisfecho. Ambiente: lámparas cálidas, pergaminos y tablillas. Luz: dorada íntima. Audio: tintineo de plata, murmullos de negocio, un tono cálido y astuto. Ritmo sereno y calculador, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin monedas modernas, sin militares modernos, sin edificios modernos, sin fronteras ni países modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🖼️ IMAGEN — las rutas que se expanden (la promesa del imperio)**
+```
+Mundo antiguo, siglo VI a.C. Sobre un mapa antiguo estilizado de rutas comerciales pintado en pergamino, líneas doradas de caravanas se extienden desde Babilonia por todo el vasto imperio persa; superpuestas o al fondo, largas caravanas de camellos y mercancías avanzan hacia el horizonte bajo un cielo dorado, símbolo del comercio que crecerá con la paz persa. Fotorrealismo histórico cinematográfico, 8K, luz cálida, gran detalle.
+```
+Negativo:
+```
+sin fronteras ni países modernos, sin nombres modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

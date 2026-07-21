@@ -943,3 +943,36 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🎭 BLOQUE B32 · la tolerancia era su arma / Babilonia firma su acta de defunción · junto a tus clips #113–#115
+> Ciro recurrente → subir su imagen de referencia (Ingredient).
+### Frase: *"…pero todo eso le convenía, la tolerancia era su arma más eficaz, y Babilonia, al aceptar el relato de su propia liberación, estaba firmando, sin saberlo, su acta de defunción."*
+
+**🎬 VIDEO 1 (8 s) — la tolerancia como arma (bondad calculada)**
+```
+Imperio Persa / Babilonia, siglo VI a.C. Plano medio de Ciro (imagen de referencia, tiara y manto púrpura) con una mano extendida en gesto magnánimo y una media sonrisa serena; rack focus que revela, al fondo y desenfocada, a la ciudad y sus élites inclinándose ante él. La amabilidad es, en realidad, estrategia. Ambiente: luz cálida, leve humo de incienso. Luz: dorada con una sombra sutil bajo su figura. Audio: un tono musical cálido que esconde una nota grave y ambigua. Ritmo sereno y calculador, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — Babilonia firma su acta de defunción (sin saberlo)**
+```
+Babilonia neobabilónica, siglo VI a.C. La ciudad dorada celebra y aclama, con estandartes y flores, la llegada del "libertador"; travelling que se eleva y, al abrirse el plano, una sombra sutil se extiende lentamente sobre las murallas doradas mientras la luz cálida se apaga apenas. El júbilo esconde el final: la ciudad celebra su propia rendición sin darse cuenta. Ambiente: pétalos, polvo dorado, estandartes. Luz: dorada que decae a un tono más frío. Audio: aclamaciones alegres que se vuelven ecos huecos, un acorde grave y triste al final. Ritmo festivo que se torna melancólico, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🖼️ IMAGEN — el acta de defunción (símbolo)**
+```
+Babilonia neobabilónica, siglo VI a.C. Primer plano simbólico: sobre una mesa de piedra, una tablilla de arcilla sellada con el emblema real reposa junto a la silueta desenfocada de la ciudad dorada al fondo; la luz cae de forma que la tablilla parece un documento definitivo, un "acta" que marca un final. Atmósfera solemne y presagiosa. Luz cálida que se apaga hacia las sombras. Fotorrealismo histórico cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

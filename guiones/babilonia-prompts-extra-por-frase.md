@@ -976,3 +976,14 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+**🖼️ IMAGEN (alternativa) — el sello que sella su propio final**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (ladrillo de barro y betún, azulejos azul lapislázuli). Primer plano de las manos de un dignatario babilonio (túnica rica, anillos) presionando con satisfacción un sello cilíndrico sobre una tablilla de arcilla húmeda, sellando un pacto; su gesto es de alivio y confianza, ajeno a lo que hace. Al fondo, desenfocada, la ciudad dorada donde su luz cálida se apaga sutilmente hacia las sombras, como si ese sello apagara la ciudad. Atmósfera solemne y presagiosa. Luz cálida que decae. Fotorrealismo histórico cinematográfico, 8K, gran detalle de la arcilla y el sello.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

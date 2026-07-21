@@ -755,3 +755,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🏜️ BLOQUE B21 · 10 años en el oasis de Tayma · junto a tus clips #77–#80
+> Nabónido recurrente → subir su imagen de referencia (Ingredient).
+### Frase: *"Durante unos diez años, el rey de Babilonia vivió lejos, en el oasis de Tayma, en lo que hoy es Arabia Saudita, restaurando templos antiguos."*
+
+**🖼️ IMAGEN — el rey en el oasis**
+```
+Oasis de Tayma, desierto de Arabia, siglo VI a.C., indumentaria mesopotámica auténtica. Nabónido (imagen de referencia), rey babilonio de barba rizada canosa y manto real algo desgastado por el desierto, de pie en un oasis con palmeras datileras, un manantial y ruinas de templos antiguos que están siendo restaurados; a lo lejos, dunas doradas. Vive lejos de su capital. Luz cálida del desierto. Fotorrealismo histórico cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — restaurando templos en el desierto**
+```
+Oasis de Tayma, desierto de Arabia, siglo VI a.C. Plano general con leve travelling que acompaña a Nabónido (imagen de referencia) caminando por el oasis mientras supervisa a obreros que restauran un templo antiguo: se colocan piedras, se limpian relieves; palmeras meciéndose y agua del manantial reflejando el sol. El rey observa absorto, ajeno a su capital. Ambiente: arena arrastrada por la brisa, polvo dorado. Luz: cálida intensa del desierto. Audio: viento, cinceles suaves sobre piedra, hojas de palmera, un aire de soledad. Ritmo pausado y contemplativo, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

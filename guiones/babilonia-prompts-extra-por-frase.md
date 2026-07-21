@@ -918,3 +918,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ✨ BLOQUE B32 · Marduc elige a Ciro (el relato del Cilindro) · junto a tus clips #113–#115
+> Ciro recurrente → subir su imagen de referencia (Ingredient). Ya tienes #113–#115; esto añade la imagen mítica del dios eligiéndolo.
+### Frase: *"…el dios Marduc buscó por todo el mundo a un rey justo, y lo tomó de la mano y lo condujo a Babilonia. Y ese rey era Ciro."*
+
+**🖼️ IMAGEN — Marduc elige a Ciro**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica, interior del gran templo Esagila. Escena mítica y simbólica (el relato del Cilindro): la imponente estatua dorada del dios Marduc parece cobrar vida y extiende su mano hacia Ciro (imagen de referencia, tiara y manto púrpura), que está de pie bañado por un haz de luz divina descendente, elegido entre todos. Alrededor, penumbra dorada y humo de incienso. Composición épica y solemne, como una visión sagrada. Fotorrealismo histórico cinematográfico, 8K, luz volumétrica divina, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — la mano del dios que conduce a Ciro**
+```
+Babilonia neobabilónica, siglo VI a.C., interior del templo Esagila. Plano solemne con leve grúa ascendente: un haz de luz divina desciende sobre Ciro (imagen de referencia), mientras la gran estatua dorada de Marduc extiende su mano hacia él como eligiéndolo y conduciéndolo; Ciro alza la vista, iluminado. Ambiente: incienso flotando en los rayos de luz, destellos del oro. Luz: dorada divina, rim light sagrado. Audio: coro celestial grave y solemne, un tono profundo que asciende, murmullo reverente. Ritmo majestuoso y mítico, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

@@ -1332,3 +1332,21 @@ NEGATIVO: sin elementos modernos, sin armas de fuego, sin sangre ni gore, sin mi
 Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (muros de ladrillo de barro y betún, azulejos vidriados azul lapislázuli con relieves dorados de leones, gran salón interior con columnas), túnicas y mantos mesopotámicos, barbas rizadas babilónicas. Escena simbólica: en un salón en penumbra, un grupo de nobles, sacerdotes y comerciantes babilonios de espaldas a la entrada, con la mirada baja y los brazos cruzados, dando la espalda a la ciudad que deberían defender; la luz del amanecer entra por la puerta a su espalda proyectando largas sombras. Sensación de una decisión ya tomada, quietud, desapego. Luz cálida rasante contra la penumbra azulada. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
 NEGATIVO: sin elementos modernos, sin sangre ni gore, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes, sin anacronismos.
 ```
+
+
+---
+
+## 📜 FRASE (cierre B60) · "su nombre sigue vivo en todos los idiomas del planeta, cargado de un peso de grandeza y de ruina" · junto a tus clips #199–#200
+> Ya tienes #199 (imagen "nombre en luz dorada") y el video NUEVO 2 (aura dorada). Estas 2 IMÁGENES nuevas cubren las dos ideas: "todos los idiomas del planeta" y "grandeza y ruina". Son distintas, no repiten #199.
+
+**🖼️ IMAGEN NUEVA 1 (Ken Burns) — el nombre que resuena en todos los idiomas**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (muros de ladrillo de barro y betún, azulejos vidriados azul lapislázuli con relieves dorados de leones, zigurat escalonado). Escena simbólica y poética: en primer término, tablillas de arcilla babilónicas con escritura cuneiforme grabada, iluminadas por una luz dorada; desde ellas irradian suaves ondas de luz que se expanden hacia el fondo sobre la silueta de la ciudad y el cielo del atardecer, como un nombre que viaja y perdura por el mundo. Sensación de memoria eterna. Luz dorada cálida, partículas de polvo brillante. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin texto moderno ni letras latinas legibles, sin elementos modernos, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🖼️ IMAGEN NUEVA 2 (Ken Burns) — grandeza y ruina en una sola mirada**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (muros de ladrillo de barro y betún, azulejos vidriados azul lapislázuli con relieves dorados de leones, zigurat escalonado de siete pisos, gran puerta monumental). Composición poética de contraste: una misma panorámica de Babilonia dividida sutilmente por la luz: a un lado, la ciudad en todo su esplendor dorado, murallas intactas y estandartes al viento (grandeza); al otro lado, la misma vista transformada en ruinas silenciosas cubiertas de polvo y arena bajo un cielo apagado (ruina). Transición suave entre ambas mitades, como el peso de la historia. Luz dorada que se apaga hacia lo gris. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

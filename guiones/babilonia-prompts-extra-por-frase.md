@@ -1085,3 +1085,20 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ♟️ BLOQUE B41 · la jugada maestra (sus enemigos la admiraron en secreto) · junto a tus clips #145–#147
+> Ciro recurrente → subir su imagen de referencia (Ingredient). Complementa #145–#147.
+### Frase: *"Una jugada de una elegancia política que sus enemigos debieron admirar en secreto."*
+
+**🎬 VIDEO (8 s) — la jugada maestra**
+```
+Babilonia neobabilónica, siglo VI a.C., interior del templo Esagila. Primer plano de Ciro (imagen de referencia, tiara y manto púrpura) tras haber tomado la mano de Marduc: una expresión serena, inteligente, con una levísima media sonrisa de estratega que sabe que acaba de ganarlo todo sin luchar. Al fondo, desenfocados y en penumbra, algunos nobles y generales vencidos lo observan con respeto contenido, casi admiración a su pesar. Ambiente: incienso flotando, brillo del oro. Luz: cálida y dramática, rim light sobre su perfil. Audio: un tono grave y elegante, murmullos apagados, silencio de reconocimiento. Ritmo sereno y magistral, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

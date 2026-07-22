@@ -1262,3 +1262,44 @@ Negativo:
 ```
 sin llanto explícito, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🏁 BLOQUES B59–B61 · EL CIERRE (la lección + el nombre + la despedida) · junto a tus clips #197–#202
+> Elara E7 (#198), E8 (#201) y E9 (#202) están en `babilonia-elara-clips-flow.md`. Aquí van 3 clips NUEVOS para las frases más potentes del cierre.
+### Desde: *"Babilonia no cayó por la fuerza de un enemigo…"* hasta *"Soy Elara. Nos vemos en la historia."*
+
+**🎬 NUEVO 1 (8 s) — abrieron la puerta y desmontaron su propio mundo (B59)**
+```
+Babilonia neobabilónica, siglo VI a.C., escena simbólica. Unas manos anónimas desde dentro abren lentamente la gran puerta de bronce de la muralla; al otro lado brilla la ciudad dorada, pero a medida que la puerta se abre, la luz cálida se apaga y los muros dorados empiezan a desmoronarse suavemente en polvo y ruinas (morphing lento). Metáfora: al abrir la puerta, desmontaron su propio mundo. Ambiente: polvo dorado que se vuelve gris, silencio. Luz: de cálida a fría. Audio: crujido de la puerta, un tono grave que decae, viento. Ritmo lento y sentencioso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 NUEVO 2 (8 s) — su nombre sigue vivo (B60)**
+```
+Babilonia, escena simbólica y poética. Las ruinas doradas de Babilonia al atardecer con la silueta del zigurat; sobre el cielo, un suave resplandor dorado envuelve la ciudad antigua como un aura que no se apaga, partículas de luz flotando. Sensación de un nombre y una memoria que perduran a través de los siglos. Ambiente: polvo dorado brillante, quietud majestuosa. Luz: dorada intensa de hora dorada. Audio: un coro grave y luminoso que se sostiene, viento cálido. Ritmo solemne y eterno, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 NUEVO 3 (8 s) — ciudades que se creen eternas (B60)**
+```
+Escena simbólica y reflexiva. Las ruinas doradas de Babilonia en primer término bajo un cielo inmenso al atardecer; la cámara se eleva lentamente (grúa/dron suave) dejando la ciudad antigua abajo, pequeña y silenciosa en la vastedad del tiempo, como una advertencia que perdura. Ambiente: viento, polvo dorado, cielo enorme. Luz: dorada que cae hacia el crepúsculo. Audio: viento amplio, un tono reflexivo y grave, silencio final. Ritmo lento y trascendente, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin rascacielos ni ciudades modernas, sin elementos modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+### Mapa del cierre
+- "no cayó por la fuerza de un enemigo… abrieron la puerta" → NUEVO 1 + #197
+- "mueren cuando pierden la voluntad de ser lo que son" → Elara E7 (#198)
+- "su nombre sigue vivo en todos los idiomas" → NUEVO 2 + #199
+- "vivimos en ciudades que se creen eternas" → NUEVO 3 + #200
+- "¿caen por sus enemigos… o por los suyos?" → Elara E8 (#201)
+- "Soy Elara. Nos vemos en la historia." → Elara E9 (#202)

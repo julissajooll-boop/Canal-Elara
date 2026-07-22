@@ -1350,3 +1350,39 @@ NEGATIVO: sin texto moderno ni letras latinas legibles, sin elementos modernos, 
 Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (muros de ladrillo de barro y betún, azulejos vidriados azul lapislázuli con relieves dorados de leones, zigurat escalonado de siete pisos, gran puerta monumental). Composición poética de contraste: una misma panorámica de Babilonia dividida sutilmente por la luz: a un lado, la ciudad en todo su esplendor dorado, murallas intactas y estandartes al viento (grandeza); al otro lado, la misma vista transformada en ruinas silenciosas cubiertas de polvo y arena bajo un cielo apagado (ruina). Transición suave entre ambas mitades, como el peso de la historia. Luz dorada que se apaga hacia lo gris. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
 NEGATIVO: sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+---
+
+## 📜 FRASE (cierre B60) · "porque Babilonia fue real, fue extraordinaria y fue humana, con todo su genio y toda su ceguera" · junto a tus clips #199–#200
+> 5 IMÁGENES nuevas, una por cada palabra clave de la frase. Todas para efecto Ken Burns. Distintas entre sí, sin repetir planos del cierre.
+
+**🖼️ IMAGEN NUEVA 1 — FUE REAL (la prueba tangible)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris). Primer plano de los cimientos y muros reales de Babilonia: hileras de ladrillos de barro cocido y betún, algunos con inscripciones cuneiformes grabadas, iluminados por una luz rasante del atardecer que revela cada textura, grieta y huella del tiempo. Sensación de prueba histórica tangible, algo que de verdad existió. Luz cálida dorada muy rasante. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin texto moderno, sin elementos modernos, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🖼️ IMAGEN NUEVA 2 — FUE EXTRAORDINARIA (el esplendor)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica. Vista panorámica majestuosa de Babilonia en su máximo esplendor: la gran Puerta de Ishtar con azulejos vidriados azul lapislázuli y relieves dorados de toros y dragones, el zigurat escalonado de siete pisos al fondo, jardines colgantes verdes en terrazas, el Éufrates cruzando la ciudad, multitud diminuta en la avenida procesional. Grandeza abrumadora. Luz dorada de hora dorada. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🖼️ IMAGEN NUEVA 3 — FUE HUMANA (la gente común)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), túnicas y mantos mesopotámicos, barbas rizadas babilónicas. Escena cálida de vida cotidiana: una madre babilónica sostiene a su hijo pequeño en brazos junto a un puesto del mercado, un anciano alfarero moldea una vasija, dos niños juegan en el suelo de barro, rostros humanos serenos y verdaderos a la luz suave de la tarde. Ternura y humanidad, la gente detrás del imperio. Luz cálida difusa. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin ropa contemporánea, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🖼️ IMAGEN NUEVA 4 — TODO SU GENIO (la ciencia)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), túnicas y mantos mesopotámicos, barbas rizadas babilónicas. Escena nocturna en la azotea de barro de un templo: astrónomos babilonios observan el cielo estrellado y anotan datos en tablillas de arcilla con cuneiforme, líneas y cálculos matemáticos grabados, un cielo lleno de constelaciones sobre el zigurat. Sensación de genio científico adelantado a su tiempo. Luz azulada de la noche con lámparas de aceite cálidas. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin instrumentos modernos, sin telescopios, sin texto moderno, sin elementos modernos, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🖼️ IMAGEN NUEVA 5 — TODA SU CEGUERA (la elite que no vio venir su fin)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica, túnicas y mantos mesopotámicos. Escena simbólica de contraste: dentro de un salón dorado del palacio, nobles y sacerdotes babilonios celebran despreocupados, copas en alto, sin mirar hacia la gran ventana del fondo donde, en la penumbra, se ven avanzar sombras y bajar el nivel del río; ellos miran hacia otro lado, ajenos al peligro. La ceguera de una elite ante su propio final. Luz cálida festiva dentro, azul fría amenazante afuera. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin sangre ni gore, sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

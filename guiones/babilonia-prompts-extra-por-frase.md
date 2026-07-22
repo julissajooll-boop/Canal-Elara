@@ -1226,3 +1226,14 @@ Negativo:
 ```
 sin militares modernos, sin vehículos militares, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+**🎬 VIDEO (8 s) — el esfuerzo a medias (inestabilidad y falta de fondos) · B53**
+```
+Sitio arqueológico de Babilonia, Irak, época actual. Plano general sobrio: un muro antiguo a medio restaurar con andamios ligeros vacíos y herramientas abandonadas, como una obra de conservación detenida; el recinto desierto bajo un cielo gris, el viento levantando polvo y moviendo una lona suelta. Sensación de un proyecto valioso pero interrumpido, sin recursos. Ambiente: soledad, polvo, quietud. Luz: fría y plana, día nublado. Audio: viento constante, una lona golpeando, silencio. Ritmo lento y melancólico, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin militares modernos, sin soldados, sin armas, sin vehículos militares, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

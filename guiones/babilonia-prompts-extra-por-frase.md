@@ -1193,3 +1193,36 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🏛️🕊️ BLOQUE B53 · UNESCO 2019 y los desafíos (clips nuevos) · junto a tus clips #180–#182
+> Época ACTUAL (el sitio hoy). Sin militares. Sin logos/carteles legibles.
+### Frase: *"Hoy, por fin, Babilonia es Patrimonio de la Humanidad… Pero los desafíos son enormes: la inestabilidad, la falta de fondos, la sal que sube del suelo y erosiona los ladrillos."*
+
+**🎬 VIDEO 1 (8 s) — el sitio protegido hoy (conservación)**
+```
+Sitio arqueológico de Babilonia, Irak, época actual. Plano medio: especialistas en conservación, con ropa de trabajo neutra, limpian y refuerzan con cuidado un muro antiguo con relieves de azulejo azul; herramientas de restauración, andamios ligeros, pasarelas para visitantes, señalización discreta de sitio protegido. Ambiente digno y cuidadoso, el patrimonio por fin atendido. Luz: cálida de media mañana. Audio: cepillado suave sobre la piedra, viento leve, murmullo de trabajo. Ritmo sereno y respetuoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin militares modernos, sin soldados, sin armas, sin vehículos militares, sin banderas modernas, sin texto en inglés legible, sin logotipos, sin marcas de agua, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — la sal que devora los ladrillos**
+```
+Sitio arqueológico de Babilonia, Irak, época actual. Macro con muy leve deriva: cristales de sal blanca que suben desde el suelo por un muro de ladrillo de barro antiguo, agrietándolo y desmenuzándolo poco a poco; pequeños fragmentos se desprenden. Una destrucción lenta y silenciosa bajo el sol duro del desierto. Ambiente: polvo fino, calor visible, quietud. Luz: cruda y blanca de mediodía. Audio: viento seco, un leve crujido de la piedra, un tono grave y melancólico. Ritmo lento y sobrio, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar, sin texto en inglés, sin logotipos, sin marcas de agua, sin rostros ni manos deformes, sin gore.
+```
+**🖼️ IMAGEN — Babilonia hoy, digna al atardecer**
+```
+Sitio arqueológico de Babilonia, Irak, época actual. Vista de los muros de ladrillo y las ruinas restauradas del recinto al atardecer, con pasarelas de visita discretas; el gran montículo del antiguo zigurat al fondo. Un lugar herido pero por fin cuidado y respetado, bañado por una luz dorada. Imagen fija para efecto Ken Burns. Fotorrealismo cinematográfico, 8K, luz cálida de atardecer, gran detalle.
+```
+Negativo:
+```
+sin militares modernos, sin vehículos militares, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

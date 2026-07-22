@@ -1404,3 +1404,39 @@ NEGATIVO: sin sangre ni gore, sin elementos modernos, sin armas de fuego, sin mi
 Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (gran puerta monumental de la muralla con azulejos vidriados azul lapislázuli y relieves dorados de toros y dragones). Punto de vista en primera persona: el espectador está de pie frente a la enorme puerta entreabierta al amanecer; al otro lado se ve la avenida procesional en penumbra y las sombras de tropas acercándose; en el suelo, a un lado, una lanza babilónica abandonada. La imagen deja al espectador ante la decisión: cruzar y rendirse o quedarse a defender. Ambiente solemne, polvo dorado, silencio. Luz fría del alba con un halo cálido tras la puerta. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
 NEGATIVO: sin sangre ni gore, sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+---
+
+## 📜 FRASE (cierre B61, CTA) · "Te leo en el comentario fijado. Y si quieres seguir caminando conmigo por los mundos que el tiempo intentó borrar…" · beats #293–#294
+> 5 IMÁGENES nuevas para la invitación final. Tono emotivo, de comunidad y de viaje por civilizaciones perdidas. La #1 lleva a Elara (subir Ingredient); las demás son ambientales para Ken Burns.
+
+**🖼️ IMAGEN NUEVA 1 (ELARA) — "sigue caminando conmigo"**
+```
+ELARA (subir imagen base `elara-avatar-referencia.jpg` como Ingredient; vestuario Babilonia: blusa crema, chaqueta rosa palo, pañuelo azul lapislázuli, zapatos de tacón de aguja de punta fina color nude). Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (muros de ladrillo de barro y betún, azulejos vidriados azul lapislázuli, zigurat escalonado al fondo). Elara camina de espaldas, alejándose serena por la avenida procesional de la ciudad al atardecer, y gira levemente la cabeza hacia la cámara con una sonrisa cálida invitando a seguirla. Sensación de compañía y viaje compartido. Luz dorada de hora dorada. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin ropa contemporánea fuera del vestuario indicado, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+
+**🖼️ IMAGEN NUEVA 2 — el sendero entre los mundos perdidos**
+```
+Escena simbólica y poética. Un largo sendero de piedra y arena que avanza hacia el horizonte, atravesando ruinas antiguas que emergen a ambos lados entre la bruma dorada: columnas caídas, muros de ladrillo, un zigurat lejano difuminado. El camino se pierde en una niebla luminosa, como una invitación a seguir explorando mundos olvidados. Ambiente etéreo, polvo dorado suspendido, quietud. Luz dorada suave y brumosa. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🖼️ IMAGEN NUEVA 3 — los mundos que el tiempo intentó borrar**
+```
+Escena simbólica. Ruinas antiguas semienterradas en la arena del desierto: la parte superior de una gran puerta babilónica y de estatuas de leones asoma entre las dunas, mientras el viento arrastra la arena que poco a poco las cubre y las descubre. Sensación de memoria que el tiempo intentó borrar pero no logró del todo. Ambiente crepuscular, viento visible, arena dorada en el aire. Luz dorada rasante del atardecer. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🖼️ IMAGEN NUEVA 4 — la luz que guía el camino (comunidad)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica. Escena íntima y cálida: una lámpara de aceite antigua sostenida en primer plano ilumina un pasadizo de ladrillo entre las ruinas en penumbra, revelando el camino hacia delante mientras la oscuridad queda atrás. Metáfora de guiar y acompañar al espectador por la historia. Ambiente acogedor, chispas de luz cálida, sombras suaves. Luz cálida de llama contra penumbra azulada. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin linternas modernas, sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+
+**🖼️ IMAGEN NUEVA 5 — los próximos mundos por desenterrar (teaser)**
+```
+Escena simbólica y épica. Un cielo nocturno estrellado sobre un horizonte donde se recortan, en silueta y difuminadas por la bruma, las siluetas de varias civilizaciones antiguas: un zigurat mesopotámico en primer término y, más lejos y desvanecidas, otras grandes construcciones antiguas apenas insinuadas. Sensación de un viaje que apenas empieza, muchos mundos aún por descubrir. Ambiente misterioso, polvo de estrellas, azul profundo con destellos dorados en el horizonte. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin rascacielos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

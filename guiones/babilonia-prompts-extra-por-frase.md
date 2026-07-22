@@ -1102,3 +1102,27 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🏛️➡️ BLOQUE B44 · el poder fluye hacia las nuevas capitales persas · junto a tus clips #154–#155
+### Frase: *"…la energía política que la había mantenido en el centro del mundo dejó de fluir hacia ella. Empezó a fluir hacia las nuevas capitales persas."*
+
+**🖼️ IMAGEN — la nueva capital persa que florece (Persépolis)**
+```
+Imperio Persa aqueménida, siglo VI a.C., Persia histórica (Persépolis), arquitectura persa auténtica: grandes columnas acanaladas rematadas en capiteles de toros alados, escalinatas monumentales con relieves de procesiones de tributo, terrazas de piedra. La nueva capital imperial resplandece, próspera y llena de vida, bajo un amanecer dorado; delegaciones llegando con ofrendas. El poder ahora late aquí. Fotorrealismo histórico cinematográfico, 8K, luz dorada, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO — el poder que fluye de Babilonia a Persia**
+```
+Mundo antiguo, siglo VI a.C., escena simbólica. Transición cinematográfica: parte de la Babilonia dorada cuya luz se atenúa y, como un río de luz dorada, esa energía se desplaza por el plano hacia una espléndida capital persa (columnas y toros alados de Persépolis) que se ilumina y cobra vida al recibirla. El centro del mundo se traslada. Ambiente: partículas doradas fluyendo, cambio de luz. Luz: de cálida apagada en Babilonia a dorada brillante en Persia. Audio: un tono grave que decae en un lado y crece en el otro, viento, coro sutil. Ritmo fluido y melancólico-majestuoso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

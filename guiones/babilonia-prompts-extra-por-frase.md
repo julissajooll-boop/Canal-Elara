@@ -1151,3 +1151,20 @@ Negativo:
 ```
 sin vista aérea, sin dron, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## ⚔️🗺️ BLOQUE B46→B47 · las guerras de los sucesores / Seleuco · junto a tus clips #159–#164
+### Frase: *"Sus generales se repartieron el imperio entre guerras, y uno de ellos, Seleuco, tomó una decisión que fue el golpe más mortal…"*
+> "Seleuco / Seleucia" ya lo cubren tus prompts #162–#164 (por generar). Esto añade lo que faltaba: las guerras de los diádocos.
+
+**🎬 VIDEO — las guerras de los sucesores (los diádocos)**
+```
+Mundo helenístico, finales del siglo IV a.C., escena simbólica. Sobre un gran mapa antiguo del imperio de Alejandro, varias manos con anillos de general tiran de él en direcciones opuestas y lo van partiendo en fragmentos; superpuestas o al fondo, siluetas lejanas de ejércitos helenísticos enfrentados entre polvo y estandartes (a distancia, sin violencia explícita). El imperio se despedaza. Ambiente: polvo dorado, mapa de pergamino rasgándose. Luz: dramática. Audio: cuernos de guerra lejanos, tela rasgándose, tensión, tambores graves. Ritmo tenso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita en primer plano, sin gore, sin fronteras ni países modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

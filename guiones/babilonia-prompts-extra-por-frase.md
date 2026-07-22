@@ -1303,3 +1303,14 @@ sin rascacielos ni ciudades modernas, sin elementos modernos, sin texto en ingl�
 - "vivimos en ciudades que se creen eternas" → NUEVO 3 + #200
 - "¿caen por sus enemigos… o por los suyos?" → Elara E8 (#201)
 - "Soy Elara. Nos vemos en la historia." → Elara E9 (#202)
+
+
+
+**🎬 NUEVO (8 s) — el ejército abrió la puerta, pero la decisión fue antes (B59)**
+```
+Babilonia neobabilónica, siglo VI a.C., la gran puerta de la muralla al amanecer, escena simbólica. Plano en dos tiempos: primero, el ejército persa cruza en orden la enorme puerta abierta de par en par de la ciudad (el "abrir la puerta de la historia"); luego, rack focus hacia el primer término, donde permanecen unas manos babilónicas anónimas todavía apoyadas en el cerrojo abierto de la puerta —fueron ellos quienes la abrieron mucho antes—. Ambiente: polvo dorado del amanecer, estandartes persas al fondo, quietud tensa. Luz: fría del alba con un toque dorado. Audio: pasos de tropas entrando, un tono grave y revelador, viento. Ritmo solemne y sentencioso, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

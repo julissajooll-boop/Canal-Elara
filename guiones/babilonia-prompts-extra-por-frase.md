@@ -1126,3 +1126,28 @@ Negativo:
 ```
 sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🚶 BLOQUE B44 · caminando por dentro de la ciudad (POV inmersivo) · junto a tus clips #154–#155
+> Cámara subjetiva / Steadicam a ras de calle (NO aérea), para sentir que caminas dentro de Babilonia.
+### Frase: *"La ciudad seguía habitada, seguía teniendo su templo, sus mercados, sus astrónomos… pero había empezado a vaciarse por dentro."*
+
+**🎬 VIDEO 1 (8 s) — caminando por el mercado (POV)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (calles de ladrillo de barro, muros con azulejos azul lapislázuli, zigurat al fondo). Cámara subjetiva / Steadicam a la altura de los ojos que AVANZA lentamente por una calle-mercado de Babilonia, como si el espectador caminara por ella: a los lados, puestos con especias, telas, ánforas y dátiles; algunos comerciantes atienden, gente pasa, pero se nota menos concurrido que antes, con puestos a media luz y rincones vacíos. Al fondo asoma un templo. Ambiente: polvo dorado flotando, toldos meciéndose, murmullo tenue. Luz: cálida de media tarde, ligeramente apagada. Audio: pasos propios, voces dispersas, un vendedor lejano, viento suave. Ritmo pausado e inmersivo, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin vista aérea, sin dron, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — entrando al templo (POV)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica, interior de un templo (columnas, relieves, incienso). Cámara subjetiva / Steadicam a la altura de los ojos que AVANZA entrando por el patio de un templo de Babilonia y cruza entre las columnas, como si el espectador caminara dentro: unos sacerdotes siguen con sus ritos y hay ofrendas encendidas, pero el lugar está más silencioso y con rincones desiertos, sensación de que ya no bulle como antes. Ambiente: haces de luz cálida atravesando el incienso, polvo suspendido, eco de pasos. Luz: dorada tenue, sombras suaves. Audio: pasos propios resonando, un cántico lejano y apagado, silencio. Ritmo lento e inmersivo, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin vista aérea, sin dron, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

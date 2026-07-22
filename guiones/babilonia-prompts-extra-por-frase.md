@@ -1386,3 +1386,21 @@ NEGATIVO: sin instrumentos modernos, sin telescopios, sin texto moderno, sin ele
 Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica, túnicas y mantos mesopotámicos. Escena simbólica de contraste: dentro de un salón dorado del palacio, nobles y sacerdotes babilonios celebran despreocupados, copas en alto, sin mirar hacia la gran ventana del fondo donde, en la penumbra, se ven avanzar sombras y bajar el nivel del río; ellos miran hacia otro lado, ajenos al peligro. La ceguera de una elite ante su propio final. Luz cálida festiva dentro, azul fría amenazante afuera. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
 NEGATIVO: sin sangre ni gore, sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+---
+
+## 📜 FRASE (cierre B61, CTA — voz en off de Elara) · "¿Habrías abierto tú la puerta, como los sacerdotes de Marduc, o te habrías quedado a defender una ciudad que ya nadie quería defender?" · beats #292 (video) y #293 (imagen)
+> Va como VOZ EN OFF de Elara en el cierre (junto a E8 #201 y E9 #202). Estos 2 clips son el FONDO visual mientras ella hace la pregunta al público. Muestran el dilema: abrir la puerta (como los sacerdotes) o quedarse a defender.
+
+**🎬 CLIP NUEVO 1 (video 8 s) — el dilema: la puerta o la defensa**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (gran puerta interior de la muralla con azulejos vidriados azul lapislázuli y relieves dorados de leones), túnicas y mantos mesopotámicos, barbas rizadas babilónicas. Escena simbólica de dos caminos: a un lado del encuadre, unas manos de sacerdote babilonio empujan lentamente el cerrojo para abrir la gran puerta (dejar entrar); al otro lado, un único guardia babilonio permanece firme con su lanza frente a la puerta, dudando si defender. Composición equilibrada que enfrenta las dos decisiones. Ambiente: penumbra azulada del amanecer, polvo dorado, tensión callada. Luz fría del alba con destellos cálidos. Audio: crujido del cerrojo, respiración contenida, un tono grave que interroga. PROMPT DE VIDEO (movimiento): cámara lenta que hace un suave paneo del cerrojo que se abre hacia el guardia inmóvil, dejando la pregunta en el aire. Clip de video de 8 s, sin cortes, continuidad realista, fotorrealismo cinematográfico 8K, iluminación volumétrica.
+NEGATIVO: sin sangre ni gore, sin elementos modernos, sin armas de fuego, sin militares modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+
+**🖼️ IMAGEN NUEVA 2 (Ken Burns) — la puerta abierta ante ti (¿cruzarías o defenderías?)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (gran puerta monumental de la muralla con azulejos vidriados azul lapislázuli y relieves dorados de toros y dragones). Punto de vista en primera persona: el espectador está de pie frente a la enorme puerta entreabierta al amanecer; al otro lado se ve la avenida procesional en penumbra y las sombras de tropas acercándose; en el suelo, a un lado, una lanza babilónica abandonada. La imagen deja al espectador ante la decisión: cruzar y rendirse o quedarse a defender. Ambiente solemne, polvo dorado, silencio. Luz fría del alba con un halo cálido tras la puerta. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin sangre ni gore, sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```

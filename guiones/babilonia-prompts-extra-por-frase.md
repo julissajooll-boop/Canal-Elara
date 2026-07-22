@@ -1168,3 +1168,28 @@ Negativo:
 ```
 sin sangre, sin violencia explícita en primer plano, sin gore, sin fronteras ni países modernos, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+
+---
+
+## 🏙️ BLOQUE B47 · Seleucia (2 clips) · junto a tus clips #162–#164
+> Anclaje HELENÍSTICO/griego (columnas, ágora, teatro), NO mesopotámico. Siglo III a.C.
+### Frase: *"Fundó una nueva capital… sobre el río Tigris, y la llamó Seleucia. Una ciudad nueva, moderna para su tiempo, diseñada para reemplazar a Babilonia."*
+
+**🎬 VIDEO 1 (8 s) — Seleucia, la nueva capital que florece**
+```
+Seleucia del Tigris, ciudad helenística, siglo III a.C., Mesopotamia bajo dominio griego, arquitectura griega auténtica (columnas jónicas y corintias, ágora, pórticos, teatro, calles en cuadrícula). Travelling amplio por una avenida bulliciosa de la nueva ciudad, llena de vida: mercaderes griegos y locales, sabios, soldados macedonios, comercio próspero; el río Tigris con embarcaciones al fondo. Una capital joven y pujante. Ambiente: multitud animada, telas, polvo dorado. Luz: dorada de media mañana. Audio: bullicio de ciudad, griego y arameo mezclados, agua del río, energía. Ritmo dinámico y vital, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin arquitectura mesopotámica, sin zigurat, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO 2 (8 s) — Seleucia crece mientras Babilonia se apaga (contraste)**
+```
+Mesopotamia helenística, siglo III a.C. Gran plano que arranca sobre la próspera Seleucia del Tigris (columnas griegas, ágora, puerto fluvial lleno de vida y luz dorada) y hace un lento travelling/paneo hacia la lejanía, donde la vieja Babilonia aparece más apagada, gris y semivacía bajo una luz fría. El contraste es claro: la vida y el poder se han mudado a la ciudad nueva. Ambiente: Seleucia vibrante en primer término, Babilonia silenciosa al fondo. Luz: cálida y brillante en Seleucia, fría y tenue en Babilonia. Audio: bullicio que se aleja hacia un viento solitario, un tono melancólico. Ritmo fluido y melancólico, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

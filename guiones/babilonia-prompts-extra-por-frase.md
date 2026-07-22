@@ -1314,3 +1314,21 @@ Negativo:
 ```
 sin sangre, sin violencia explícita, sin gore, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos ni soldados occidentales, sin armas de fuego, sin edificios modernos, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
 ```
+
+
+---
+
+## 📜 FRASE (cierre B59) · "pero la decisión de no defenderla la habían tomado los propios babilonios" · junto a tus clips #199–#200
+> Ya existe el prompt "el ejército abrió la puerta, pero la decisión fue antes". Estos 2 son NUEVOS y distintos, centrados en que la decisión fue babilónica y anterior. No repiten el plano de las manos en el cerrojo.
+
+**🎬 NUEVO A (video 8 s) — los guardias que decidieron no pelear**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (muros de ladrillo de barro y betún, puerta interior con azulejos vidriados azul lapislázuli y relieves dorados de leones), túnicas y mantos mesopotámicos, barbas rizadas babilónicas. Escena simbólica y sobria: dentro de la muralla, un grupo de guardias babilonios deja sus lanzas apoyadas en el muro y se aparta de su puesto en silencio; ninguno levanta un arma, las puertas interiores quedan entreabiertas, nadie las defiende. Ambiente de resignación serena, penumbra azulada del amanecer, polvo dorado suspendido. Luz fría con destellos cálidos. Audio: pasos que se alejan, lanzas al apoyarse en piedra, tono grave y reflexivo. Ritmo lento y solemne. PROMPT DE VIDEO (movimiento): cámara en travelling lento lateral que sigue las lanzas abandonadas y termina en las puertas entreabiertas sin nadie que las guarde. Clip de video de 8 s, sin cortes, continuidad realista, fotorrealismo cinematográfico 8K, iluminación volumétrica.
+NEGATIVO: sin elementos modernos, sin armas de fuego, sin sangre ni gore, sin militares contemporáneos, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes, sin anacronismos.
+```
+
+**🖼️ NUEVO B (imagen, Ken Burns) — la decisión ya estaba tomada mucho antes**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (muros de ladrillo de barro y betún, azulejos vidriados azul lapislázuli con relieves dorados de leones, gran salón interior con columnas), túnicas y mantos mesopotámicos, barbas rizadas babilónicas. Escena simbólica: en un salón en penumbra, un grupo de nobles, sacerdotes y comerciantes babilonios de espaldas a la entrada, con la mirada baja y los brazos cruzados, dando la espalda a la ciudad que deberían defender; la luz del amanecer entra por la puerta a su espalda proyectando largas sombras. Sensación de una decisión ya tomada, quietud, desapego. Luz cálida rasante contra la penumbra azulada. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin sangre ni gore, sin texto, sin logos, sin marcas de agua, sin rostros ni manos deformes, sin anacronismos.
+```

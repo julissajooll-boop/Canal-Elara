@@ -1237,3 +1237,28 @@ Negativo:
 ```
 sin militares modernos, sin soldados, sin armas, sin vehículos militares, sin banderas modernas, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+
+---
+
+## 🎵 BLOQUE B57 · el salmo "junto a los ríos de Babilonia" (clip nuevo) · junto a tus clips #191–#194
+> Ya tienes el #193 (deportados junto al canal). Esto es una versión más íntima y emotiva.
+### Frase: *"Y aquel salmo desgarrador que empieza 'junto a los ríos de Babilonia, allí nos sentábamos y llorábamos' nació de la experiencia de vivir en esta ciudad como pueblo deportado."*
+
+**🖼️ IMAGEN — junto a los ríos de Babilonia**
+```
+Babilonia neobabilónica, siglo VI a.C., orilla del río Éufrates al atardecer, arquitectura mesopotámica lejana (murallas de ladrillo, zigurat en el horizonte). Un hombre hebreo del exilio, con túnica sencilla, sentado a la orilla entre los juncos con la cabeza inclinada por la pena; a su lado, una lira de madera reposa silenciosa, apoyada en un árbol. El río refleja el cielo dorado y la silueta de la ciudad. Melancolía serena y digna. Luz: dorada suave de atardecer. Fotorrealismo histórico cinematográfico, 8K, iluminación volumétrica, gran detalle.
+```
+Negativo:
+```
+sin llanto explícito ni rostro desfigurado por el dolor, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+**🎬 VIDEO (8 s) — el lamento del exilio**
+```
+Babilonia neobabilónica, siglo VI a.C., orilla del Éufrates al atardecer. Plano medio con push-in muy lento hacia un hombre hebreo del exilio sentado junto al río, que baja lentamente la cabeza con pena mientras contempla el agua; a su lado, la lira colgada de la rama de un árbol, sus cuerdas vibrando apenas con la brisa, sin que nadie la toque. Al fondo, la ciudad dorada. Ambiente: juncos y agua mecidos por el viento, reflejos temblando, hojas cayendo. Luz: dorada que decae hacia el azul. Audio: viento suave, agua, una nota de lira que se apaga, un canto lejano y nostálgico. Ritmo lento y desgarrador, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
+```
+Negativo:
+```
+sin llanto explícito, sin elementos modernos, sin ropa occidental contemporánea, sin militares modernos, sin edificios modernos, sin texto en inglés, sin logotipos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

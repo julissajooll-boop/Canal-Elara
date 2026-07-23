@@ -89,3 +89,39 @@ Y al final, la expresión que nació esa noche:
   prompts llevan "sin texto, sin logos"): la IA escribe letras deformes/inventadas.
 - Máximo 2 líneas por rótulo, legible en móvil.
 - Mantén siempre la misma fuente y color dorado para identidad de marca.
+
+
+---
+
+## 🔤 TIPOGRAFÍA (qué fuentes usar)
+> Regla de oro: usa SOLO 2 fuentes en todo el video (una con serifa elegante para lo histórico
+> + una sans-serif limpia para leer). Mezclar más se ve amateur. Todas son GRATIS.
+
+### 1) Fuente PRINCIPAL — títulos, rótulos de nombres y miniatura (elegante, histórica)
+- **Cinzel** ✅ (la mejor y gratis — estilo romano/monumental, perfecta para historia)
+  - Alternativas parecidas: **Trajan Pro**, **Cormorant Garamond**, **Playfair Display**.
+- Uso: título de sección, nombres de personajes (Nabucodonosor II…), texto de miniatura.
+- Estilo: dorado **#E8C87E** · borde negro grueso (6–8 px) · sombra/glow suave.
+
+### 2) Fuente SECUNDARIA — subtítulos de la voz y textos pequeños (limpia, legible)
+- **Montserrat** ✅ (gratis, muy legible en móvil)
+  - Alternativas: **Poppins**, **Open Sans**, **Roboto**.
+- Uso: subtítulos de lo que dice Elara, aclaraciones pequeñas debajo de un nombre, fechas.
+- Estilo: blanco con borde negro fino (2–3 px) para que se lea sobre cualquier fondo.
+
+### 3) MINIATURA (texto grande de impacto)
+- **Cinzel Bold** o, si quieres algo más golpeador: **Anton** o **Bebas Neue** (gratis).
+- Dorado #E8C87E o blanco, borde negro grueso + glow. Máx. 2–3 palabras.
+
+### Tamaños recomendados (video 1920×1080)
+- Título de sección: 70–90 pt
+- Rótulo de nombre (lower-third): 40–55 pt · subtítulo debajo 24–30 pt
+- Subtítulos de voz: 32–40 pt, centrados abajo
+- Miniatura: lo más grande que quepa sin tapar la cara de Elara ni la Puerta de Ishtar
+
+### Dónde conseguirlas
+- Cinzel, Montserrat, Playfair, Poppins, Anton y Bebas Neue están en **Google Fonts** (gratis)
+  y también dentro de **CapCut** (busca el nombre en el panel de Texto → Fuente).
+
+> Consistencia de marca: usa SIEMPRE Cinzel + dorado para los nombres/títulos en todos los
+> videos del canal. Así el público reconoce "Elara Historiadora" al instante.

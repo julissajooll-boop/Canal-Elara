@@ -1440,3 +1440,27 @@ NEGATIVO: sin linternas modernas, sin elementos modernos, sin texto, sin logos, 
 Escena simbólica y épica. Un cielo nocturno estrellado sobre un horizonte donde se recortan, en silueta y difuminadas por la bruma, las siluetas de varias civilizaciones antiguas: un zigurat mesopotámico en primer término y, más lejos y desvanecidas, otras grandes construcciones antiguas apenas insinuadas. Sensación de un viaje que apenas empieza, muchos mundos aún por descubrir. Ambiente misterioso, polvo de estrellas, azul profundo con destellos dorados en el horizonte. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
 NEGATIVO: sin elementos modernos, sin rascacielos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+---
+
+## 📜 FRASE (B18–B19) · "Su primera gran provocación fue religiosa… los sacerdotes lo vivieron como herejía y el pueblo como una traición" · junto a tus clips #68–#71
+> Ya tienes #68 (trono vacío), #69–#70 (Nabónido) y #71 (símbolo de Sin). Estos 3 son NUEVOS y refuerzan el conflicto religioso: los sacerdotes del Esagila indignados y el pueblo traicionado. No repiten los planos anteriores.
+
+**🎬 CLIP NUEVO 1 (video 8 s) — los sacerdotes del Esagila indignados (la herejía)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), interior del templo Esagila con muros de ladrillo de barro, azulejos vidriados azul lapislázuli, columnas y braseros encendidos, túnicas sacerdotales mesopotámicas, barbas rizadas babilónicas, cabezas rapadas de sacerdotes. Escena de tensión religiosa contenida: un grupo de sacerdotes de Marduc reunidos en penumbra ante la gran estatua dorada de Marduc, con rostros graves de indignación y preocupación, uno de ellos aprieta el puño y otro niega con la cabeza al conocer que el rey promueve al dios lunar Sin. Sensación de herejía y ruptura. Ambiente solemne, humo de incienso, luz cálida de braseros. PROMPT DE VIDEO (movimiento): cámara lenta que se acerca desde el grupo de sacerdotes hasta el rostro grave del sumo sacerdote. Clip de video de 8 s, sin cortes, continuidad realista, fotorrealismo cinematográfico 8K, iluminación volumétrica.
+NEGATIVO: sin sangre ni gore, sin violencia explícita, sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+
+**🖼️ IMAGEN NUEVA 2 (Ken Burns) — el pueblo se siente traicionado**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), túnicas y mantos mesopotámicos sencillos, barbas rizadas babilónicas. Escena emotiva: gente común babilónica reunida a los pies de la gran estatua de Marduc en la avenida procesional, con expresiones de desconcierto, dolor y ofensa; algunos alzan la vista hacia el dios, otros bajan la cabeza, sintiendo la traición de un rey que abandona a su dios. Sensación de fe herida y comunidad dolida. Luz cálida del atardecer, polvo dorado. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin sangre ni gore, sin elementos modernos, sin ropa contemporánea, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes.
+```
+
+**🖼️ IMAGEN NUEVA 3 (Ken Burns) — Marduc olvidado, Sin en ascenso (el símbolo del conflicto)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), interior de un templo con muros de ladrillo de barro y azulejos azul lapislázuli. Composición simbólica de contraste: en primer término, la gran estatua dorada de Marduc queda en penumbra, con un brasero apagado y polvo acumulado a sus pies (dios descuidado); al fondo, iluminado por una luz plateada, se alza un altar nuevo con el símbolo del dios lunar Sin (una gran luna creciente) recibiendo ofrendas. Metáfora del culto que cambia y provoca la ruptura. Contraste de luz dorada apagada y luz plateada fría. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
+NEGATIVO: sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```

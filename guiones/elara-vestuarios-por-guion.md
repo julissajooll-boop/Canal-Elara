@@ -113,3 +113,41 @@ otros videos pero en color mostaza.
 | Pompeya | Chaqueta marrón + pañuelo burdeos |
 | Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
 | Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+
+
+
+---
+
+## 🏛️ BABILONIA — "Exploradora" (mismo estilo, color rosa palo + azul Ishtar)
+**Ambiente:** Mesopotamia, siglo VI a.C., llanura entre ríos; ladrillo de barro, oro y, sobre
+todo, el azul lapislázuli de la Puerta de Ishtar. Paleta de escena: azul lapislázuli / oro / ocre.
+**Objetivo del look:** MISMO estilo de exploradora, en **rosa palo / rosa empolvado (dusty
+pink)**, un tono suave y cálido que resalta (por luminosidad) sobre el azul y el ocre de
+Babilonia y luce muy bien en la miniatura. Acento simbólico: un **pañuelo azul lapislázuli**,
+guiño directo a la Puerta de Ishtar (el rosa palo y el azul combinan muy bien).
+
+| Prenda | Descripción |
+|--------|-------------|
+| 💇 Pelo | Suelto / semirecogido |
+| 👚 Blusa | **Crema** de lino |
+| 🧥 Chaqueta | **Rosa palo / rosa empolvado (dusty pink)** (corte de exploradora) |
+| 🧣 Pañuelo | **Azul lapislázuli** (evoca la Puerta de Ishtar) |
+| 👖 Pantalón | Caqui claro / neutro |
+| 👠 Calzado | **Zapatos de tacón de aguja, punta fina, color nude/beige** (nude pointed-toe pumps) |
+
+**Prompt de vestuario (Babilonia):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa crema de lino, chaqueta rosa palo (rosa
+empolvado / dusty pink) de exploradora, pañuelo azul lapislázuli al cuello, pantalón caqui claro,
+zapatos de tacón de aguja de punta fina en color nude/beige (nude pointed-toe stiletto pumps).
+Mismo estilo de exploradora elegante que en los otros videos pero en color rosa palo con acento
+azul lapislázuli y tacones nude.
+```
+
+### Tabla actualizada de colores por proyecto
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Chaqueta marrón + pañuelo burdeos |
+| Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
+| Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+| Babilonia | Blusa crema + chaqueta rosa palo + pañuelo azul lapislázuli |

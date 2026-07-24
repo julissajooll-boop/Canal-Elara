@@ -131,3 +131,33 @@ Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y em
   o alargar sin regenerar nada.
 - Dos ritmos válidos: (A) imágenes ~8 s = tranquilo/cinematográfico (menos clips); (B) imágenes
   ~3–5 s = dinámico (más clips, se usa el relleno extra). El material ya generado sirve para ambos.
+
+
+
+
+
+## ✅ 12. COBERTURA VISUAL TOTAL: ningún tramo de la voz en off sin material (OBLIGATORIO)
+> 🚨 Pedido expreso de la usuaria: en futuros proyectos NO puede faltar material visual. TODA
+> parte de la voz en off debe estar cubierta, bien organizada y clara para el montaje.
+- **Regla:** cada tramo de 8 s de la voz en off DEBE tener asignado su clip (🖼️ imagen / 🎬 video
+  / 👩 Elara). No puede quedar ni un solo tramo sin material.
+- **Cómo garantizarlo (flujo obligatorio):**
+  1. Generar la timeline DESDE la voz en off (un tramo de 8 s = una fila), de principio a fin.
+  2. Asignar a CADA fila su clip/prompt. Si un tramo no tiene clip → crearlo (o marcar relleno).
+  3. Verificar que `nº de clips = nº de tramos` y que no hay huecos (ninguna fila vacía).
+  4. `nº de clips × 8 s ≈ duración de la voz en off` (±1 min). Dejar el cálculo por escrito.
+- **Entregar SIEMPRE, desde el principio y completo, el paquete de montaje:**
+  - `*-voz-en-off-limpio.md` — la narración final continua.
+  - `*-prompts.md` — biblioteca visual (QUÉ generar), un clip por tramo, numerados.
+  - `*-timeline-montaje.md` — CUÁNDO va cada clip (nº · inicio · fin · tipo · texto exacto narrado).
+  - `*-elara-clips-flow.md` — clips donde se ve a Elara (frase exacta + prompt).
+  - Hoja de montaje / guion maestro que una todo en una sola vista.
+- **Numeración única y continua** (#1, #2, #3…) compartida entre prompts, timeline y hoja de
+  montaje, para que la usuaria empate cada clip con su tramo sin confusión.
+- **Entregar el material COMPLETO de una vez** (no a cuentagotas): evita la sensación de que
+  "falta material" o de que no cuadra. Si luego se añaden clips extra por frase, deben referirse
+  al nº de clip y tramo al que pertenecen.
+- **Relleno:** si se quiere ritmo más dinámico (imágenes de 3–5 s), preparar un banco de relleno
+  YA asignado a tramos concretos, nunca suelto sin ubicación.
+- ✅ Antes de dar por terminado: recorrer la voz en off de inicio a fin y confirmar en voz alta
+  "cada frase tiene su clip". Si algo no cuadra, faltan clips: ajustarlos ANTES de entregar.

@@ -1464,3 +1464,16 @@ NEGATIVO: sin sangre ni gore, sin elementos modernos, sin ropa contemporánea, s
 Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), interior de un templo con muros de ladrillo de barro y azulejos azul lapislázuli. Composición simbólica de contraste: en primer término, la gran estatua dorada de Marduc queda en penumbra, con un brasero apagado y polvo acumulado a sus pies (dios descuidado); al fondo, iluminado por una luz plateada, se alza un altar nuevo con el símbolo del dios lunar Sin (una gran luna creciente) recibiendo ofrendas. Metáfora del culto que cambia y provoca la ruptura. Contraste de luz dorada apagada y luz plateada fría. Imagen fija para efecto Ken Burns, fotorrealismo histórico cinematográfico 8K, iluminación volumétrica, gran detalle.
 NEGATIVO: sin elementos modernos, sin texto, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
 ```
+
+
+---
+
+## 📜 FRASE (B legado, #182) · "Porque Babilonia nunca murió del todo. Sigue viva. Y está tan cerca de ti que probablemente no la veas." · CLIP ESTRELLA
+> Momento cumbre del legado, justo antes de Elara E6 (#183, el reloj). Reemplaza/mejora al #182. Idea: Babilonia sigue viva en cómo medimos el tiempo, el cielo y el mundo. Todo simbólico y sin anacronismos.
+
+**🎬 CLIP ESTRELLA (video 8 s) — Babilonia sigue viva (el cielo y el tiempo que nos legó)**
+```
+Babilonia neobabilónica, siglo VI a.C., Mesopotamia histórica (entre los ríos Éufrates y Tigris), arquitectura mesopotámica auténtica (zigurat escalonado de siete pisos, muros de ladrillo de barro, azulejos vidriados azul lapislázuli). Escena épica y poética de noche estrellada: sobre las ruinas silenciosas de Babilonia se despliega en el cielo un gran círculo celeste de luz dorada dividido en segmentos iguales (la medida del tiempo y del cielo que Babilonia inventó), con constelaciones brillantes y símbolos astronómicos antiguos girando lentamente como un reloj cósmico; los trazos de luz descienden suavemente desde el cielo hasta tocar las ruinas, como si la ciudad siguiera respirando a través de las estrellas. Sensación de que Babilonia nunca murió: sigue viva en el cielo y en el tiempo. Ambiente sobrecogedor, partículas de polvo dorado y estelar, azul profundo con oro. PROMPT DE VIDEO (movimiento): cámara con lento movimiento ascendente (grúa/dron suave) que sube desde las ruinas hacia el gran círculo celeste girando, revelando la magnitud del legado; ritmo majestuoso y emotivo. Clip de video de 8 s, sin cortes, continuidad realista, fotorrealismo cinematográfico 8K, iluminación volumétrica.
+NEGATIVO: sin relojes modernos, sin números arábigos ni texto legible, sin elementos modernos, sin logos, sin marcas de agua, sin anacronismos, sin rostros ni manos deformes, sin gore.
+```
+> 💡 Montaje: encadena este clip con Elara E6 (#183, "cada vez que miras el reloj y ves que son las ocho y cuarto…") con un fundido lento. El círculo celeste que gira conecta visualmente con la esfera del reloj que ella menciona. Impacto máximo.

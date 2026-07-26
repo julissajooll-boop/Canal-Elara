@@ -83,3 +83,22 @@ como Ingredient.
   pueden salir distintos en cada clip sin romper la continuidad.
 - Figuras sagradas cuyo rostro NO se muestra (p. ej. Jesús): no se genera referencia; se filman de
   espaldas, de perfil lejano o fuera de foco, sin halos ni cruces (anacrónicos según la época).
+
+
+## 👗 8. VESTUARIO DE ELARA (coherencia de marca) — OBLIGATORIO
+Elara es SIEMPRE la misma presentadora: **misma cara** (Ingredient `elara-avatar-referencia.jpg`) y
+**misma voz** (español latino neutro). Lo único que cambia entre videos es el COLOR de su vestuario.
+
+**Reglas del vestuario:**
+- Mantener SIEMPRE el mismo estilo de **exploradora / presentadora moderna** (blusa + chaqueta tipo
+  explorador + pantalón + botas). Nunca ropa de época: es una presentadora actual observando el pasado.
+- Cada guion usa **un color de chaqueta distinto y reconocible**, elegido para: (a) tener relación
+  temática con el tema y (b) **contrastar con la paleta del escenario** para que Elara resalte en la
+  miniatura. Ej.: Egipto = azul · Isla de Pascua = mostaza · Pompeya = marrón + burdeos ·
+  Betania/Lázaro = verde oliva (guiño al olivar).
+- Registrar SIEMPRE el vestuario del guion en `elara-vestuarios-por-guion.md`: entrada nueva con la
+  tabla de prendas + un **prompt de vestuario listo para copiar** + fila en la tabla resumen de colores.
+- La **imagen base de Elara** de ese guion (fotograma inicial de sus clips) se genera con ese vestuario
+  y su cara de referencia; se reutiliza como Ingredient en todos sus clips (E1…En).
+- Al entregar el paquete de un guion, incluir SIEMPRE la entrada de vestuario actualizada (no dejarla
+  para después).

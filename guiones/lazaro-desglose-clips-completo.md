@@ -10,6 +10,10 @@
 > Ritmo dinámico del canal: se intercalan 🖼️ imágenes con 🎬 clips de video.
 > Los clips de ELARA en pantalla (E1–E10) están en `lazaro-elara-clips-prompts.md` y se
 > insertan en las posiciones indicadas aquí abajo (👉 ELARA).
+> **🧬 CONSISTENCIA DE PERSONAJES:** Lázaro, Marta y María salen en muchos clips. Genera su retrato
+> de referencia (ver `lazaro-personajes-referencia.md`) y súbelo como Ingredient en Flow en cada
+> clip donde aparezcan, para que mantengan la misma cara y vestuario. Extras/multitudes no lo necesitan.
+> A Jesús no se le muestra el rostro (de espaldas / fuera de foco).
 
 ---
 

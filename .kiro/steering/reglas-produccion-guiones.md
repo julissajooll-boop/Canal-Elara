@@ -49,3 +49,11 @@ Cada clip del guion gráfico se entrega SIEMPRE con:
 1. **PROMPT DE IMAGEN** completo (anclaje + escena + estilo + negativo).
 2. **PROMPT DE VIDEO** (movimiento de cámara y acción), aunque sea imagen con Ken Burns.
 Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y emoción.
+
+### 🚫 6.1 El NEGATIVO va DENTRO del mismo bloque (no aparte)
+- El prompt negativo se escribe **DENTRO del mismo bloque de código** del prompt de imagen y,
+  otra vez, **DENTRO del mismo bloque** del prompt de video, como última línea con la etiqueta
+  `Negativo: ...`. Así cada bloque se copia de UNA sola vez, completo.
+- NO poner el negativo en un bloque de código separado debajo del prompt (esa forma antigua queda
+  anulada por preferencia de la usuaria). Un clip = 2 bloques copiables (imagen y video), cada uno
+  con su negativo incluido al final.

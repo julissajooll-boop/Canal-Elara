@@ -4,13 +4,14 @@
 > Regla aplicada: cada línea a cámara ≤ 18-20 palabras (cabe en 8 s) y es un **fragmento LITERAL**
 > de `lazaro-voz-en-off-limpio.md` (no parafraseado). Lo que no cabe en 8 s sigue en **voz en off**
 > sobre la reconstrucción (ver marcas "(sigue en voz en off)" en el guion limpio).
-> Cada clip trae **PROMPT DE IMAGEN + Negativo** y **PROMPT DE VIDEO (7 capas) + Negativo**.
+> Cada clip trae **PROMPT DE IMAGEN** y **PROMPT DE VIDEO (7 capas)**, con el **negativo INCLUIDO
+> al final del mismo bloque** (línea `Negativo: ...`), para copiar todo de una sola vez.
 > **Vestuario:** blusa blanca de lino + **chaqueta VERDE OLIVA** + pantalón caqui + botas de cuero marrón.
 > **Voz:** español latino neutro. **Flow:** sube `elara-avatar-referencia.jpg` como 🧬 Ingredient
 > en TODOS los clips (misma cara). La imagen generada es el 🎞️ fotograma inicial del video.
 > Elara es presentadora MODERNA (ropa actual sobria = correcto, no anacronismo).
 
-**🚫 NEGATIVO ESTÁNDAR (ya va copiado debajo de cada prompt):**
+**🚫 NEGATIVO ESTÁNDAR (ya va incluido DENTRO de cada prompt, al final):**
 `sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.`
 
 **⭐ BLOQUE DE ESTILO PRO (ya incluido al final de cada prompt de video):**
@@ -27,10 +28,8 @@ lino blanca, chaqueta de exploradora color verde oliva oscuro abierta, pantalón
 de cuero marrón. De pie en una colina de Betania (Judea) con olivares plateados y, al fondo, el
 camino de tierra que sube a la Jerusalén amurallada del siglo I. Luz dorada del atardecer. Estilo
 fotorrealismo cinematográfico, look documental premium, 8K, profundidad de campo, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 > Mantén el MISMO rostro de Elara que en los demás videos del canal (solo cambia el vestuario a verde oliva).
 
@@ -45,10 +44,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) de pie en una colina sobre un valle de
 olivares plateados, el camino a la Jerusalén amurallada del siglo I al fondo, luz dorada del
 atardecer. Plano general, mira a cámara con calidez. Fotorrealismo cinematográfico, 8K, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -60,10 +57,8 @@ dorada rasante de atardecer que crece sobre su rostro. Audio: su voz (español l
 Emoción: cercana y serena, mirada directa. Ritmo pausado, 8 s, sin cortes. Estilo: estética de cámara
 de cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil y
 halación suave, 24 fps con motion blur natural, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ### E2 (8s) · línea EXACTA (16 palabras)
@@ -73,10 +68,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) en plano medio, con las colinas de Betania y
 el camino a Jerusalén a su espalda, abre el brazo presentando el lugar y mira a cámara con
 complicidad. Brisa en el pelo, luz dorada de atardecer. Fotorrealismo cinematográfico, 8K, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -88,10 +81,8 @@ Elara, y hoy entramos en la casa de Lázaro, el amigo al que Jesús amó."; bris
 Emoción: entusiasmo cálido, gesto acogedor. Ritmo pausado, 8 s, sin cortes. Estilo: estética de
 cámara de cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm
 sutil y halación suave, 24 fps con motion blur natural, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---
@@ -105,10 +96,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) de pie junto a la entrada de una tumba judía
 excavada en la roca, con la gran piedra circular a su lado; apoya la mano en la piedra y mira a
 cámara con seriedad. Ladera rocosa con olivos, luz del atardecer. Fotorrealismo cinematográfico, 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -119,10 +108,8 @@ del atardecer, un poco más dramática. Audio: su voz (español latino, lip-sync
 dejan de ser suposiciones y se vuelven piedra. Literalmente."; silencio con brisa tenue. Emoción:
 seria, fascinada. Ritmo lento y solemne, 8 s, sin cortes. Estilo: estética de cámara de cine digital
 tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---
@@ -136,10 +123,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) de pie en el patio interior de la casa, junto
 a la higuera y la cisterna de piedra, macetones de hierbas alrededor; abre las manos señalando el
 hogar y mira a cámara con calidez. Luz dorada filtrándose. Fotorrealismo cinematográfico, 8K, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -150,10 +135,8 @@ Luz: dorada cálida. Audio: su voz (español latino, lip-sync) "Una casa no es s
 Una casa la hacen las personas."; brisa y aves de fondo. Emoción: ternura y curiosidad. Ritmo
 pausado, 8 s, sin cortes. Estilo: estética de cámara de cine digital tipo Arri Alexa, óptica
 anamórfica, gradación de largometraje, grano 35 mm sutil y halación suave, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---
@@ -167,10 +150,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) de pie en la sala de recepción de una casa
 acomodada, columna de madera y tapices de lana teñida detrás, lámparas de bronce; mira a cámara con
 cercanía y gesto de invitación. Luz dorada de tarde por una ventana. Fotorrealismo cinematográfico, 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -181,10 +162,8 @@ polvo en el haz de luz. Luz: dorada cálida de tarde. Audio: su voz (español la
 esta historia te está atrapando, suscríbete y déjame un comentario."; ambiente hogareño suave.
 Emoción: entusiasta y cómplice. Ritmo natural, 8 s, sin cortes. Estilo: estética de cámara de cine
 digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---
@@ -198,10 +177,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) en el patio al anochecer, la higuera y la
 cisterna en penumbra, cielo azul profundo del crepúsculo; mira a cámara pensativa. Luz cálida de
 lámparas mezclada con el azul del anochecer. Fotorrealismo cinematográfico, 8K, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -212,10 +189,8 @@ azul del crepúsculo (clave baja). Audio: su voz (español latino, lip-sync) "Vi
 de Lázaro. Pero lo que me quedó no fue esa."; grillos suaves. Emoción: reflexiva, íntima. Ritmo
 lento, 8 s, sin cortes. Estilo: estética de cámara de cine digital tipo Arri Alexa, óptica anamórfica,
 gradación de largometraje, grano 35 mm sutil y halación suave, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ### E7 (8s) · línea EXACTA (11 palabras)
@@ -225,10 +200,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) dentro de la casa iluminada por lámparas de
 aceite, primer plano medio, emoción contenida, mira a cámara. Luz cálida dorada íntima, fondo en
 penumbra suave. Fotorrealismo cinematográfico, 8K, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -239,10 +212,8 @@ Audio: su voz (español latino, lip-sync) "El Evangelio no dice que lo conociera
 silencio íntimo. Emoción: ternura contenida. Ritmo lento, 8 s, sin cortes. Estilo: estética de cámara
 de cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil,
 halación suave, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ### E8 (8s) · línea EXACTA (14 palabras)
@@ -252,10 +223,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) en primer plano medio dentro de la casa
 iluminada por lámparas, expresión de emoción serena, mira a cámara. Luz cálida dorada muy suave,
 sombras profundas. Fotorrealismo cinematográfico, 8K, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -266,10 +235,8 @@ voz (español latino, lip-sync) "Frente a su tumba está el versículo más cort
 lloró."; silencio emotivo. Emoción: solemne y tierna. Ritmo muy lento, 8 s, sin cortes. Estilo:
 estética de cámara de cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje,
 grano 35 mm sutil, halación suave, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---
@@ -283,10 +250,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) ante la casa de Betania con las ventanas
 cálidamente iluminadas al anochecer, aldea en penumbra azulada; gesto abierto e invitador mirando a
 cámara. Mezcla de luz cálida y azul de anochecer. Fotorrealismo cinematográfico, 8K, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -297,10 +262,8 @@ ventanas. Luz: mezcla cálida y azul del anochecer. Audio: su voz (español lati
 en esta casa? ¿La sala con Jesús, la cocina con Marta o el patio con María?"; grillos de fondo.
 Emoción: cercana, invita a comentar. Ritmo natural, 8 s, sin cortes. Estilo: estética de cámara de
 cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ### E10 (8s) · línea EXACTA (13 palabras)
@@ -310,10 +273,8 @@ sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, 
 Betania, Judea, siglo I. Elara (chaqueta verde oliva) en primer plano medio, sonrisa serena y algo
 misteriosa, la casa iluminada y un cielo estrellado detrás. Luz cálida dorada. Fotorrealismo
 cinematográfico, 8K, gran detalle.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 🎬 PROMPT DE VIDEO (7 capas):
 ```
@@ -324,10 +285,8 @@ iluminada al fondo, brisa nocturna. Luz: cálida dorada, práctica de las lámpa
 sorprender."; brisa nocturna suave. Emoción: cálida e intrigante. Ritmo pausado, 8 s, sin cortes.
 (En CapCut: rótulo "Suscríbete" + logo ELARA.) Estilo: estética de cámara de cine digital tipo Arri
 Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil, halación suave, fotorrealista 8K.
-```
-Negativo:
-```
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+
+Negativo: sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---

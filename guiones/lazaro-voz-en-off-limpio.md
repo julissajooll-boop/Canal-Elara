@@ -9,8 +9,11 @@
 - Las líneas en gris entre párrafos indican SOLO lo visual, sin interrumpir la lectura:
   - 🟢 **[ELARA EN PANTALLA — habla a cámara]** → aquí SÍ se le ve (avatar) mirando al espectador.
   - ⚪ **[Voz en off sobre reconstrucción]** → no se le ve; su voz acompaña las imágenes.
-- Elara aparece en pantalla solo en 4 momentos clave (presentación, giro, reflexión y despedida).
+- Elara aparece en pantalla solo en momentos clave (presentación, giro, reflexión y despedida).
   Todo lo demás es su voz sobre la reconstrucción de Betania, para no romper la inmersión.
+  - **[ELARA A CÁMARA — Ex]** = fragmento CORTO que Elara dice mirando a cámara (≤18 palabras, cabe en 8 s).
+    Es la línea LITERAL del clip Ex en `lazaro-elara-clips-prompts.md`.
+  - **[sigue en voz en off]** = el resto de esa idea continúa con su voz SOBRE imágenes (no se le ve).
 - **Voz:** español latino neutro (voz latinoamericana) en TODO, narración y clips a cámara.
 - **Enfoque original:** este guion NO es un vlog en primera persona ("desperté en la casa…").
   Es un documental en tercera persona: Elara, presentadora moderna, te LLEVA a la casa de Lázaro.
@@ -25,7 +28,7 @@ Porque antes del milagro, Lázaro fue un hombre de carne y hueso. Tuvo una direc
 
 🟢 *[ELARA EN PANTALLA — habla a cámara, en una colina con Betania y el camino a Jerusalén al fondo]*
 
-Hoy no vamos a hablar del milagro. Hoy vamos a hablar del hombre. Soy Elara, y te voy a llevar a Betania, en el siglo primero, a la casa de Lázaro, el amigo al que Jesús quiso como a un hermano, para descubrir juntos algo que casi nunca se cuenta: que este hombre, mucho antes de resucitar, ya tenía una vida asombrosa.
+**[ELARA A CÁMARA — E1]** Hoy no vamos a hablar del milagro. Hoy vamos a hablar del hombre. **[ELARA A CÁMARA — E2]** Soy Elara, y hoy entramos en la casa de Lázaro, el amigo al que Jesús amó. **[sigue en voz en off]** Te voy a llevar a Betania, en el siglo primero, para descubrir algo que casi nunca se cuenta: que este hombre, mucho antes de resucitar, ya tenía una vida asombrosa.
 
 ⚪ *[Voz en off sobre reconstrucción — vista aérea de Betania entre colinas]*
 
@@ -91,7 +94,7 @@ Uno de los presentes, Judas, protestó en voz alta: se podría haber vendido ese
 
 🟢 *[ELARA EN PANTALLA — habla a cámara, junto a la entrada de una tumba excavada en roca]*
 
-Y aquí las pistas dejan de ser suposiciones y se vuelven piedra. Literalmente. Porque hay un detalle sobre esta familia que es casi imposible de discutir, y que tiene que ver, precisamente, con el lugar donde empezó todo: la tumba.
+**[ELARA A CÁMARA — E3]** Aquí las pistas dejan de ser suposiciones y se vuelven piedra. Literalmente. **[sigue en voz en off]** Hay un detalle sobre esta familia que es casi imposible de discutir, y que tiene que ver, precisamente, con el lugar donde empezó todo: la tumba.
 
 ⚪ *[Voz en off sobre reconstrucción — tumba familiar con piedra redonda de cierre]*
 
@@ -117,7 +120,7 @@ El Evangelio de Lucas lo describe sentado, enseñando en esta sala, mientras dos
 
 🟢 *[ELARA EN PANTALLA — habla a cámara, en el patio de la casa]*
 
-Pero una casa no es solo piedra, aceite y perfume. Una casa la hacen las personas. Y en esta había tres hermanos que no podían ser más distintos entre sí. Para entender de verdad quién era Lázaro, tenemos que conocer a las dos mujeres que sostenían este hogar con él.
+**[ELARA A CÁMARA — E4]** Una casa no es solo piedra y aceite. Una casa la hacen las personas. **[sigue en voz en off]** Y en esta había tres hermanos que no podían ser más distintos entre sí. Para entender de verdad quién era Lázaro, tenemos que conocer a las dos mujeres que sostenían este hogar con él.
 
 ⚪ *[Voz en off sobre reconstrucción — Marta en la cocina, dirigiendo a los sirvientes]*
 
@@ -143,7 +146,7 @@ Y si así fue, la organización de la casa cobra todo su sentido. Lázaro se ocu
 
 🟢 *[ELARA EN PANTALLA — habla a cámara, en la sala principal con la luz de la tarde]*
 
-Antes de continuar, si esta mirada nueva sobre Lázaro y su familia te está atrapando, déjame un comentario y suscríbete al canal. Porque lo que viene ahora conecta, por fin, la vida de este hombre con el milagro que lo hizo famoso. Y cambia por completo cómo lo vemos.
+**[ELARA A CÁMARA — E5]** Si esta historia te está atrapando, suscríbete y déjame un comentario. **[sigue en voz en off]** Porque lo que viene ahora conecta, por fin, la vida de este hombre con el milagro que lo hizo famoso. Y cambia por completo cómo lo vemos.
 
 ⚪ *[Voz en off sobre reconstrucción — visitantes llegando de Jerusalén, ambiente de duelo]*
 
@@ -169,7 +172,7 @@ Piensa en la ironía terrible de todo esto. Un hombre que había vencido a la mu
 
 🟢 *[ELARA EN PANTALLA — habla a cámara, en el patio al anochecer]*
 
-Y aquí es donde esta historia da un giro que no esperaba encontrar. Vine a Betania a buscar la riqueza de Lázaro. Y la encontré por todas partes: en la piedra, en el aceite, en el perfume, en la tumba. Pero lo que de verdad me quedó grabado no fue nada de eso.
+**[sigue en voz en off]** Y aquí es donde esta historia da un giro que no esperaba encontrar. **[ELARA A CÁMARA — E6]** Vine a buscar la riqueza de Lázaro. Pero lo que me quedó no fue esa. **[sigue en voz en off]** La encontré por todas partes: en la piedra, en el aceite, en el perfume, en la tumba. Y aun así, no fue nada de eso lo que más me marcó.
 
 ⚪ *[Voz en off sobre reconstrucción — repaso visual de todas las pruebas de riqueza]*
 
@@ -179,7 +182,7 @@ A Lázaro no se le llama rico en ningún versículo. Pero cada dato que la Bibli
 
 🟢 *[ELARA EN PANTALLA — habla a cámara, dentro de la casa iluminada por lámparas]*
 
-Porque hay dos versículos que pesan más que todo el oro de esta historia. El Evangelio de Juan usa una palabra muy precisa: dice que Jesús amaba a Marta, a su hermana María y a Lázaro. No dice que lo seguían, ni que lo conocían. Dice que los amaba. Y más adelante, frente a la tumba de su amigo, aparece el versículo más corto de toda la Biblia. Dos palabras. Jesús lloró.
+**[sigue en voz en off]** Hay dos versículos que pesan más que todo el oro de esta historia. El Evangelio de Juan usa una palabra muy precisa: dice que Jesús amaba a Marta, a su hermana María y a Lázaro. **[ELARA A CÁMARA — E7]** El Evangelio no dice que lo conociera. Dice que lo amaba. **[ELARA A CÁMARA — E8]** Frente a su tumba está el versículo más corto de la Biblia: Jesús lloró. **[sigue en voz en off]** Dos palabras. Y no se llora así por un símbolo, sino por un amigo de carne y hueso.
 
 ⚪ *[Voz en off sobre reconstrucción — la tumba, la luz cálida, el silencio]*
 
@@ -191,4 +194,4 @@ Y quizá por eso, más que por cualquier otra razón, Jesús eligió esta casa. 
 
 🟢 *[ELARA EN PANTALLA — habla a cámara, al anochecer, con la casa iluminada detrás]*
 
-Así que ya lo sabes: mucho antes del milagro, Lázaro fue un hombre real, con una vida concreta y extraordinaria. Y ahora me encantaría leerte. Si pudieras pasar un solo día en esta casa de Betania, ¿dónde te quedarías: en la sala de recepción, escuchando a Jesús enseñar; en la cocina, ayudando a Marta; o en el patio, en silencio, junto a María? Cuéntamelo en los comentarios. Y si quieres seguir caminando conmigo por los mundos que el tiempo casi borra, suscríbete a Elara Historiadora. Porque la próxima puerta que vamos a abrir juntos… te va a sorprender.
+**[sigue en voz en off]** Así que ya lo sabes: mucho antes del milagro, Lázaro fue un hombre real, con una vida concreta y extraordinaria. Y ahora me encantaría leerte. **[ELARA A CÁMARA — E9]** ¿Un día en esta casa? ¿La sala con Jesús, la cocina con Marta o el patio con María? **[sigue en voz en off]** Cuéntamelo en los comentarios. **[ELARA A CÁMARA — E10]** Suscríbete a Elara Historiadora. La próxima puerta que abramos te va a sorprender.

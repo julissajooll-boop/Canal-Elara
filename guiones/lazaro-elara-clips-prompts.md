@@ -1,196 +1,340 @@
-# LÁZARO — CLIPS DE ELARA EN PANTALLA · PROMPTS DE VIDEO PARA FLOW (Veo)
-## Elara aparece SOLO en momentos clave (10 clips de 8 s)
+# LÁZARO — CLIPS DE ELARA EN PANTALLA · IMAGEN + VIDEO (Flow/Veo)
+## Elara aparece SOLO en momentos clave · líneas EXACTAS de la voz en off · cada línea cabe en 8 s
 
-> El resto del video es voz en off de Elara sobre la reconstrucción (ver `lazaro-desglose-clips-completo.md`).
-> Aquí Elara SÍ aparece a cámara (avatar) en 4 momentos: presentación, giro, reflexión y despedida.
-> **Vestuario (ver `elara-vestuarios-por-guion.md`):** blusa blanca de lino + **chaqueta VERDE OLIVA** + pantalón caqui + botas de cuero marrón (guiño al olivar).
-> **Voz:** español latino neutro (voz latinoamericana) en TODOS los clips, con lip-sync.
-> **En Flow (Veo):**
-> - 🧬 Ingredient: sube `elara-avatar-referencia.jpg` (cara/consistencia) en TODOS los clips.
-> - 🎞️ Frame inicial: la imagen base de Elara con el vestuario verde oliva en el entorno indicado.
-> - 🔊 Audio ON: voz de Elara (lip-sync) + ambiente (viento suave, olivar, aves) + foley.
-> - Estructura Veo (7 capas): cámara + sujeto + acción + entorno + luz + estilo + audio.
-> - Blindaje: sin cruces ni halos (anacrónicos en el siglo I); Elara es una presentadora MODERNA
->   observando la reconstrucción, así que su ropa actual (sobria) es correcta, no un anacronismo de época.
+> Regla aplicada: cada línea a cámara ≤ 18-20 palabras (cabe en 8 s) y es un **fragmento LITERAL**
+> de `lazaro-voz-en-off-limpio.md` (no parafraseado). Lo que no cabe en 8 s sigue en **voz en off**
+> sobre la reconstrucción (ver marcas "(sigue en voz en off)" en el guion limpio).
+> Cada clip trae **PROMPT DE IMAGEN + Negativo** y **PROMPT DE VIDEO (7 capas) + Negativo**.
+> **Vestuario:** blusa blanca de lino + **chaqueta VERDE OLIVA** + pantalón caqui + botas de cuero marrón.
+> **Voz:** español latino neutro. **Flow:** sube `elara-avatar-referencia.jpg` como 🧬 Ingredient
+> en TODOS los clips (misma cara). La imagen generada es el 🎞️ fotograma inicial del video.
+> Elara es presentadora MODERNA (ropa actual sobria = correcto, no anacronismo).
+
+**🚫 NEGATIVO ESTÁNDAR (ya va copiado debajo de cada prompt):**
+`sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.`
+
+**⭐ BLOQUE DE ESTILO PRO (ya incluido al final de cada prompt de video):**
+`estética de cámara de cine digital tipo Arri Alexa, óptica anamórfica, gradación de color de largometraje, grano de 35 mm sutil y halación suave, 24 fps con motion blur natural, composición impecable, fotorrealista 8K.`
 
 ---
 
-## 🖼️ IMAGEN BASE DE ELARA (Betania) — genérala primero y úsala como frame inicial
+## 🖼️ IMAGEN BASE DE ELARA (Betania) — genérala primero y úsala como fotograma inicial
+🖼️ PROMPT DE IMAGEN:
 ```
-Retrato de cuerpo entero de Elara, presentadora documental: mujer latina de unos 30-40 años,
-rostro expresivo y cálido, piel trigueña, ojos marrones inteligentes, cabello castaño ondulado
-suelto movido por la brisa, sonrisa serena y segura. Viste una blusa de lino blanca, una chaqueta
-de exploradora color verde oliva oscuro abierta, pantalón caqui claro y botas de cuero marrón.
-Accesorios sobrios: reloj de cuero, pendientes discretos. Está de pie en una colina de Betania
-(Judea) con olivares plateados y, al fondo, el camino de tierra que sube hacia la Jerusalén
-amurallada del siglo I; luz dorada del atardecer mediterráneo. Estilo: fotorrealismo cinematográfico,
-look documental premium, 8K, profundidad de campo, iluminación cálida favorecedora, gran detalle.
-[NEGATIVO: sin ropa anacrónica llamativa, sin logotipos ni marcas, sin texto, sin gafas de sol,
-sin elementos modernos fuera de lugar (autos, móviles, cables), sin cruces ni halos, sin edificios
-modernos, sin cúpulas islámicas en Jerusalén, sin rasgos ni manos deformes, sin marcas de agua.]
+Retrato de cuerpo entero de Elara, presentadora documental: mujer latina de unos 30-40 años, rostro
+expresivo y cálido, piel trigueña, ojos marrones, cabello castaño ondulado suelto. Viste blusa de
+lino blanca, chaqueta de exploradora color verde oliva oscuro abierta, pantalón caqui claro y botas
+de cuero marrón. De pie en una colina de Betania (Judea) con olivares plateados y, al fondo, el
+camino de tierra que sube a la Jerusalén amurallada del siglo I. Luz dorada del atardecer. Estilo
+fotorrealismo cinematográfico, look documental premium, 8K, profundidad de campo, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 > Mantén el MISMO rostro de Elara que en los demás videos del canal (solo cambia el vestuario a verde oliva).
 
 ---
 
-## 🟢 MOMENTO 1 — PRESENTACIÓN (colina de Betania, camino a Jerusalén al fondo)
-*(Va después del clip #8 del desglose.)*
+## 🟢 MOMENTO 1 — PRESENTACIÓN (colina de Betania) · va tras el clip #8 del desglose
 
-**E1 (8s)** · 🧬 Ingredient: foto Elara · 🎞️ Frame inicial: imagen base de Elara
-🎬 VIDEO (Flow):
+### E1 (8s) · línea EXACTA (13 palabras)
+🗣️ *"Hoy no vamos a hablar del milagro. Hoy vamos a hablar del hombre."*
+🖼️ PROMPT DE IMAGEN:
 ```
-Plano general que abre amplio y hace un dolly-in lento hacia Elara (chaqueta verde oliva) de pie
-en una colina de Betania. Acción beat a beat: contempla el valle de olivares, se gira a cámara y
-empieza a hablar con calidez. Entorno: olivares plateados y el camino de tierra que sube a la
-Jerusalén amurallada del siglo I al fondo, brisa suave. Luz: dorada rasante de atardecer que crece
-sobre su rostro. Actuación: cercana y serena, leve sonrisa, mirada directa. Audio (voz latina de
-Elara, lip-sync): "Hoy no vamos a hablar del milagro. Hoy vamos a hablar del hombre." De fondo,
-brisa y aves. Ritmo pausado, 8 s, sin cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin cúpulas islámicas, sin marcas de agua.]
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) de pie en una colina sobre un valle de
+olivares plateados, el camino a la Jerusalén amurallada del siglo I al fondo, luz dorada del
+atardecer. Plano general, mira a cámara con calidez. Fotorrealismo cinematográfico, 8K, gran detalle.
 ```
-
-**E2 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+Negativo:
 ```
-Plano medio, ligero travelling lateral. Elara (chaqueta verde oliva) abre el brazo presentando
-las colinas de Betania y el camino a Jerusalén a su espalda, y mira a cámara con complicidad.
-Entorno: olivares y aldea de piedra caliza al fondo, brisa en el pelo. Luz: dorada de atardecer.
-Actuación: entusiasmo cálido, gesto acogedor, media sonrisa intrigante al final. Audio (voz latina
-de Elara, lip-sync): "Soy Elara, y te voy a llevar a Betania, en el siglo primero, a la casa de
-Lázaro, el amigo al que Jesús quiso como a un hermano. Porque mucho antes de resucitar, este
-hombre ya tenía una vida asombrosa." Brisa suave. 8 s, sin cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin cúpulas islámicas, sin marcas de agua.]
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
-
----
-
-## 🟢 MOMENTO 2 — EL GIRO (junto a la tumba excavada en la roca)
-*(Va después del clip #86 del desglose, antes de la sección de la tumba.)*
-
-**E3 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+🎬 PROMPT DE VIDEO (7 capas):
 ```
-Plano medio, push-in lento. Elara (chaqueta verde oliva) de pie junto a la entrada de una tumba
-judía excavada en la roca, con la gran piedra circular a su lado; posa la mano sobre la piedra y
-se gira a cámara. Entorno: ladera rocosa con olivos, luz del atardecer. Luz: cálida y algo más
-dramática. Actuación: seriedad e intriga, baja un poco el tono. Audio (voz latina de Elara,
-lip-sync): "Y aquí las pistas dejan de ser suposiciones y se vuelven piedra. Literalmente."
-Ambiente silencioso, brisa leve. 8 s, sin cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin marcas de agua, sin rostros deformes.]
+Plano general (establishing), lente 35 mm, dolly-in lento hacia Elara (chaqueta verde oliva) en una
+colina de Betania. Acción beat a beat: contempla el valle de olivares, se gira a cámara y habla con
+calidez, leve asentimiento final. Ambiente: brisa moviendo la hierba y su pelo, aves lejanas. Luz:
+dorada rasante de atardecer que crece sobre su rostro. Audio: su voz (español latino, lip-sync)
+"Hoy no vamos a hablar del milagro. Hoy vamos a hablar del hombre."; de fondo brisa suave y aves.
+Emoción: cercana y serena, mirada directa. Ritmo pausado, 8 s, sin cortes. Estilo: estética de cámara
+de cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil y
+halación suave, 24 fps con motion blur natural, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
-**E4 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+### E2 (8s) · línea EXACTA (16 palabras)
+🗣️ *"Soy Elara, y hoy entramos en la casa de Lázaro, el amigo al que Jesús amó."*
+🖼️ PROMPT DE IMAGEN:
 ```
-Primer plano medio, push-in suave al rostro. Elara (chaqueta verde oliva) mira a cámara con gesto
-grave y fascinado, la tumba y la piedra desenfocadas detrás. Luz: cálida focal, sombras suaves.
-Actuación: gravedad expectante, complicidad. Audio (voz latina de Elara, lip-sync): "Hay un detalle
-sobre esta familia que es casi imposible de discutir, y tiene que ver con el lugar donde empezó
-todo: la tumba." Silencio con brisa tenue. 8 s, sin cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin marcas de agua, sin rostros deformes.]
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) en plano medio, con las colinas de Betania y
+el camino a Jerusalén a su espalda, abre el brazo presentando el lugar y mira a cámara con
+complicidad. Brisa en el pelo, luz dorada de atardecer. Fotorrealismo cinematográfico, 8K, gran detalle.
 ```
-
----
-
-## 🟢 MOMENTO 3 — GIRO A LAS HERMANAS (patio de la casa)
-*(Va después del clip #112 del desglose.)*
-
-**E5 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+Negativo:
 ```
-Plano medio, leve travelling. Elara (chaqueta verde oliva) de pie en el patio interior de la casa,
-junto a la higuera y la cisterna, señala con calidez el hogar a su alrededor y mira a cámara.
-Entorno: patio de piedra caliza, macetones de hierbas, luz dorada filtrándose. Luz: cálida.
-Actuación: ternura y curiosidad, gesto que abarca la casa. Audio (voz latina de Elara, lip-sync):
-"Una casa no es solo piedra, aceite y perfume: una casa la hacen las personas. Para entender quién
-era Lázaro, tenemos que conocer a las dos mujeres que sostenían este hogar con él." Aves y brisa.
-8 s, sin cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin marcas de agua, sin rostros deformes.]
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+🎬 PROMPT DE VIDEO (7 capas):
+```
+Plano medio, lente 50 mm, leve travelling lateral con gimbal alrededor de Elara (chaqueta verde
+oliva). Acción beat a beat: abre el brazo presentando las colinas y el camino a Jerusalén detrás,
+se gira a cámara y esboza media sonrisa intrigante al terminar. Ambiente: brisa en el pelo, olivos
+mecidos al fondo. Luz: dorada cálida de atardecer. Audio: su voz (español latino, lip-sync) "Soy
+Elara, y hoy entramos en la casa de Lázaro, el amigo al que Jesús amó."; brisa suave de fondo.
+Emoción: entusiasmo cálido, gesto acogedor. Ritmo pausado, 8 s, sin cortes. Estilo: estética de
+cámara de cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm
+sutil y halación suave, 24 fps con motion blur natural, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---
 
-## 🟢 MOMENTO 4 — CTA INTERMEDIO (sala principal, luz de la tarde)
-*(Va después del clip #142 del desglose.)*
+## 🟢 MOMENTO 2 — EL GIRO (junto a la tumba) · va tras el clip #86 del desglose
 
-**E6 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+### E3 (8s) · línea EXACTA (12 palabras)
+🗣️ *"Aquí las pistas dejan de ser suposiciones y se vuelven piedra. Literalmente."*
+🖼️ PROMPT DE IMAGEN:
 ```
-Plano medio, push-in muy suave. Elara (chaqueta verde oliva) de pie en la sala de recepción de la
-casa, con la columna de madera y los tapices detrás; habla a cámara con cercanía. Entorno: interior
-cálido, luz dorada de la tarde entrando por una ventana. Luz: cálida envolvente. Actuación: cómplice
-y entusiasta, gesto de invitación. Audio (voz latina de Elara, lip-sync): "Si esta mirada nueva
-sobre Lázaro te está atrapando, déjame un comentario y suscríbete. Porque lo que viene ahora conecta
-su vida con el milagro que lo hizo famoso… y lo cambia todo." Ambiente hogareño suave. 8 s, sin
-cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin marcas de agua, sin rostros deformes.]
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) de pie junto a la entrada de una tumba judía
+excavada en la roca, con la gran piedra circular a su lado; apoya la mano en la piedra y mira a
+cámara con seriedad. Ladera rocosa con olivos, luz del atardecer. Fotorrealismo cinematográfico, 8K.
 ```
-
----
-
-## 🟢 MOMENTO 5 — REFLEXIÓN (patio al anochecer / interior iluminado)
-*(Va después del clip #166 del desglose.)*
-
-**E7 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+Negativo:
 ```
-Plano medio, push-in lento. Elara (chaqueta verde oliva) en el patio al anochecer, la higuera y la
-cisterna en penumbra, el cielo azul profundo del crepúsculo detrás; mira a cámara pensativa. Luz:
-cálida de lámparas mezclada con el azul del anochecer. Actuación: reflexiva, casi conmovida. Audio
-(voz latina de Elara, lip-sync): "Vine a Betania a buscar la riqueza de Lázaro, y la encontré por
-todas partes. Pero lo que de verdad me quedó grabado no fue nada de eso." Grillos y brisa nocturna.
-8 s, sin cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin marcas de agua, sin rostros deformes.]
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
-
-**E8 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+🎬 PROMPT DE VIDEO (7 capas):
 ```
-Primer plano, push-in suave al rostro. Elara (chaqueta verde oliva) dentro de la casa iluminada por
-lámparas de aceite, emoción contenida, habla a cámara con voz que baja de intensidad. Luz: cálida
-dorada íntima. Actuación: emoción sincera. Audio (voz latina de Elara, lip-sync): "El Evangelio no
-dice que Lázaro siguiera a Jesús ni que lo conociera. Dice que lo amaba. Y frente a su tumba está
-el versículo más corto de la Biblia: dos palabras. Jesús lloró." Silencio íntimo, leve crepitar de
-lámpara. 8 s, sin cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin marcas de agua, sin rostros deformes.]
+Plano medio, lente 50 mm, push-in lento hacia Elara (chaqueta verde oliva) junto a la tumba excavada
+en roca. Acción beat a beat: posa la mano sobre la gran piedra circular, la mira, se gira a cámara y
+baja el tono con intriga. Ambiente: brisa leve, polvo fino suspendido, olivos al fondo. Luz: cálida
+del atardecer, un poco más dramática. Audio: su voz (español latino, lip-sync) "Aquí las pistas
+dejan de ser suposiciones y se vuelven piedra. Literalmente."; silencio con brisa tenue. Emoción:
+seria, fascinada. Ritmo lento y solemne, 8 s, sin cortes. Estilo: estética de cámara de cine digital
+tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---
 
-## 🟢 MOMENTO 6 — DESPEDIDA + CTA (anochecer, casa iluminada detrás)
-*(Va al final, después del clip #186 del desglose.)*
+## 🟢 MOMENTO 3 — GIRO A LAS HERMANAS (patio) · va tras el clip #112 del desglose
 
-**E9 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+### E4 (8s) · línea EXACTA (14 palabras)
+🗣️ *"Una casa no es solo piedra y aceite. Una casa la hacen las personas."*
+🖼️ PROMPT DE IMAGEN:
 ```
-Plano medio, ligero travelling. Elara (chaqueta verde oliva) de pie ante la casa de Betania con las
-ventanas cálidamente iluminadas al anochecer; plantea una pregunta a cámara con gesto abierto e
-invitador. Entorno: aldea en penumbra azulada, luz cálida saliendo de la casa. Luz: mezcla cálida y
-azul de anochecer. Actuación: cercana, invita a responder. Audio (voz latina de Elara, lip-sync):
-"Si pudieras pasar un día en esta casa, ¿dónde te quedarías: en la sala escuchando a Jesús, en la
-cocina con Marta, o en el patio con María? Cuéntamelo en los comentarios." Grillos y brisa. 8 s, sin
-cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin marcas de agua, sin rostros deformes.]
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) de pie en el patio interior de la casa, junto
+a la higuera y la cisterna de piedra, macetones de hierbas alrededor; abre las manos señalando el
+hogar y mira a cámara con calidez. Luz dorada filtrándose. Fotorrealismo cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+🎬 PROMPT DE VIDEO (7 capas):
+```
+Plano medio, lente 35 mm, leve travelling con gimbal en el patio; Elara (chaqueta verde oliva).
+Acción beat a beat: pasea la mirada por el patio, señala con calidez la higuera y la cisterna, se
+gira a cámara y sonríe con ternura. Ambiente: hojas de la higuera mecidas, luz filtrándose, aves.
+Luz: dorada cálida. Audio: su voz (español latino, lip-sync) "Una casa no es solo piedra y aceite.
+Una casa la hacen las personas."; brisa y aves de fondo. Emoción: ternura y curiosidad. Ritmo
+pausado, 8 s, sin cortes. Estilo: estética de cámara de cine digital tipo Arri Alexa, óptica
+anamórfica, gradación de largometraje, grano 35 mm sutil y halación suave, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
-**E10 (8s)** · 🧬 Ingredient: foto Elara
-🎬 VIDEO (Flow):
+---
+
+## 🟢 MOMENTO 4 — CTA INTERMEDIO (sala principal) · va tras el clip #142 del desglose
+
+### E5 (8s) · línea EXACTA (11 palabras)
+🗣️ *"Si esta historia te está atrapando, suscríbete y déjame un comentario."*
+🖼️ PROMPT DE IMAGEN:
 ```
-Primer plano, push-in final cálido. Elara (chaqueta verde oliva) se despide con una sonrisa serena
-y misteriosa, la casa iluminada y el cielo estrellado de Betania detrás. Luz: cálida dorada. Actuación:
-despedida cálida e intrigante. Audio (voz latina de Elara, lip-sync): "Y si quieres seguir caminando
-conmigo por los mundos que el tiempo casi borra, suscríbete a Elara Historiadora. Porque la próxima
-puerta que vamos a abrir… te va a sorprender." Brisa nocturna. (En CapCut: logo ELARA + "Suscríbete".)
-8 s, sin cortes, fotorrealismo cinematográfico 8K.
-[NEGATIVO: sin elementos modernos, sin cruces ni halos, sin marcas de agua, sin rostros deformes.]
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) de pie en la sala de recepción de una casa
+acomodada, columna de madera y tapices de lana teñida detrás, lámparas de bronce; mira a cámara con
+cercanía y gesto de invitación. Luz dorada de tarde por una ventana. Fotorrealismo cinematográfico, 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+🎬 PROMPT DE VIDEO (7 capas):
+```
+Plano medio, lente 50 mm, push-in muy suave hacia Elara (chaqueta verde oliva) en la sala de
+recepción. Acción beat a beat: habla a cámara con cercanía, hace un pequeño gesto de invitación con
+la mano al decir "suscríbete", sonríe cómplice. Ambiente: llama de las lámparas temblando, motas de
+polvo en el haz de luz. Luz: dorada cálida de tarde. Audio: su voz (español latino, lip-sync) "Si
+esta historia te está atrapando, suscríbete y déjame un comentario."; ambiente hogareño suave.
+Emoción: entusiasta y cómplice. Ritmo natural, 8 s, sin cortes. Estilo: estética de cámara de cine
+digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+
+---
+
+## 🟢 MOMENTO 5 — REFLEXIÓN (patio al anochecer / interior) · va tras el clip #166 del desglose
+
+### E6 (8s) · línea EXACTA (15 palabras)
+🗣️ *"Vine a buscar la riqueza de Lázaro. Pero lo que me quedó no fue esa."*
+🖼️ PROMPT DE IMAGEN:
+```
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) en el patio al anochecer, la higuera y la
+cisterna en penumbra, cielo azul profundo del crepúsculo; mira a cámara pensativa. Luz cálida de
+lámparas mezclada con el azul del anochecer. Fotorrealismo cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+🎬 PROMPT DE VIDEO (7 capas):
+```
+Plano medio, lente 50 mm, push-in lento hacia Elara (chaqueta verde oliva) en el patio al anochecer.
+Acción beat a beat: baja un instante la mirada, la levanta a cámara y habla reflexiva, casi conmovida.
+Ambiente: grillos, brisa nocturna, llama de una lámpara cercana. Luz: cálida de lámparas contra el
+azul del crepúsculo (clave baja). Audio: su voz (español latino, lip-sync) "Vine a buscar la riqueza
+de Lázaro. Pero lo que me quedó no fue esa."; grillos suaves. Emoción: reflexiva, íntima. Ritmo
+lento, 8 s, sin cortes. Estilo: estética de cámara de cine digital tipo Arri Alexa, óptica anamórfica,
+gradación de largometraje, grano 35 mm sutil y halación suave, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+
+### E7 (8s) · línea EXACTA (11 palabras)
+🗣️ *"El Evangelio no dice que lo conociera. Dice que lo amaba."*
+🖼️ PROMPT DE IMAGEN:
+```
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) dentro de la casa iluminada por lámparas de
+aceite, primer plano medio, emoción contenida, mira a cámara. Luz cálida dorada íntima, fondo en
+penumbra suave. Fotorrealismo cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+🎬 PROMPT DE VIDEO (7 capas):
+```
+Primer plano, lente 85 mm (retrato), push-in muy suave a Elara (chaqueta verde oliva) dentro de la
+casa. Acción beat a beat: mira a cámara con emoción sincera, un leve gesto al recalcar "lo amaba".
+Ambiente: leve crepitar de una lámpara, penumbra cálida. Luz: dorada íntima, chiaroscuro suave.
+Audio: su voz (español latino, lip-sync) "El Evangelio no dice que lo conociera. Dice que lo amaba.";
+silencio íntimo. Emoción: ternura contenida. Ritmo lento, 8 s, sin cortes. Estilo: estética de cámara
+de cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil,
+halación suave, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+
+### E8 (8s) · línea EXACTA (14 palabras)
+🗣️ *"Frente a su tumba está el versículo más corto de la Biblia: Jesús lloró."*
+🖼️ PROMPT DE IMAGEN:
+```
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) en primer plano medio dentro de la casa
+iluminada por lámparas, expresión de emoción serena, mira a cámara. Luz cálida dorada muy suave,
+sombras profundas. Fotorrealismo cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+🎬 PROMPT DE VIDEO (7 capas):
+```
+Primer plano, lente 85 mm, cámara casi fija con micro push-in a Elara (chaqueta verde oliva). Acción
+beat a beat: hace una breve pausa, mira a cámara y pronuncia con delicadeza "Jesús lloró", conteniendo
+la emoción. Ambiente: silencio, leve crepitar de lámpara. Luz: dorada íntima, clave baja. Audio: su
+voz (español latino, lip-sync) "Frente a su tumba está el versículo más corto de la Biblia: Jesús
+lloró."; silencio emotivo. Emoción: solemne y tierna. Ritmo muy lento, 8 s, sin cortes. Estilo:
+estética de cámara de cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje,
+grano 35 mm sutil, halación suave, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+
+---
+
+## 🟢 MOMENTO 6 — DESPEDIDA + CTA (anochecer, casa iluminada) · va tras el clip #186 del desglose
+
+### E9 (8s) · línea EXACTA (18 palabras)
+🗣️ *"¿Un día en esta casa? ¿La sala con Jesús, la cocina con Marta o el patio con María?"*
+🖼️ PROMPT DE IMAGEN:
+```
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) ante la casa de Betania con las ventanas
+cálidamente iluminadas al anochecer, aldea en penumbra azulada; gesto abierto e invitador mirando a
+cámara. Mezcla de luz cálida y azul de anochecer. Fotorrealismo cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+🎬 PROMPT DE VIDEO (7 capas):
+```
+Plano medio, lente 35 mm, leve travelling con gimbal; Elara (chaqueta verde oliva) ante la casa
+iluminada. Acción beat a beat: abre las manos planteando la pregunta a cámara, cuenta con los dedos
+las tres opciones, sonríe invitando a responder. Ambiente: grillos, brisa, luz cálida saliendo de las
+ventanas. Luz: mezcla cálida y azul del anochecer. Audio: su voz (español latino, lip-sync) "¿Un día
+en esta casa? ¿La sala con Jesús, la cocina con Marta o el patio con María?"; grillos de fondo.
+Emoción: cercana, invita a comentar. Ritmo natural, 8 s, sin cortes. Estilo: estética de cámara de
+cine digital tipo Arri Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+
+### E10 (8s) · línea EXACTA (13 palabras)
+🗣️ *"Suscríbete a Elara Historiadora. La próxima puerta que abramos te va a sorprender."*
+🖼️ PROMPT DE IMAGEN:
+```
+Betania, Judea, siglo I. Elara (chaqueta verde oliva) en primer plano medio, sonrisa serena y algo
+misteriosa, la casa iluminada y un cielo estrellado detrás. Luz cálida dorada. Fotorrealismo
+cinematográfico, 8K, gran detalle.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
+```
+🎬 PROMPT DE VIDEO (7 capas):
+```
+Primer plano, lente 85 mm, push-in final cálido a Elara (chaqueta verde oliva). Acción beat a beat:
+se despide con una sonrisa serena y misteriosa, leve asentimiento. Ambiente: cielo estrellado, casa
+iluminada al fondo, brisa nocturna. Luz: cálida dorada, práctica de las lámparas. Audio: su voz
+(español latino, lip-sync) "Suscríbete a Elara Historiadora. La próxima puerta que abramos te va a
+sorprender."; brisa nocturna suave. Emoción: cálida e intrigante. Ritmo pausado, 8 s, sin cortes.
+(En CapCut: rótulo "Suscríbete" + logo ELARA.) Estilo: estética de cámara de cine digital tipo Arri
+Alexa, óptica anamórfica, gradación de largometraje, grano 35 mm sutil, halación suave, fotorrealista 8K.
+```
+Negativo:
+```
+sin elementos modernos fuera de lugar (autos, móviles, cables), sin logotipos, sin texto, sin marcas de agua, sin cruces ni halos, sin cúpulas islámicas en Jerusalén, sin edificios modernos, sin gafas de sol, sin rostros ni manos deformes.
 ```
 
 ---
 
 ## 📊 NOTA DE MONTAJE
-- **10 clips de Elara** (E1–E10) insertados en 6 posiciones del desglose: tras #8 (E1–E2),
-  tras #86 (E3–E4), tras #112 (E5), tras #142 (E6), tras #166 (E7–E8) y al final (E9–E10).
-- Sube SIEMPRE `elara-avatar-referencia.jpg` como Ingredient para la consistencia de su cara.
-- Si prefieres poner la voz aparte en CapCut, quita la línea "Audio (voz latina…)" y deja solo el
-  ambiente; luego sincroniza la voz en off en edición.
-- Elara habla SIEMPRE en español latino neutro, igual que la narración.
+- **10 clips de Elara** (E1–E10), todos ≤ 18 palabras (caben en 8 s) y con **línea LITERAL** del guion.
+- Posiciones: tras #8 (E1–E2), tras #86 (E3), tras #112 (E4), tras #142 (E5), tras #166 (E6–E8), final (E9–E10).
+- Lo que sigue a cada línea a cámara continúa en **voz en off** sobre la reconstrucción (ver guion limpio).
+- Sube SIEMPRE `elara-avatar-referencia.jpg` como 🧬 Ingredient para la consistencia de su cara.
+- Si prefieres poner la voz aparte en CapCut, quita la línea "Audio: su voz…" y sincroniza en edición.

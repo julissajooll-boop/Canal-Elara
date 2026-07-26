@@ -57,3 +57,29 @@ Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y em
 - NO poner el negativo en un bloque de código separado debajo del prompt (esa forma antigua queda
   anulada por preferencia de la usuaria). Un clip = 2 bloques copiables (imagen y video), cada uno
   con su negativo incluido al final.
+
+
+## 🧬 7. IMÁGENES DE REFERENCIA DE PERSONAJES (Ingredient de Flow) — OBLIGATORIO
+Todo PERSONAJE que aparezca en MÁS DE UN clip debe tener **una imagen de referencia fija** (un
+retrato) para mantener el mismo rostro, peinado, tocado/corona y vestuario en TODO el video.
+
+**Flujo obligatorio (aplicar SIEMPRE):**
+1. Generar PRIMERO el retrato de cada personaje recurrente (3-4 versiones, elegir 1).
+2. Guardarlo (ej. `ref-<nombre>.jpg`) y subirlo como 🧬 **Ingredient / referencia de personaje**
+   en Flow en TODOS los clips donde aparezca ese personaje.
+3. El retrato de referencia se genera con: fondo neutro y sencillo, iluminación suave de estudio,
+   vista frontal y de 3/4, expresión neutra, rostro nítido y consistente (+ anclaje histórico,
+   vestuario de época y negativo, todo dentro del mismo bloque, según la regla 6.1).
+
+**Al entregar el paquete de un guion, incluir SIEMPRE un archivo `*-personajes-referencia.md`** que
+liste: qué personajes necesitan referencia, su prompt de retrato y **en qué números de clip** se sube
+como Ingredient.
+
+**Quién SÍ necesita referencia:** protagonistas y personajes históricos recurrentes (los que salen en
+≥2 clips) y la presentadora Elara (que ya tiene `elara-avatar-referencia.jpg`).
+
+**Quién NO necesita referencia:**
+- Extras y multitudes (sirvientes, soldados, mercaderes, peregrinos, dolientes, sacerdotes de fondo…):
+  pueden salir distintos en cada clip sin romper la continuidad.
+- Figuras sagradas cuyo rostro NO se muestra (p. ej. Jesús): no se genera referencia; se filman de
+  espaldas, de perfil lejano o fuera de foco, sin halos ni cruces (anacrónicos según la época).

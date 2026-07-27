@@ -21,9 +21,12 @@
 ---
 
 ## 🧔 LÁZARO — retrato de referencia
-**Recurre en (súbelo como Ingredient en estos clips):** #4, #101, #102, #103, #104 (oración, tzitzit),
-#138 (negocio/almacén), #155, #156, #157, #158, #159 (cena y reclinado), #163, #164 (resucitado, vivo),
-#135, #137, #141, #175 (los tres hermanos). También clips E3 se ubica junto a su tumba (sin él en cuadro).
+**Recurre en (súbelo como Ingredient en estos clips):** #4 (retrato),
+**#41 (observando la ruta comercial)**, #101, #102, #104 (oración, tzitzit), #138 (negocio/almacén),
+#156, #157, #158, #159 (cena y reclinado), #163, #164 (resucitado, vivo), #135, #137, #141, #175
+(los tres hermanos). **En planos de grupo** (#122, #155, #180) su cara sale pequeña: usa la referencia
+si quieres, pero no es imprescindible. En #6, #32, #64, #172 solo se ven objetos/casa (sin su cara).
+En E3 Elara está junto a su tumba (Lázaro no aparece en cuadro).
 
 🖼️ PROMPT DE IMAGEN (retrato de referencia):
 ```

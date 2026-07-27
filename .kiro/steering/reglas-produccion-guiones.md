@@ -49,3 +49,56 @@ Cada clip del guion gráfico se entrega SIEMPRE con:
 1. **PROMPT DE IMAGEN** completo (anclaje + escena + estilo + negativo).
 2. **PROMPT DE VIDEO** (movimiento de cámara y acción), aunque sea imagen con Ken Burns.
 Prompts ricos y variados: definir encuadre, óptica, luz, atmósfera, color y emoción.
+
+### 🚫 6.1 El NEGATIVO va DENTRO del mismo bloque (no aparte)
+- El prompt negativo se escribe **DENTRO del mismo bloque de código** del prompt de imagen y,
+  otra vez, **DENTRO del mismo bloque** del prompt de video, como última línea con la etiqueta
+  `Negativo: ...`. Así cada bloque se copia de UNA sola vez, completo.
+- NO poner el negativo en un bloque de código separado debajo del prompt (esa forma antigua queda
+  anulada por preferencia de la usuaria). Un clip = 2 bloques copiables (imagen y video), cada uno
+  con su negativo incluido al final.
+
+
+## 🧬 7. IMÁGENES DE REFERENCIA DE PERSONAJES (Ingredient de Flow) — OBLIGATORIO
+Todo PERSONAJE que aparezca en MÁS DE UN clip debe tener **una imagen de referencia fija** (un
+retrato) para mantener el mismo rostro, peinado, tocado/corona y vestuario en TODO el video.
+
+**Flujo obligatorio (aplicar SIEMPRE):**
+1. Generar PRIMERO el retrato de cada personaje recurrente (3-4 versiones, elegir 1).
+2. Guardarlo (ej. `ref-<nombre>.jpg`) y subirlo como 🧬 **Ingredient / referencia de personaje**
+   en Flow en TODOS los clips donde aparezca ese personaje.
+3. El retrato de referencia se genera con: fondo neutro y sencillo, iluminación suave de estudio,
+   vista frontal y de 3/4, expresión neutra, rostro nítido y consistente (+ anclaje histórico,
+   vestuario de época y negativo, todo dentro del mismo bloque, según la regla 6.1).
+
+**Al entregar el paquete de un guion, incluir SIEMPRE un archivo `*-personajes-referencia.md`** que
+liste: qué personajes necesitan referencia, su prompt de retrato y **en qué números de clip** se sube
+como Ingredient.
+
+**Quién SÍ necesita referencia:** protagonistas y personajes históricos recurrentes (los que salen en
+≥2 clips) y la presentadora Elara (que ya tiene `elara-avatar-referencia.jpg`).
+
+**Quién NO necesita referencia:**
+- Extras y multitudes (sirvientes, soldados, mercaderes, peregrinos, dolientes, sacerdotes de fondo…):
+  pueden salir distintos en cada clip sin romper la continuidad.
+- Figuras sagradas cuyo rostro NO se muestra (p. ej. Jesús): no se genera referencia; se filman de
+  espaldas, de perfil lejano o fuera de foco, sin halos ni cruces (anacrónicos según la época).
+
+
+## 👗 8. VESTUARIO DE ELARA (coherencia de marca) — OBLIGATORIO
+Elara es SIEMPRE la misma presentadora: **misma cara** (Ingredient `elara-avatar-referencia.jpg`) y
+**misma voz** (español latino neutro). Lo único que cambia entre videos es el COLOR de su vestuario.
+
+**Reglas del vestuario:**
+- Mantener SIEMPRE el mismo estilo de **exploradora / presentadora moderna** (blusa + chaqueta tipo
+  explorador + pantalón + botas). Nunca ropa de época: es una presentadora actual observando el pasado.
+- Cada guion usa **un color de chaqueta distinto y reconocible**, elegido para: (a) tener relación
+  temática con el tema y (b) **contrastar con la paleta del escenario** para que Elara resalte en la
+  miniatura. Ej.: Egipto = azul · Isla de Pascua = mostaza · Pompeya = marrón + burdeos ·
+  Betania/Lázaro = verde oliva (guiño al olivar).
+- Registrar SIEMPRE el vestuario del guion en `elara-vestuarios-por-guion.md`: entrada nueva con la
+  tabla de prendas + un **prompt de vestuario listo para copiar** + fila en la tabla resumen de colores.
+- La **imagen base de Elara** de ese guion (fotograma inicial de sus clips) se genera con ese vestuario
+  y su cara de referencia; se reutiliza como Ingredient en todos sus clips (E1…En).
+- Al entregar el paquete de un guion, incluir SIEMPRE la entrada de vestuario actualizada (no dejarla
+  para después).

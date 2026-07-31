@@ -202,3 +202,30 @@ de exploradora que en los otros videos pero en color rojo carmín con acento dor
 | La Atlántida | Chaqueta coral + pañuelo azul marino |
 | Egipto (Pirámides de Giza) | Chaqueta turquesa faience + dorado |
 | Caral | Chaqueta rojo cochinilla/carmín + acento dorado |
+
+
+---
+
+## 🗿 GÖBEKLI TEPE — "Exploradora" (mismo estilo, color azul pizarra + acento ocre/piedra)
+**Ambiente:** colinas doradas del sudeste de Turquía, pilares de piedra caliza, amanecer.
+**Objetivo del look:** MISMO estilo de exploradora, en **azul pizarra (slate)** para resaltar sobre
+el dorado de las colinas, con **acento ocre/piedra**.
+
+**Prompt de vestuario (Göbekli Tepe):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta azul pizarra (slate) de
+exploradora, pañuelo color ocre piedra al cuello, pantalón caqui claro, botas de cuero. Mismo estilo
+de exploradora que en los otros videos pero en color azul pizarra con acento ocre.
+```
+
+### Tabla actualizada de colores por proyecto (completa)
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Marrón + burdeos |
+| Egipto (Deir el-Medina) | Azul |
+| Isla de Pascua | Mostaza |
+| Tenochtitlán | Terracota + turquesa |
+| La Atlántida | Coral + azul marino |
+| Egipto (Pirámides de Giza) | Turquesa faience + dorado |
+| Caral | Rojo cochinilla/carmín + dorado |
+| Göbekli Tepe | Azul pizarra + acento ocre/piedra |

@@ -176,3 +176,84 @@ de exploradora que en los otros videos pero en color turquesa con acento dorado.
 | Tenochtitlán | Blusa blanca + chaqueta terracota + pañuelo turquesa |
 | La Atlántida | Blusa blanca + chaqueta coral + pañuelo azul marino |
 | Egipto (Pirámides de Giza) | Blusa blanca + chaqueta turquesa faience + acento dorado |
+
+
+---
+
+## 🌎 CARAL — "Exploradora" (mismo estilo, color rojo cochinilla / carmín andino + dorado)
+**Ambiente:** valle desértico del Perú, cerros ocre, franja verde del río, pirámides de piedra y barro.
+**Objetivo del look:** MISMO estilo de exploradora, en **rojo cochinilla / carmín** (el tinte andino
+más famoso) para resaltar sobre el ocre del desierto, con **acento dorado**.
+
+**Prompt de vestuario (Caral):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta rojo cochinilla color carmín
+andino de exploradora, pañuelo dorado al cuello, pantalón caqui claro, botas de cuero. Mismo estilo
+de exploradora que en los otros videos pero en color rojo carmín con acento dorado.
+```
+
+### Tabla actualizada de colores por proyecto (completa)
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Chaqueta marrón + pañuelo burdeos |
+| Egipto (Deir el-Medina) | Chaqueta azul |
+| Isla de Pascua | Chaqueta mostaza |
+| Tenochtitlán | Chaqueta terracota + pañuelo turquesa |
+| La Atlántida | Chaqueta coral + pañuelo azul marino |
+| Egipto (Pirámides de Giza) | Chaqueta turquesa faience + dorado |
+| Caral | Chaqueta rojo cochinilla/carmín + acento dorado |
+
+
+---
+
+## 🗿 GÖBEKLI TEPE — "Exploradora" (mismo estilo, color azul pizarra + acento ocre/piedra)
+**Ambiente:** colinas doradas del sudeste de Turquía, pilares de piedra caliza, amanecer.
+**Objetivo del look:** MISMO estilo de exploradora, en **azul pizarra (slate)** para resaltar sobre
+el dorado de las colinas, con **acento ocre/piedra**.
+
+**Prompt de vestuario (Göbekli Tepe):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta azul pizarra (slate) de
+exploradora, pañuelo color ocre piedra al cuello, pantalón caqui claro, botas de cuero. Mismo estilo
+de exploradora que en los otros videos pero en color azul pizarra con acento ocre.
+```
+
+### Tabla actualizada de colores por proyecto (completa)
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Marrón + burdeos |
+| Egipto (Deir el-Medina) | Azul |
+| Isla de Pascua | Mostaza |
+| Tenochtitlán | Terracota + turquesa |
+| La Atlántida | Coral + azul marino |
+| Egipto (Pirámides de Giza) | Turquesa faience + dorado |
+| Caral | Rojo cochinilla/carmín + dorado |
+| Göbekli Tepe | Azul pizarra + acento ocre/piedra |
+
+
+---
+
+## 🌍 IMPERIO DE MALÍ / MANSA MUSA — "Exploradora" (mismo estilo, color azul índigo/añil + dorado)
+**Ambiente:** Sahel y Sahara, arena dorada, arquitectura de barro ocre, oro, río Níger.
+**Objetivo del look:** MISMO estilo de exploradora, en **azul índigo (añil)** —el color de los tuareg,
+"los hombres azules del desierto"— para resaltar sobre la arena dorada, con **acento dorado** (el oro de Malí).
+
+**Prompt de vestuario (Malí):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta azul índigo (añil, azul
+tuareg) de exploradora, pañuelo dorado al cuello, pantalón caqui claro, botas de cuero. Mismo estilo
+de exploradora que en los otros videos pero en color azul índigo con acento dorado.
+```
+
+### Tabla actualizada de colores por proyecto (completa)
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Marrón + burdeos |
+| Egipto (Deir el-Medina) | Azul |
+| Isla de Pascua | Mostaza |
+| Tenochtitlán | Terracota + turquesa |
+| La Atlántida | Coral + azul marino |
+| Egipto (Pirámides de Giza) | Turquesa faience + dorado |
+| Caral | Rojo cochinilla/carmín + dorado |
+| Göbekli Tepe | Azul pizarra + ocre |
+| Imperio de Malí | Azul índigo (añil) + acento dorado |

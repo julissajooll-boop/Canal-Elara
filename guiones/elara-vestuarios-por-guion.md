@@ -151,3 +151,28 @@ exploradora que en los otros videos pero en color coral con acento azul marino.
 | Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
 | Tenochtitlán | Blusa blanca + chaqueta terracota + pañuelo turquesa |
 | La Atlántida | Blusa blanca + chaqueta coral + pañuelo azul marino |
+
+
+---
+
+## 🐫 EGIPTO · PIRÁMIDES DE GIZA — "Exploradora" (mismo estilo, color turquesa faience + dorado)
+**Ambiente:** desierto de Guiza, arena dorada, cielo azul, piedra caliza. (Video DISTINTO al de Deir el-Medina.)
+**Objetivo del look:** MISMO estilo de exploradora, en **turquesa (faience egipcia)** para resaltar
+sobre la arena dorada, con **acento dorado** (oro faraónico). Se diferencia del azul de Deir el-Medina.
+
+**Prompt de vestuario (Giza):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta turquesa color faience
+egipcia de exploradora, pañuelo dorado al cuello, pantalón caqui claro, botas de cuero. Mismo estilo
+de exploradora que en los otros videos pero en color turquesa con acento dorado.
+```
+
+### Tabla actualizada de colores por proyecto (completa)
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Chaqueta marrón + pañuelo burdeos |
+| Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
+| Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+| Tenochtitlán | Blusa blanca + chaqueta terracota + pañuelo turquesa |
+| La Atlántida | Blusa blanca + chaqueta coral + pañuelo azul marino |
+| Egipto (Pirámides de Giza) | Blusa blanca + chaqueta turquesa faience + acento dorado |

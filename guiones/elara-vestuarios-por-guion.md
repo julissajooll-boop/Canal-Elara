@@ -229,3 +229,31 @@ de exploradora que en los otros videos pero en color azul pizarra con acento ocr
 | Egipto (Pirámides de Giza) | Turquesa faience + dorado |
 | Caral | Rojo cochinilla/carmín + dorado |
 | Göbekli Tepe | Azul pizarra + acento ocre/piedra |
+
+
+---
+
+## 🌍 IMPERIO DE MALÍ / MANSA MUSA — "Exploradora" (mismo estilo, color azul índigo/añil + dorado)
+**Ambiente:** Sahel y Sahara, arena dorada, arquitectura de barro ocre, oro, río Níger.
+**Objetivo del look:** MISMO estilo de exploradora, en **azul índigo (añil)** —el color de los tuareg,
+"los hombres azules del desierto"— para resaltar sobre la arena dorada, con **acento dorado** (el oro de Malí).
+
+**Prompt de vestuario (Malí):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta azul índigo (añil, azul
+tuareg) de exploradora, pañuelo dorado al cuello, pantalón caqui claro, botas de cuero. Mismo estilo
+de exploradora que en los otros videos pero en color azul índigo con acento dorado.
+```
+
+### Tabla actualizada de colores por proyecto (completa)
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Marrón + burdeos |
+| Egipto (Deir el-Medina) | Azul |
+| Isla de Pascua | Mostaza |
+| Tenochtitlán | Terracota + turquesa |
+| La Atlántida | Coral + azul marino |
+| Egipto (Pirámides de Giza) | Turquesa faience + dorado |
+| Caral | Rojo cochinilla/carmín + dorado |
+| Göbekli Tepe | Azul pizarra + ocre |
+| Imperio de Malí | Azul índigo (añil) + acento dorado |

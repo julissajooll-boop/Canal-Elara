@@ -59,6 +59,8 @@ Sobre esas chinampas plantaron maíz, frijol, chile, calabaza, flores. Y como es
 
 Y como no tenían piedra ni buena madera en la isla, comerciaban. Como estaban rodeados de agua, se hicieron expertos en canoas. Como los rodeaban pueblos más poderosos, aprendieron a ser mejores guerreros, mejores diplomáticos, más astutos. Poco a poco, en menos de doscientos años, aquellos parias sin tierra pasaron de servir a otros a mandar sobre ellos.
 
+Pero el camino no fue ni fácil ni bonito. Hubo un tiempo en que los mexicas sobrevivieron como mercenarios, peleando las guerras de la poderosa ciudad de Culhuacán a cambio de que los dejaran quedarse en sus tierras. Eran tan feroces y tan eficaces en el combate que, poco a poco, en lugar de agradecimiento, empezaron a provocar miedo. Y el miedo terminó en un nuevo rechazo: otra vez fueron expulsados, empujados de nuevo hacia el agua, hacia los cañaverales que nadie quería. Piénsalo un momento: fue precisamente esa última humillación la que los arrastró hasta aquel islote perdido donde, según su historia, vieron el águila. A veces el rechazo más duro es el que te empuja, sin que lo sepas, justo hacia tu destino.
+
 Se aliaron con otras dos ciudades del lago, formaron lo que hoy llamamos la Triple Alianza, y salieron a conquistar. Cobraban tributo a decenas de pueblos: mantas, cacao, oro, plumas, alimento, todo fluía hacia la isla. Y con esa riqueza, la humilde aldea del pantano se transformó en una capital deslumbrante.
 
 De un islote de barro… a la joya del Valle de México. Ahora ven conmigo a caminar por ella en su mejor momento.
@@ -72,6 +74,8 @@ De un islote de barro… a la joya del Valle de México. Ahora ven conmigo a cam
 Para entrar a Tenochtitlán no había que cruzar murallas ni puertas de piedra como en Europa. Había que cruzar el agua.
 
 Tres grandes calzadas conectaban la isla con la tierra firme: una hacia el norte, otra hacia el poniente, y otra hacia el sur. Eran caminos anchos, rectos, levantados sobre el lago, tan amplios que —según contaron los propios españoles— podían pasar varios jinetes uno al lado del otro. Y en esas calzadas había cortes, puentes de madera que se podían quitar. Piénsalo: la ciudad podía aislarse del mundo simplemente retirando unos puentes. Era una fortaleza rodeada de agua.
+
+Y todo estaba increíblemente limpio. Acostumbrados a las calles embarradas de Europa, los españoles no entendían cómo una ciudad tan enorme podía oler tan bien. El aire, a esa altura y sobre el agua, era fresco y transparente. Para quien llegaba por primera vez, cruzar aquella calzada recta, con el lago cubierto de canoas a ambos lados y los templos blancos brillando al frente, debía sentirse como entrar caminando dentro de un sueño del que no querías despertar.
 
 Mientras caminabas por la calzada, a los lados veías el lago cubierto de canoas. Miles de canoas. Porque dentro de la ciudad, muchas calles no eran de tierra: eran de agua. Canales por los que la gente se movía remando, transportando comida, mercancías, personas. Por eso, cuando los europeos la vieron, muchos la compararon con Venecia. Pero esta era más grande, y estaba al otro lado del mundo, levantada por manos que nunca habían visto Europa.
 
@@ -92,6 +96,8 @@ Los españoles no daban crédito. Bernal Díaz del Castillo escribió que alguno
 Y todo estaba organizado por secciones, como los grandes mercados de hoy. En una zona, el oro, la plata y las piedras verdes. En otra, las plumas de colores, tan valiosas que se pagaban fortunas por ellas. Más allá, el cacao, que servía además como moneda: sí, en Tenochtitlán se podía pagar con semillas de cacao. Había una sección de esclavos, otra de telas de algodón, otra de sandalias, otra de hierbas medicinales, de miel, de pescado, de aves, de barro, de leña, de sal. Había puestos de comida caliente. Había hasta un tribunal dentro del mercado, con jueces que resolvían las disputas ahí mismo.
 
 Todo lo que un imperio producía terminaba pasando por aquel lugar. Era el corazón económico del mundo mexica latiendo a plena luz del día.
+
+Y cierra los ojos un segundo e imagina el ruido de ese lugar: miles de voces regateando en náhuatl, el olor del copal y de las tortillas recién hechas en el comal, montañas de tomates rojos, aguacates, vainilla, amaranto, calabazas, frijol y chiles de todos los colores. Guajolotes vivos, pescado fresco del lago, ranas, insectos comestibles, miel de maguey. Vendedores gritando sus precios, cargadores abriéndose paso, el humo de los braseros subiendo entre la multitud. No era un mercado silencioso: era una ciudad entera comiendo, negociando y viviendo al mismo tiempo. Muchos de esos sabores, hoy, siguen en tu mesa sin que lo sepas.
 
 ### El recinto sagrado y el Templo Mayor
 
@@ -118,6 +124,14 @@ Pero Tenochtitlán no era solo templos y sangre. Era, sobre todo, una ciudad viv
 Estaba dividida en cuatro grandes barrios, y estos a su vez en muchos barrios menores, los calpulli, donde vivían familias que compartían oficio, tierras y templo propio. Había una limpieza que asombró a los europeos: calles barridas cada día, cientos de personas dedicadas solo a mantenerla limpia. Había baños de vapor, el temazcal, donde la gente se purificaba el cuerpo y el espíritu. Había letrinas públicas, y hasta recogían los desechos para usarlos como abono en las chinampas. Mientras en muchas ciudades europeas la basura corría por las calles, aquí había un sistema.
 
 Y había escuelas para todos. Esto es notable: prácticamente todos los niños mexicas iban a la escuela. Los hijos de los nobles al calmécac, donde aprendían religión, historia, astronomía, la lectura de los códices y el arte de gobernar. Y los hijos del pueblo al telpochcalli, donde se formaban como guerreros y ciudadanos. Una sociedad entera educando a sus hijos, hace quinientos años, en una isla en medio de un lago.
+
+### Un día en la ciudad
+
+Déjame que te lleve por un día cualquiera. Antes del amanecer, el humo de miles de fogones sube sobre los tejados mientras las mujeres muelen el maíz para las tortillas del día. Las canoas ya se deslizan por los canales cargadas de flores y verduras rumbo al mercado. En las escuelas, los niños repiten los cantos y las cuentas del calendario. En las chinampas, los agricultores hunden los pies en el barro fértil. Suena, a lo lejos, el tambor grave desde el templo, marcando el ritmo de la ciudad. Y por las calzadas entran, sin parar, cargadores con el tributo de medio imperio. Todo funciona, todo encaja, como un enorme organismo vivo sobre el agua.
+
+### Arte, estrellas y poesía
+
+Y esta gente no solo trabajaba y rezaba: creaba belleza. Los artesanos que llamaban amantecas tejían mosaicos con miles de plumas diminutas de colores, tan finos que parecen pintados; hoy los pocos que se conservan se guardan como tesoros. Sus sacerdotes eran también astrónomos: leían el cielo, seguían a los planetas y ajustaban dos calendarios a la vez, uno solar y uno sagrado, con una precisión asombrosa. Y tenían poesía. En la vecina Texcoco, el rey sabio Nezahualcóyotl escribía versos sobre lo breve de la vida y lo efímero de las flores. "¿Acaso de verdad se vive en la tierra? No para siempre aquí: solo un poco aquí", decía. Un imperio de guerreros que, al mismo tiempo, le escribía poemas a la fragilidad de la existencia.
 
 ### El palacio de Moctezuma
 
@@ -167,13 +181,15 @@ Cortés no se rindió. Se reorganizó con sus aliados indígenas, y volvió con 
 
 Mandó construir trece barcos, bergantines, y los botó sobre el lago. Con ellos dominó el agua, hundió las canoas mexicas y cortó las calzadas. Después cortó el acueducto de Chapultepec, dejando a la ciudad sin agua dulce. Y estranguló toda la comida que entraba. Tenochtitlán, la ciudad que había domesticado el lago, quedó ahora atrapada por ese mismo lago.
 
-El asedio duró unos ochenta días, en la primavera y el verano de 1521. Y fue atroz. Dentro de la ciudad, la gente empezó a morir de hambre y de sed. Bebían agua salobre, comían lo que encontraban. La viruela seguía matando. Y aun así, resistieron. Barrio por barrio, casa por casa, calle por calle. El nuevo y último tlatoani, un joven llamado Cuauhtémoc —cuyo nombre significa "águila que desciende"— dirigió una resistencia desesperada y valiente hasta el final.
+El asedio duró unos ochenta días, en la primavera y el verano de 1521. Y fue atroz. Dentro de la ciudad, la gente empezó a morir de hambre y de sed. Bebían agua salobre, comían lo que encontraban. La viruela seguía matando. Y aun así, resistieron. Barrio por barrio, casa por casa, calle por calle. Las mujeres pelearon junto a los hombres, subían a las azoteas, lanzaban piedras, curaban heridos y seguían moliendo el poco maíz que quedaba. Los guerreros combatían de día y velaban de noche, sabiendo que ya casi no había comida, ni agua limpia, ni esperanza de refuerzos. Defendían algo más que una ciudad: defendían su mundo entero, su forma de ver el cielo y la tierra, todo lo que sabían que estaba a punto de desaparecer para siempre. Pocas resistencias en la historia han sido tan desesperadas y tan valientes. El nuevo y último tlatoani, un joven llamado Cuauhtémoc —cuyo nombre significa "águila que desciende"— dirigió una resistencia desesperada y valiente hasta el final.
 
 ### El fin
 
 El 13 de agosto de 1521, Cuauhtémoc fue capturado cuando intentaba cruzar el lago en una canoa. Con su captura, la resistencia terminó. Tenochtitlán, la ciudad que había asombrado al mundo, cayó.
 
 Lo que los conquistadores encontraron al entrar ya no era la joya reluciente sobre el agua. Era una ciudad destrozada, llena de escombros, de silencio y de muerte. La ciudad más hermosa que habían visto quedó reducida a ruinas por el hambre, la enfermedad y el fuego.
+
+Nadie sabe con certeza cuántos murieron en aquellos ochenta días. Las cifras que dan las crónicas son escalofriantes: decenas de miles de personas, quizá muchas más, entre el hambre, la viruela y los combates. Cuentan que, cuando por fin cesó el ruido de la batalla, sobre el agua quedó flotando un silencio terrible, roto apenas por el llanto. La ciudad que había sido la más ruidosa y más viva de toda América se quedó, de golpe, muda.
 
 Y entonces empezó el borrado final. Los españoles decidieron construir su propia capital, la Ciudad de México, justo encima. Derribaron los templos y usaron sus piedras para levantar iglesias y palacios. Sobre el Templo Mayor, sobre el corazón sagrado de los mexicas, se fue levantando otra ciudad. Y con el tiempo, desecaron los lagos. El gran espejo de agua que había hecho posible Tenochtitlán fue desapareciendo, hasta quedar casi seco. La ciudad-lago fue enterrada bajo una ciudad de piedra.
 
@@ -184,6 +200,8 @@ Y entonces empezó el borrado final. Los españoles decidieron construir su prop
 Durante siglos, Tenochtitlán quedó dormida bajo las calles. Casi olvidada, reducida a una leyenda. Hasta que, en 1978, unos trabajadores que cavaban cerca de la catedral, en pleno centro de Ciudad de México, se toparon con una enorme piedra tallada. Era una diosa mexica. Habían encontrado, sin querer, el Templo Mayor. La ciudad enterrada volvía a la luz.
 
 Hoy puedes visitar esas ruinas. Puedes pararte frente a los cimientos del templo que coronaba el imperio, en medio del ruido del tráfico y las bocinas. Y bajo cada calle de ese centro histórico, sigue ahí, callada, la ciudad sobre el lago.
+
+Y aunque la enterraron, algo de ella sobrevivió en el lugar más inesperado: en nuestra boca. Cada vez que alguien en el mundo dice chocolate, tomate, aguacate, chile o chicle, está usando palabras que vienen del náhuatl, la lengua de los mexicas. Media humanidad come hoy alimentos que crecían en aquellas chinampas. El imperio cayó, los templos se derrumbaron, el lago se secó… pero su comida y sus palabras se repartieron por todo el planeta y siguen vivas. Tenochtitlán perdió la guerra, pero de un modo silencioso, terminó conquistando las mesas del mundo entero.
 
 **[ELARA A CÁMARA]**
 Doscientos mil sueños, un imperio entero, una de las ciudades más asombrosas que jamás existieron… y hoy casi nadie sabe cómo se veía de verdad. Por eso hago esto: para que no la olvidemos. Porque una ciudad no muere del todo mientras alguien la recuerde.

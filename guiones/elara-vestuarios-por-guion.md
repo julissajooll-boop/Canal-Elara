@@ -113,3 +113,41 @@ otros videos pero en color mostaza.
 | Pompeya | Chaqueta marrón + pañuelo burdeos |
 | Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
 | Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+
+
+---
+
+## 🏛️ TENOCHTITLÁN — "Exploradora" (mismo estilo, color terracota + turquesa)
+**Ambiente:** ciudad-lago azteca, verdor de chinampas, agua azul-verde, templos rojo/blanco, oro y turquesa.
+**Objetivo del look:** MISMO estilo de exploradora, en **terracota / rojo teja** para contrastar con
+el verde-azul del lago, con **pañuelo turquesa** (la turquesa era sagrada para los mexicas).
+
+**Prompt de vestuario (Tenochtitlán):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta terracota color rojo teja
+de exploradora, pañuelo turquesa al cuello, pantalón caqui claro, botas de cuero. Mismo estilo de
+exploradora que en los otros videos pero en color terracota con acento turquesa.
+```
+
+---
+
+## 🌊 LA ATLÁNTIDA — "Exploradora" (mismo estilo, color coral + azul marino)
+**Ambiente:** océano profundo, mar Egeo/Mediterráneo, azules y turquesas, ruinas submarinas, oro y bronce.
+**Objetivo del look:** MISMO estilo de exploradora, en **coral / salmón cálido** para resaltar sobre
+el azul dominante del mar, con **pañuelo azul marino** (guiño al océano que la tragó).
+
+**Prompt de vestuario (Atlántida):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta coral color salmón cálido de
+exploradora, pañuelo azul marino al cuello, pantalón caqui claro, botas de cuero. Mismo estilo de
+exploradora que en los otros videos pero en color coral con acento azul marino.
+```
+
+### Tabla actualizada de colores por proyecto (completa)
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Chaqueta marrón + pañuelo burdeos |
+| Egipto (Deir el-Medina) | Blusa blanca + chaqueta azul |
+| Isla de Pascua (Rapa Nui) | Blusa blanca + chaqueta mostaza |
+| Tenochtitlán | Blusa blanca + chaqueta terracota + pañuelo turquesa |
+| La Atlántida | Blusa blanca + chaqueta coral + pañuelo azul marino |

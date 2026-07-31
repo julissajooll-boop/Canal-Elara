@@ -176,3 +176,29 @@ de exploradora que en los otros videos pero en color turquesa con acento dorado.
 | Tenochtitlán | Blusa blanca + chaqueta terracota + pañuelo turquesa |
 | La Atlántida | Blusa blanca + chaqueta coral + pañuelo azul marino |
 | Egipto (Pirámides de Giza) | Blusa blanca + chaqueta turquesa faience + acento dorado |
+
+
+---
+
+## 🌎 CARAL — "Exploradora" (mismo estilo, color rojo cochinilla / carmín andino + dorado)
+**Ambiente:** valle desértico del Perú, cerros ocre, franja verde del río, pirámides de piedra y barro.
+**Objetivo del look:** MISMO estilo de exploradora, en **rojo cochinilla / carmín** (el tinte andino
+más famoso) para resaltar sobre el ocre del desierto, con **acento dorado**.
+
+**Prompt de vestuario (Caral):**
+```
+mujer latina de unos 40 años, pelo largo oscuro, blusa blanca, chaqueta rojo cochinilla color carmín
+andino de exploradora, pañuelo dorado al cuello, pantalón caqui claro, botas de cuero. Mismo estilo
+de exploradora que en los otros videos pero en color rojo carmín con acento dorado.
+```
+
+### Tabla actualizada de colores por proyecto (completa)
+| Guion | Color principal |
+|-------|-----------------|
+| Pompeya | Chaqueta marrón + pañuelo burdeos |
+| Egipto (Deir el-Medina) | Chaqueta azul |
+| Isla de Pascua | Chaqueta mostaza |
+| Tenochtitlán | Chaqueta terracota + pañuelo turquesa |
+| La Atlántida | Chaqueta coral + pañuelo azul marino |
+| Egipto (Pirámides de Giza) | Chaqueta turquesa faience + dorado |
+| Caral | Chaqueta rojo cochinilla/carmín + acento dorado |
